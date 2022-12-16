@@ -32,6 +32,11 @@ remote_theme: just-the-docs/just-the-docs
 # plugins:
 #   - jekyll-feed
 
+nav_external_links:
+  - title: Innovation Case<br>(Blackboard, COMSM0052 only)
+    url: "https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7080423_1&course_id=_252905_1&mode=reset"
+    hide_icon: true
+
 aux_links:
   "Blackboard home page":
     - "https://www.ole.bris.ac.uk/"
