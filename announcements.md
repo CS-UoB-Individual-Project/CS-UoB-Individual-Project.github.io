@@ -15,6 +15,21 @@ Table of contents
 
 # Announcements Page
 
+
+## TB2 Talk Live, Q&A Session, and Library Skills Workshop Next Week
+
+Hi All,
+
+We hope you had a good Christmas break/New Year and your exams went well. You can now find the start of TB2 task online [here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EdIpeT0j8EJCv82wVcju0_oBs0wbX9FNW-kKWEcl8RE8eA?e=K8KpCN), it will give a brief overview of what's happening this term. As mentioned in the video, now is the time to ask your supervisor for a meeting to start discussing and beginning your project.
+
+We have an online Q&A session next week in case you have any questions about this term. This will run the same as last term on Padlet, which you can find [here](https://uob.padlet.org/michaelwray1/t6o997uy3f7wriem).
+
+Additionally, next Wednesday (1st February 15:00 in Pugsley LT, Queens) we will have Victoria Hopton from the Library Services to give a workshop on best practices to find and reference related works within the literature which will be beneficial both starting your project and writing up.
+
+Kind Regards,
+
+Mike
+
 ## Reminder: Project matching day Wednesday!
 
 Hi all,
