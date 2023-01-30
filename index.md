@@ -53,3 +53,8 @@ You can find a link to the teams channel for the unit
 which can be used as a forum to ask questions and find out more information
 about the unit from Lecturers/TAs or fellow classmates.
 If you don't have access, contact John or Michael, details [here](/contact).
+
+
+## Project Code for Blue Crystal
+
+When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: **COSC027924**, not any other codes you may have been given for previous units.

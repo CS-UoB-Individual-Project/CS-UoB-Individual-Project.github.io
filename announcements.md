@@ -15,6 +15,15 @@ Table of contents
 
 # Announcements Page
 
+## Blue Crystal 4 Project Code
+
+Hi All,
+
+For those who are using (or thinking of using) Blue Crystal phase 4 for their project, please be aware that since last Thursday, you now require a project code to submit jobs. You may have been given a project code from a previous unit, but please ensure that you use the project code that has been set up purely for Computer Science Final Year Projects: **COSC027924**.
+
+Thanks,
+
+Mike
 
 ## TB2 Talk Live, Q&A Session, and Library Skills Workshop Next Week
 
