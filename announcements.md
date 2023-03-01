@@ -15,6 +15,16 @@ Table of contents
 
 # Announcements Page
 
+## New policy for project expenses (don't email sceem-manager@bristol.ac.uk)
+
+Hi all,
+
+I've just been told that there's a new policy on project expenses this year. The amount of money available is still the same, but rather than emailing the school manager you should instead go via the process described on the Tech Services site [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7446252_1&course_id=_238502_1) (Blackboard link, login required). Our teaching technologist is Luke Woodbury, and when contacting him you should cc me (and your supervisor) so I can OK the spending. I understand the school manager email has been quite slow in responding to students - I'm sorry for the resulting delay to people's projects.
+
+Best wishes,
+
+John
+
 ## Blue Crystal 4 Project Code
 
 Hi All,
