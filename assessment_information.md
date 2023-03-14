@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessment Information
+title: Assessment and Ethics Information
 permalink: /assessment/
 ---
 
@@ -13,7 +13,7 @@ Table of contents
 {:toc}
 </details>
 
-## Assessment Information
+## Assessment and Ethics Information
 
 ### Project Handbook
 
@@ -57,7 +57,7 @@ Links are here for [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/con
 
 * [Student permission form](https://uob.sharepoint.com/:w:/t/grp-cs-individual-projects-2022/EYSvunuiAwtFowMxrt1tBnsBED0_hRTQapxkwCJdY5L50g?e=qiC5dj) (for projects which need ethical approval and are
   covered by Ethics Application 0026).
-* [Fromal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical but are not
+* [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical but are not
   covered by Ethics Application 0026).
 * [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Consent%20form%20template.docx?d=we4e6ee51558048b088a27fbe5b506d6a&csf=1&web=1&e=xxuNGx).
 * [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Participant%20Information%20Sheet%20template.docx?d=we0554f2ba5f44cb7b79f628c33b16c60&csf=1&web=1&e=paryxy).
