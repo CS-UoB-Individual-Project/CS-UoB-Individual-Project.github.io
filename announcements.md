@@ -15,6 +15,56 @@ Table of contents
 
 # Announcements Page
 
+## LaTeX introduction and writing workshops signup (deadline this Thursday!)
+
+Hi all,
+
+Now that you're starting to think about your dissertations (and posters!) I've finished recording a fairly comprehensive introduction to LaTeX via Overleaf, now available [here](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples?csf=1&web=1&e=treaBQ&xsdata=MDV8MDF8fDQzZmMxZWM5NDFiYTRhMzljN2NhMDhkYjI0YTQzNjFjfGIyZTQ3ZjMwY2Q3ZDRhNGVhNWRhYjE4Y2YxYTQxNTFifDB8MHw2MzgxNDQwNTk5MDQzMDU2ODh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzT0Rnd09URTRPVGd4TVRzeE5qYzRPREE1TVRnNU9ERXhPekU1T2xOemRDMXFjbXhoV0ZFeGVqRkVNVGQ2YjNkNExXNVRRazVIYkdZNE4xcHlkRlJRVEhCc01tMUlSVzh4UUhSb2NtVmhaQzUwWVdOMk1nPT18ODY4M2I0ZDQwMjdmNDQ0YmM3Y2EwOGRiMjRhNDM2MWN8OWRkZGVkZmE4MjhjNDZlODg4MjdhYTBhYzJkM2I1ZTM%3D&sdata=cW1EMFk4ZFVYS002UW9mNDMyN2dIOW9lYUU5U2dtWG5mRGNLSDIrcjZvZz0%3D). I know it's a long video, but even if you've worked with LaTeX before and picked some of it up already, it's worth having this on double speed in the background - I go into a lot of stuff that you would normally only find out through bitter and painful experience like how to stop the " and € characters rendering poorly, how to stop macros eating spaces, how to do code listings easily (tl;dr use minted!), and the counterintuitive role of "and" in BiBTeX, as well as more basic stuff like when and how to use \labels and \refs and macros. Also, the last half of the video is only relevant to people are using LaTeX's extensive maths typesetting capabilities, so for everyone else it's a svelte and minimalistic one hour video. ;-)
+
+The other important dissertation-related announcement is that signups are now open for the optional **writing workshops** run by the Centre for Academic Language Development (CALD). We did these last year and the student feedback was very positive despite them being online-only - this year they're back in-person so they'll definitely be worth going to! The first one is next week, and will focus on both the high level (how to structure and plan a 30-50 page piece of technical writing) and on the low level (how to write technical content in a readable way). The second one is set for the week after the spring vacation, by which point you should have made a start on your dissertation, and is an opportunity for structured peer feedback - getting feedback on your drafts from other students and discussing what works well and what doesn't. (Note that everyone is entitled to feedback on a small section from their supervisor as well, as well as having a chance to meet your second marker at the poster day and chat about what they'll be looking for - this is peer feedback _in addition_ to academic feedback, not as a substitute for it!) The workshops will be run as small groups across several different time slots - this does mean we won't be able to have unit staff there, since too many sessions will be happening in parallel, but the content is well-tailored to the unit despite that. You can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG14OckdYwkZEgG8T9IEI_AJUN05NRlFEMzU1UldZMUUyUlhBODUzVDhPQiQlQCNjPTEkJUAjdD1n), but note that **the signup deadline is this Thursday** to give CALD time to assign people to sessions and time slots in a sensible way.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://twitter.com/UOOO_uni_oishi/status/1493057180622225409) (sound)!
+
+## Poster Fair Details - 19th April 2023
+
+Hi all,
+ 
+For the first time in 3 years(!), the department is once again organising an in-person version of the final year CS BSc and MEng students’ Project Fair which will take place on **Wednesday 19th April 2023 from 2pm in Bill Brown Design Suite**. You will informally **present your work as a poster** describing your project and results so far to markers and other interested students.  You can expect to meet your marker for around 10 minutes, including questions and discussion of your project so far. This year we are happy to have industrial partners also attending the poster day to discuss your projects with. This will be a valuable tool to get an outsider’s perspective on your project as well as giving you the opportunity to learn more about Computer Science after your degree.
+
+Posters are not mandatory, but **most students are expected to take part** and the poster presentations are a **perfect opportunity for you to get feedback** and give a first glimpse of your project to your 2nd marker. As your project is still ongoing, some of your results and achievements may be tentative or forthcoming: this is fine and expected.
+
+**What you need to do if you plan to present your work:**
+
+* Prepare an A1 Poster to facilitate your discussion with your second marker (see below for templates and guidelines)
+	
+* Submit your poster to get printed by Thursday 30th March at 12pm. You will find a new submission point on the blackboard page for your unit which is titled Poster Fair Poster Submission, you can submit your poster here (you have unlimited attempts, but we will use whatever your latest attempt is once the deadline has passed).
+	
+* Make sure your poster is in pdf and the correct size - you may need to check images to ensure that they print well at A1 sizes by printing parts of the pdf at A4/A3 at A1 resolution.
+
+**Poster specifics: **
+
+* You can find information on how to create a poster [here](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/Poster%20info%20and%20hyperlinks.docx?d=w30d671ef61644c08aa05c3ba39f962f8&csf=1&web=1&e=eGIFU7&xsdata=MDV8MDF8fDQzZmMxZWM5NDFiYTRhMzljN2NhMDhkYjI0YTQzNjFjfGIyZTQ3ZjMwY2Q3ZDRhNGVhNWRhYjE4Y2YxYTQxNTFifDB8MHw2MzgxNDQwNTk5MDQxNDk0NTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzT0Rnd09URTRPVGd4TVRzeE5qYzRPREE1TVRnNU9ERXhPekU1T2xOemRDMXFjbXhoV0ZFeGVqRkVNVGQ2YjNkNExXNVRRazVIYkdZNE4xcHlkRlJRVEhCc01tMUlSVzh4UUhSb2NtVmhaQzUwWVdOMk1nPT18ODY4M2I0ZDQwMjdmNDQ0YmM3Y2EwOGRiMjRhNDM2MWN8OWRkZGVkZmE4MjhjNDZlODg4MjdhYTBhYzJkM2I1ZTM%3D&sdata=NGxCeDNNSkhMYVBkUjZaWVlLMVhCQ2xaTFlhdDhKcFo1OStiZGRibkNlQT0%3D&isSPOFile=1). This document includes some tips and websites to get templates from.
+	
+* We’ve also created some templates, both a [powerpoint template](https://uob.sharepoint.com/:p:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/poster_template.pptx?d=wd7fdcc6fbf164c21a5bba0cb57b76827&csf=1&web=1&e=Eluqrg&xsdata=MDV8MDF8fDQzZmMxZWM5NDFiYTRhMzljN2NhMDhkYjI0YTQzNjFjfGIyZTQ3ZjMwY2Q3ZDRhNGVhNWRhYjE4Y2YxYTQxNTFifDB8MHw2MzgxNDQwNTk5MDQxNDk0NTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzT0Rnd09URTRPVGd4TVRzeE5qYzRPREE1TVRnNU9ERXhPekU1T2xOemRDMXFjbXhoV0ZFeGVqRkVNVGQ2YjNkNExXNVRRazVIYkdZNE4xcHlkRlJRVEhCc01tMUlSVzh4UUhSb2NtVmhaQzUwWVdOMk1nPT18ODY4M2I0ZDQwMjdmNDQ0YmM3Y2EwOGRiMjRhNDM2MWN8OWRkZGVkZmE4MjhjNDZlODg4MjdhYTBhYzJkM2I1ZTM%3D&sdata=bDlIeTBsUHpHWkhQRlNFNjh3QVQrWmFxQ0hONktVdWZOcmE3eWtBdWtSdz0%3D) (recommended for posters even if you are familiar with LaTeX) and a [LaTeX template](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/LaTeX%20Poster%20Template?csf=1&web=1&e=RxVigl&xsdata=MDV8MDF8fDQzZmMxZWM5NDFiYTRhMzljN2NhMDhkYjI0YTQzNjFjfGIyZTQ3ZjMwY2Q3ZDRhNGVhNWRhYjE4Y2YxYTQxNTFifDB8MHw2MzgxNDQwNTk5MDQxNDk0NTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzT0Rnd09URTRPVGd4TVRzeE5qYzRPREE1TVRnNU9ERXhPekU1T2xOemRDMXFjbXhoV0ZFeGVqRkVNVGQ2YjNkNExXNVRRazVIYkdZNE4xcHlkRlJRVEhCc01tMUlSVzh4UUhSb2NtVmhaQzUwWVdOMk1nPT18ODY4M2I0ZDQwMjdmNDQ0YmM3Y2EwOGRiMjRhNDM2MWN8OWRkZGVkZmE4MjhjNDZlODg4MjdhYTBhYzJkM2I1ZTM%3D&sdata=OUVDV3h5K3hZejVzUnJLVlh5VHAwMTBHNGkzazlHTUgxSnFmNVJoWStORT0%3D).
+	
+* Note it’s hard to give specific advice for every project as depending on the topic the poster style can vary a lot (compare a theory poster to a computer vision poster!).
+	
+* Thankfully, we have asked members of the department to give example posters and you can find them all [here](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples?csf=1&web=1&e=treaBQ&xsdata=MDV8MDF8fDQzZmMxZWM5NDFiYTRhMzljN2NhMDhkYjI0YTQzNjFjfGIyZTQ3ZjMwY2Q3ZDRhNGVhNWRhYjE4Y2YxYTQxNTFifDB8MHw2MzgxNDQwNTk5MDQzMDU2ODh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzT0Rnd09URTRPVGd4TVRzeE5qYzRPREE1TVRnNU9ERXhPekU1T2xOemRDMXFjbXhoV0ZFeGVqRkVNVGQ2YjNkNExXNVRRazVIYkdZNE4xcHlkRlJRVEhCc01tMUlSVzh4UUhSb2NtVmhaQzUwWVdOMk1nPT18ODY4M2I0ZDQwMjdmNDQ0YmM3Y2EwOGRiMjRhNDM2MWN8OWRkZGVkZmE4MjhjNDZlODg4MjdhYTBhYzJkM2I1ZTM%3D&sdata=cW1EMFk4ZFVYS002UW9mNDMyN2dIOW9lYUU5U2dtWG5mRGNLSDIrcjZvZz0%3D). Feel free to peruse them all and find a style which you think matches you and your project, poster making is often a subjective art!
+
+**Demos:** If you need to demo an aspect of your project and will need suitable space/power etc. we will be sending out a form closer to the project fair that you can fill in asking for demo space. We can only assign extra space for a small number of projects, so we will be assigning these to those who will need these requirements to show their project off. As an example, if you are doing a deep learning project, asking for demo space will not be granted, but if you have made a robot as part of the project then we will work to give you the space to demo it!
+
+**PSA: An Update on Ethics for Self Recording**
+
+We have had an update from the ethics board regarding self evaluation here, but in essence this means that for vision projects, if you are recording yourself (and only yourself!) as a source of training data then you do not need a formal ethics application with some caveats (i.e. if you're recording invasive information then you will need ethics). If you have any questions or are unsure how this may fit into your project, please ask your supervisor! It’s a lot of trouble for you (and a lot of work for us) if a project that should have had ethics and didn’t get it.
+
+Thanks,
+
+Mike, John, and Sarah
+
 ## New policy for project expenses (don't email sceem-manager@bristol.ac.uk)
 
 Hi all,
