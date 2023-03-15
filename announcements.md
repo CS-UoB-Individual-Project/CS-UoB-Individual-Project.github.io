@@ -45,7 +45,7 @@ Posters are not mandatory, but **most students are expected to take part** and t
 	
 * Make sure your poster is in pdf and the correct size - you may need to check images to ensure that they print well at A1 sizes by printing parts of the pdf at A4/A3 at A1 resolution.
 
-**Poster specifics: **
+**Poster specifics:**
 
 * You can find information on how to create a poster [here](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/Poster%20info%20and%20hyperlinks.docx?d=w30d671ef61644c08aa05c3ba39f962f8&csf=1&web=1&e=eGIFU7&xsdata=MDV8MDF8fDQzZmMxZWM5NDFiYTRhMzljN2NhMDhkYjI0YTQzNjFjfGIyZTQ3ZjMwY2Q3ZDRhNGVhNWRhYjE4Y2YxYTQxNTFifDB8MHw2MzgxNDQwNTk5MDQxNDk0NTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzT0Rnd09URTRPVGd4TVRzeE5qYzRPREE1TVRnNU9ERXhPekU1T2xOemRDMXFjbXhoV0ZFeGVqRkVNVGQ2YjNkNExXNVRRazVIYkdZNE4xcHlkRlJRVEhCc01tMUlSVzh4UUhSb2NtVmhaQzUwWVdOMk1nPT18ODY4M2I0ZDQwMjdmNDQ0YmM3Y2EwOGRiMjRhNDM2MWN8OWRkZGVkZmE4MjhjNDZlODg4MjdhYTBhYzJkM2I1ZTM%3D&sdata=NGxCeDNNSkhMYVBkUjZaWVlLMVhCQ2xaTFlhdDhKcFo1OStiZGRibkNlQT0%3D&isSPOFile=1). This document includes some tips and websites to get templates from.
 	
