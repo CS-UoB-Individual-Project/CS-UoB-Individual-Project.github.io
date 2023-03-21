@@ -15,6 +15,21 @@ Table of contents
 
 # Announcements Page
 
+
+## Poster Design Drop-In Session
+
+Hi All,
+
+As for many of you this would be the first time you’re creating a poster in an academic context we thought that it would be useful to organise a **drop-in session for poster design this Friday, 24th February, from 10:00-12:00** which will take place in mine and Sarah’s office, **3.22 MVB**.
+
+We’re happy to give feedback on **full drafts or even rough sketches/ideas** of what your poster might look like, so even if you are unsure how your project can even be represented by a poster - do come to talk to us!
+
+As a note, poster day is always set earlier than the deadline for your thesis (and the printing deadline even more so) so that you can get an opportunity for feedback on how you think and explain your project. This means that **even if you don’t have any results yet, please don’t feel like you cannot present anything** - the experience will still be useful when you come to write up. If you do get results later, you can always print them out on a page of A4 closer to the deadline and stick them onto your poster - I have seen this even at the top Computer Vision conferences when authors get newer results, so this is always an option!
+
+Hope to see you Friday,
+
+Mike and Sarah
+
 ## LaTeX introduction and writing workshops signup (deadline this Thursday!)
 
 Hi all,
