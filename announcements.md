@@ -15,6 +15,21 @@ Table of contents
 
 # Announcements Page
 
+## Poster day deadline reminder (tomorrow!) and funding request email change
+
+Hi all,
+
+This is mostly just a reminder that the deadline for poster day submissions is tomorrow (Thursday)! We've had some outstandingly pretty and well-designed ones in already, and I think it's going to be a good selection. If you're hard up for time though, you certainly don't have to sink hours into making one - for example, the LaTeX template available [here](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/LaTeX%20Poster%20Template?csf=1&web=1&e=ivJBLk) will get you up and running with a basic boxy design pretty quickly and easily, and there's nothing wrong with basic boxy designs. ([I hope...!](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/Fine-grained%20Reductions%20from%20Approximate%20Counting%20to%20Decision.pdf?csf=1&web=1&e=3PpBya)) Alternatively, Google Slides and Powerpoint are also your friends. Importantly, we now also have a [form](https://forms.office.com/e/39YNBZ7gVE) for you to confirm attendance **and to request things like power points, space for hardware and so on** - please fill this out when you submit your poster on Blackboard, or we'll be nagging you about it over email! (It's linked from the submission point as well.) You can technically submit a poster after Thursday too, and in that case you should fill out the form as well, but that's our deadline with Print Services so you'll need to get it printed yourself and this will cost money.
+
+As another reminder, there a collection of example research posters supplied by academics throughout the department available [here](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/LaTeX%20Poster%20Template?csf=1&web=1&e=YOo2tG). While the poster day is optional, it's a chance to chat about the thing you've been throwing yourself into for the last few months with a lot of the people who've been teaching you over your time here, with a lot of curious students from earlier years and other CS degrees (including a delegation of CS-focused philosophy students!), with your second marker, and hopefully with some people from industry. It's also just a feel-good event all round. 
+
+While I'm sending emails, a minor policy change - future funding/purchase request emails should be directed to engf-tech-hub@bristol.ac.uk rather than to Luke Woodbury. While Luke is our teaching technologist as in the flowchart [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7446252_1&course_id=_238502_1), Luke will be moving onto greener pastures in mid-April, and you can often get a faster response from the main tech hub anyway! (As before, do still copy your supervisor and me or Mike Wray in.)
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://www.reddit.com/r/Catculations/comments/w38zph/paris_totally_meant_to_do_that/)!
 
 ## Poster Design Drop-In Session
 
