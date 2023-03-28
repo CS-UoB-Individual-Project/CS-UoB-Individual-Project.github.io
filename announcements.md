@@ -15,21 +15,20 @@ Table of contents
 
 # Announcements Page
 
-## Poster day deadline reminder (tomorrow!) and funding request email change
 
-Hi all,
+## Poster Design Drop-In Session
 
-This is mostly just a reminder that the deadline for poster day submissions is tomorrow (Thursday)! We've had some outstandingly pretty and well-designed ones in already, and I think it's going to be a good selection. If you're hard up for time though, you certainly don't have to sink hours into making one - for example, the LaTeX template available [here](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/LaTeX%20Poster%20Template?csf=1&web=1&e=ivJBLk) will get you up and running with a basic boxy design pretty quickly and easily, and there's nothing wrong with basic boxy designs. ([I hope...!](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/Fine-grained%20Reductions%20from%20Approximate%20Counting%20to%20Decision.pdf?csf=1&web=1&e=3PpBya)) Alternatively, Google Slides and Powerpoint are also your friends. Importantly, we now also have a [form](https://forms.office.com/e/39YNBZ7gVE) for you to confirm attendance **and to request things like power points, space for hardware and so on** - please fill this out when you submit your poster on Blackboard, or we'll be nagging you about it over email! (It's linked from the submission point as well.) You can technically submit a poster after Thursday too, and in that case you should fill out the form as well, but that's our deadline with Print Services so you'll need to get it printed yourself and this will cost money.
+Hi All,
 
-As another reminder, there a collection of example research posters supplied by academics throughout the department available [here](https://uob.sharepoint.com/:f:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Poster%20examples/LaTeX%20Poster%20Template?csf=1&web=1&e=YOo2tG). While the poster day is optional, it's a chance to chat about the thing you've been throwing yourself into for the last few months with a lot of the people who've been teaching you over your time here, with a lot of curious students from earlier years and other CS degrees (including a delegation of CS-focused philosophy students!), with your second marker, and hopefully with some people from industry. It's also just a feel-good event all round. 
+As for many of you this would be the first time you’re creating a poster in an academic context we thought that it would be useful to organise a **drop-in session for poster design this Friday, 24th February, from 10:00-12:00** which will take place in mine and Sarah’s office, **3.22 MVB**.
 
-While I'm sending emails, a minor policy change - future funding/purchase request emails should be directed to engf-tech-hub@bristol.ac.uk rather than to Luke Woodbury. While Luke is our teaching technologist as in the flowchart [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7446252_1&course_id=_238502_1), Luke will be moving onto greener pastures in mid-April, and you can often get a faster response from the main tech hub anyway! (As before, do still copy your supervisor and me or Mike Wray in.)
+We’re happy to give feedback on **full drafts or even rough sketches/ideas** of what your poster might look like, so even if you are unsure how your project can even be represented by a poster - do come to talk to us!
 
-Best wishes,
+As a note, poster day is always set earlier than the deadline for your thesis (and the printing deadline even more so) so that you can get an opportunity for feedback on how you think and explain your project. This means that **even if you don’t have any results yet, please don’t feel like you cannot present anything** - the experience will still be useful when you come to write up. If you do get results later, you can always print them out on a page of A4 closer to the deadline and stick them onto your poster - I have seen this even at the top Computer Vision conferences when authors get newer results, so this is always an option!
 
-John
+Hope to see you Friday,
 
-Cat of the day: [Here](https://www.reddit.com/r/Catculations/comments/w38zph/paris_totally_meant_to_do_that/)!
+Mike and Sarah
 
 ## LaTeX introduction and writing workshops signup (deadline this Thursday!)
 
