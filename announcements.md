@@ -15,6 +15,36 @@ Table of contents
 
 # Announcements Page
 
+## Vivas (important!)
+
+Dear all,
+
+You should now have received Outlook invites to your vivas, which will take place online on Teams. **_If you haven’t received an invite and there’s nothing visible on your calendar, please get in touch with me, Mike and Sarah ASAP (cc’ing the school office at coms-info@bristol.ac.uk)_**. The rest of this announcement contains important information, and you should read it carefully.
+
+**_What to do to prepare:_** For the most part, you’ve already done all the preparation you need – you’ve been spending the last four months working on this project and you already know it backwards and forwards. It’s worth spending a day or two looking back over your thesis and code beforehand, but it’s definitely not worth spending the whole revision period on it. Before the viva starts, you should make sure you have to hand:
+
+* **A working webcam and microphone.** We need to be able to make sure that you’re the one taking the viva, and we can only do that if we can see you and hear you. If we can’t, then under the regulations we need to count it as though you missed the viva.
+* **A copy of your thesis.** Your second marker may well ask you about specific parts of your thesis, and it’s a lot easier for everyone involved if they can just say “paragraph 4 on page 37”.
+* **A copy of any code you’ve written, ready to run.** If your project involved writing code, your second marker is likely to ask to see that code running to verify that it does what you said it does in the thesis. If you can’t show it running, they’ll have to assume it doesn’t work. A corollary of this is that you should make sure you know how to share your screen on Teams (see [here](https://support.microsoft.com/en-us/office/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7)). Since you’ll be screen-sharing, you should also close email and chat clients before the viva – your second marker won’t actually care if you get a mid-viva message from xXx_BonerLord420_xXx unless it’s an attempt to cheat, but it’s still embarrassing.
+* **Any other relevant data, whether you submitted it as auxiliary materials or not.** For example, if your project involved running a survey, then you should make sure you have the raw data as well as the survey itself to hand.
+* **Copies of any papers or other sources you’ve referenced.** While you’re not expected to know these in anywhere near the same depth as your thesis, you may well still be asked about the way you’ve used them, in which case having them to hand will be useful. For example, if you’ve said you designed your user interface according to the principles set out in a paper, your second marker might ask what those principles are. As another example, if you’re quoting a mathematical result from a paper and it’s not obvious where that result appears, your second marker might ask where it is.
+* **A quiet space.** This is an exam, and you’re not allowed to communicate with anyone else while it’s going on.
+* **Something to drink.** It’s a small thing, but getting a dry throat in the middle of a viva sucks and it’s easy to avoid.
+
+**_What the viva will involve:_** See section 4.2 of the unit handbook [here](https://cs-uob-individual-project.github.io/2022_23_Project_handbook.pdf) for a detailed discussion. The short version is that the viva doesn’t have a set format or a set weight, because it’s doing a lot of different jobs from making sure your code does what you’ve said it does to letting your second marker ask for clarification on any points from your thesis they had trouble understanding. In general, though, a good guideline is to treat the viva as though it were worth 5-10% of your mark – worth preparing for, but not worth losing sleep over. The most common outcome of a viva is that your second marker goes in with a mark in mind based on your thesis, then leaves more confident in that mark. 
+
+More concretely, most vivas start by asking for a brief overview of your project as a “warm-up” question (there is absolutely no expectation for you to prepare slides or similar), and if you’ve created something separate from your thesis like code or hardware then you’ll very likely be asked to demonstrate it. Besides that, you can usually expect some mixture of asking about what you’ve done (“can you take me through your collision detection code?”), asking about why you did it (“why did you use the networkx library here?”), asking for clarification (“should this x_i on page 24 read x_j?”), and occasionally “extra credit” questions that stretch beyond what you’ve done. This last category of question is one that students often worry about, but you shouldn’t – they’re generally your second marker trying to see whether you’re capable of performing at a level higher than what you’ve shown in your dissertation, so they’re an opportunity to gain marks rather than an opportunity to lose marks. 
+
+**_If your viva needs to be in-person:_** If you think your viva needs to be in-person, e.g. because you need to be able to demonstrate physical hardware in a way beyond what a webcam can handle, then you should first check with your supervisor – almost all hardware can be demonstrated fine with a webcam. If they agree, then get in touch with me, Mike and Sarah ASAP and we’ll see what we can do. (The reason this is tricky is that in-person vivas can’t be recorded, so we need an extra person in the room and to book a space.)
+
+**_If you can’t make the scheduled time:_** In practice, second markers will often make accommodations where possible, so you should get in contact with them ASAP. Make sure you mention any extensions you have, as they’ll need to look over your thesis before the viva can happen. If they can reschedule, make sure they do it by rescheduling the existing Teams meeting rather than booking a new one – that way the recording will be automatically scraped and shared with the other marker. If they can’t reschedule though, ultimately the viva is an exam, and as a student you’re expected to be available throughout the exam period. (Most vivas are also booked for May 30th and May 31st, and these dates have been in your timetable since the start of the year.) In this case, you should talk to the school office at coms-info@bristol.ac.uk or your tutor about the process of self-certifying and delaying the viva to the reassessment period – be aware that this will very likely delay your graduation as well. The one exception to this is if you’re a maths/CS student who has a clash with an exam – we’ve tried to avoid these, but one might have slipped through. In that case, that’s on us, get in contact with me, Mike and Sarah ASAP and we’ll take responsibility for rescheduling.
+
+Best wishes,
+
+John
+
+Cat of the day: [Here](https://i.imgur.com/cB9kl2m.jpg)! (RIP imgur, February 23rd 2009 – May 15th 2023...)
+
 ## Poster day deadline reminder (tomorrow!) and funding request email change
 
 Hi all,
