@@ -26,30 +26,20 @@ one-on-one sessions with experts in the field.
 
 ## Schedule, Videos and Materials
 
-* **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. Asynchronous, video [here](https://web.microsoftstream.com/video/21775a82-b1d5-4189-9eb2-2ad7ca85c04c), slides [here](tb1-verbose.pdf), handout version [here](tb1-handout.pdf).
-* **Q&A session 1: Online on Teams**. Tuesday 4th October 12:00-13:00 (Week 2). Padlet link [here](https://uob.padlet.org/michaelwray1/7s8gxe2exdxiqetc) (click "continue with Microsoft" when signing in). Recording [here](https://uob.sharepoint.com/:v:/t/grp-cs-individual-projects-2022/Ef2rcp6z2-dPlzKkdrF-RlUBbgKmvqzHkOuQe2K4fzPolw?e=P3Yl2R).
-* **Q&A session 2: Online on Teams.** Tuesday 11th October 12:00-13:00 (Week 3). Padlet link [here](https://uob.padlet.org/michaelwray1/j876dynr971pxtkn). Recording [here](https://uob.sharepoint.com/:v:/t/grp-cs-individual-projects-2022/EQixO-1aA75PrTwuoETYdcQBGxB0W-X7lRoOJo-nUkOLtw?e=McbXxL).
-* **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. Released [here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/EWPVy8ttUt9EqjSR97u8B0wBZRkOmt8oJXYPeyX9mAHKkA) Week 4. (Open this in **desktop Excel** and allow external connections!)
-* **Ethics Lecture/Quiz Release:** The lecture on Ethics can be found [here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=oxOxfr). The quiz can be found on your respective blackboard unit welcome page, or here for [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252952_1&tool_id=_5824_1&tool_type=TOOL&mode=view&mode=reset), [COMS30045](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252951_1&tool_id=_5824_1&tool_type=TOOL&mode=view&mode=reset), and [COMSM0052](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252905_1&tool_id=_5824_1&tool_type=TOOL&mode=view&mode=reset). 
-* **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building).**Wednesday 26th October 14:00-16:00 (Week 5)**
-* **Project specification deadline:** Deadline for finding a supervisor, passing the ethics training, and submitting a project specification with [this short form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1XIgcXxY4VKmVom51Cg1JBUQzhDVVRYTEhKQkFaSlNNNVAzVjJIUFU1Ti4u) to help us assign you a secondary marker. **Friday 18th November 12:00 (Week 8)** 
-* **Start-of-TB2 talk:** Details of how to go carry out your project, optional workshops, the viva, and the marking process. Asynchronous, video [here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EdIpeT0j8EJCv82wVcju0_oBs0wbX9FNW-kKWEcl8RE8eA?e=K8KpCN).
-* **Q&A session 3:** Online on Teams. **Tuesday 31st January 16:00-17:00 (Week 14).** Padlet Link [here](https://uob.padlet.org/michaelwray1/t6o997uy3f7wriem)
-* **Library Assistance Workshop:** Pugsley Lecture Theatre Queens Building **Wednesday 1st February 15:00-16:00 (Week 14)**. Recordings can be found for each unit on their blackboard Re/Play pages: [COMS30045](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252951_1&tool_id=_5824_1&tool_type=TOOL&mode=cpview&mode=reset), [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7084786_1&course_id=_252952_1), [COMSM0052](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252905_1&tool_id=_5824_1&tool_type=TOOL&mode=cpview&mode=reset).
-* **Innovation case deadline:** COMSM0052 students only. This coursework will form 12% of your mark for the unit. **Monday March 13th 2023 12:00 (Week 20)**
-* **Introduction to LaTeX:** Various tips and tricks from the simple to arcane gotchas. Asynchronous, video [here](https://web.microsoftstream.com/video/ff83cc49-acd5-4ca1-b1b2-b01576f2e0ed).
-* **Dissertation-writing workshop 1:** Optional workshop focused on how to write long technical documents, signups [here](https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG14OckdYwkZEgG8T9IEI_AJUN05NRlFEMzU1UldZMUUyUlhBODUzVDhPQiQlQCNjPTEkJUAjdD1n) **(deadline Thursday March 16th)**. **Week 21, small group workshops, various time slots.**
-* **Poster Session Drop-In:** <span style="color:red">**Friday 24th March 10:00-12:00 (Week 21), MVB 3.22.**</span> Optional drop-in session to get feedback on poster designs.
-* **Spring vacation.**
-* **Dissertation-writing workshop 2:** Optional workshop focused on peer feedback of drafts, signups [here](https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG14OckdYwkZEgG8T9IEI_AJUN05NRlFEMzU1UldZMUUyUlhBODUzVDhPQiQlQCNjPTEkJUAjdD1n) **(deadline Thursday March 16th)**. **Week 22, small group workshops, various time slots.**
-* **Project poster day:** An optional-but-encouraged event to show your project to the world as you write your dissertation. Bill Brown Design Suite (Queens Building). Poster submissions via Blackboard, <span style="color:red">**deadline Thursday March 30th**</span> - any later and you will need to pay printing costs! The day itself will be <span style="color:red">**Wednesday 19th April 14:00-17:00 (Week 22)**</span>.
-* **Project submission deadline:** Deadline for submitting your dissertation along with any auxiliary materials like source code. This will form 100% of your mark for the unit for COMS30044 and COMS30045 students and 88% for COMSM0052 students. <span style="color:red">**Thursday 4th May 2023 13:00 (Week 24)** </span>
-* **Viva:** Summative oral exam with your second marker, to take place on Teams. This will include e.g. showing that your code performs as advertised, and will inform your overall mark without being a fixed percentage of it. <span style="color:red">**Date TBD but likely Tuesday 30th May or Wednesday 31st May 2023** </span>
+* **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. Asynchronous, video [coming soon](), slides [coming soon]().
+* **Q&A session 1: Online on Teams**. Thursday 5th October 12:00-13:00 (Week 2). Padlet link [coming soon]() (click "continue with Microsoft" when signing in). Recording will be posted after the event.
+* **Q&A session 2: Online on Teams.** Tuesday 11th October 12:00-13:00 (Week 3). Padlet link [coming soon](). Recording will be posted after the event.
+* **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. Released Week 4. 
+* **Ethics Lecture/Quiz Release:** The lecture on Ethics will be released in week 4.
+* **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building).**Wednesday 25th October 14:00-16:00 (Week 5)**
+* **Project specification deadline:** Deadline for finding a supervisor, passing the ethics training, and submitting a project specification **Friday 17th November 12:00 (Week 8)**. Form link [coming soon]().
+
+TB2 Info _Coming Soon_
 
 ## Project Handbook
 
 Almost every question you might have about the project is answered in
-the project handbook [here](../2022_23_Project_handbook.pdf). **Check this first!**
+the project handbook [here](/handbook). **Check this first!**
 
 ## Teams Channel
 
