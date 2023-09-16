@@ -76,8 +76,7 @@ academic-style writing and can be found [here](https://uob.sharepoint.com/:b:/r/
 
 ### Latex Dissertation Template
 
-The Latex template for the Dissertation can be found [here](https://uob.sharepoint.com/:u:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/ThesisTemplate.zip?csf=1&web=1&e=R0wXha). Inside the
-folder you will also find a poster template for the project fair day.
+The Latex template for the Dissertation can be found [here](https://uob.sharepoint.com/:u:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/ThesisTemplate.zip?csf=1&web=1&e=R0wXha).
 
 ### Word Dissertation Template
 
