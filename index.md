@@ -27,7 +27,7 @@ one-on-one sessions with experts in the field.
 ## Schedule, Videos and Materials
 
 * **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. Asynchronous, video [coming soon](), slides [coming soon]().
-* **Q&A session 1: Online on Teams**. Thursday 5th October 12:00-13:00 (Week 2). Padlet link [coming soon]() (click "continue with Microsoft" when signing in). Recording will be posted after the event.
+* **Q&A session 1: Online on Teams**. Thursday 5th October 12:00-13:00 (Week 2). Padlet link [here](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-1-hpsbiporpnr7eezo) (click "continue with Microsoft" when signing in). Recording will be posted after the event.
 * **Q&A session 2: Online on Teams.** Tuesday 11th October 12:00-13:00 (Week 3). Padlet link [coming soon](). Recording will be posted after the event.
 * **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. Released Week 4. 
 * **Ethics Lecture/Quiz Release:** The lecture on Ethics will be released in week 4.
