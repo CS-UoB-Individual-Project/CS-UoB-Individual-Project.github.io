@@ -22,19 +22,8 @@ the project handbook, available [here](../2022_23_Project_handbook.pdf).
 
 ### Example Projects
 
-Here are some of the best dissertations from last year, all scoring high firsts, as examples of what sort of projects are possible at the top end.
-* [Designing an Accessible Ozobot Coding Platform for Students with a Visual Impairment](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/designing-an-accessible-ozobot-programming-platform-for-students-with-mixed-visual-abilities_IP_1.pdf?csf=1&web=1&e=UPcIsK).
-* [Comparing the expressivity of two modal lambda calculi](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/comparing-the-expressivity-of-two-modal-lambda-calculi_IPIC_1.pdf?csf=1&web=1&e=lfLpZ9).
-* [NavBand: A Cutaneous Feedback Wristband to Aid Pedestrian Navigation](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/navband-a-cutaneous-feedback-wristband-to-aid-pedestrian-navigation_IP_1.pdf?csf=1&web=1&e=05c256).
-* [Semi-Streaming Algorithms in Practice](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/semi-streaming-algorithms-in-practice_IPIC_1.pdf?csf=1&web=1&e=nhPrby).
-* [SySat: A Saturation Procedure for Verifying Functional Programs](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/SySat-a-saturation-procedure-for-verifying-functional-programs_IPIC_1.pdf?csf=1&web=1&e=A7FsEE).
+Coming soon!
 
-Here are some examples of solid dissertations which scored high 2:1s, as examples of what sort of projects can do well without being top of the year.
-* [A Comprehensive Study of the Ensemble Learning in Predicting the Stock Market](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/a-comprehensive-study-of-the-ensemble-learning-in-predicting-the-stock-market_IP_2-1.pdf?csf=1&web=1&e=OtoQm9).
-* [Defence Against the Dark Arts](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/defence-against-the-dark-arts_IPIC_2-1.pdf?csf=1&web=1&e=rxJbEo).
-* [Designing a Pet Companion Robot](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/designing-a-pet-companion-robot_IP_2-1.pdf?csf=1&web=1&e=cmZgTk).
-* [Fraud Board](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/fraud-board_ip_2-1.pdf?csf=1&web=1&e=tta8UR).
-* [Global Meets Local Adaptive Learning](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/global-meets-local-adaptive-learning_IPIC_2-1.pdf?csf=1&web=1&e=qaxkD7).
 
 ## Ethics
 
