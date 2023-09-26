@@ -22,7 +22,13 @@ the project handbook, available [here](../2022_23_Project_handbook.pdf).
 
 ### Example Projects
 
-Coming soon!
+We have selected a variety of student projects from last year covering a wide range of topics and have grouped them based on their mark. Make sure that you look at projects relevant to your unit code:
+
+* Very High First (76+) [example projects](https://uob.sharepoint.com/:f:/t/grp-cs-individual-projects-20232024/EtdmgghOx4ZLnQI_2RECzNYBxsSLESlMHcmMC71PqlG-nw?e=wucY3f)
+* First class (70-75) [example projects](https://uob.sharepoint.com/:f:/t/grp-cs-individual-projects-20232024/EkCMg6RcgFVKrfmgSw8LYFEBQpVJpd1ZKTTwvtpxgorjJw?e=S8WYSZ)
+* High 2.i (65-68) [example projects](https://uob.sharepoint.com/:f:/t/grp-cs-individual-projects-20232024/En3PgXfjzqVBuqv70JxezgcBzKBdCEXgVazcQwOhK8ikGA?e=QkWNij)
+
+Note that these have been anonymised and some pages with identifying information has been removed.
 
 
 ## Ethics
