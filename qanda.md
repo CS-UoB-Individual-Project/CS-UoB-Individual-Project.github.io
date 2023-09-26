@@ -22,11 +22,18 @@ This year we've made the decision to split the handbook in two. This page will c
 
 The other half of the unit handbook can be found on the [Handbook tab](/handbook/) and contains the quick-start guide which gives a high-level overview of the individual project unit. We recommend that you **read this in detail** and refer back to this over the year.
 
-## Ethics
+# Dissertation
+
+## Structure of Dissertation
+* **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 25 pages.
+* **Saying more with less**: When writing your dissertation if you can cut out portions *without* removing anything important it is likely that your mark will go up, not down. Writing concisely with detail is the aim here.
+* **How should I structure my dissertation?**: The structure of your dissertation also depends on topic and project type and it's best to ask your supervisor if they have any suggestions. That said, we expect that most dissertations will begin with an *Introduction*, followed by *Background*, then *Project Execution*, and finally *Evaluation* and *Conclusion*. We have provided a LaTeX template on the main webpage for you to use which follows this structure.
+
+# Ethics
 
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
-### Blanket Ethics
+## Blanket Ethics
 
 * **What is Blanket Ethics?**: Blanket ethics is an ethics application that we have submitted on behalf of the unit. It covers many low concern aspects of projects _that require ethical approval_. We've just managed to do this already for you.
 * **What does Blanket Ethics Cover?**: Blanket ethics covers projects that:
@@ -38,7 +45,7 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
   * Puts participants under NO physical or mental harm.
 * **How do I use Blanket Ethics?**: When writing your dissertation you will need to include the following statement in the front matter: "This project is covered by the blanket ethics application 0026 as determined by my supervisor SUPERVISOR_NAME".
 
-### Ethical Review
+## Ethical Review
 * **What projects require Ethical Review?**: All projects that contain one or more of the following require full ethical review:
   * Collecting data from a vulnerable population (e.g. children)
   * Collecting sensitive data and/or protected characteristics.
@@ -51,7 +58,7 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Will extensions be given if I fail to get ethical approval?**: On its own, failure to get ethical approval will _not_ be grounds for an extension. It is up to you to ensure that this happens in a timely manner.
 * **How do I apply for ethical approval?**: Your supervisor will apply on your behalf using the Online Research Ethics Management System (OREMS) - link [here](https://orems.bristol.ac.uk/). You should discuss your application with your supervisor IN DETAIL before anything is submitted.
 
-### No Ethics
+## No Ethics
 
 * **When does  aproject require no ethics?**: A project requiring no ethics will:
   * Not be conducting user studies
@@ -62,19 +69,19 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Can I use datasets used online in a project that requires no ethics**: Yes, so long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release. 
 
 
-## Supervisors
+# Supervisors
 
-### Choosing a Supervisor
+## Choosing a Supervisor
 
 * **How do I choose a supervisor?**: You should choose your supervisor based on the area of the project you want to work on as well as someone that you are interested in working with. During TB1 we will release a spreadsheet containing a list of projects that each supervisor is interested in supervising, but note that this is not a non-exhaustive list!
 * **What are Supervisor slots?**: Each year supervisors are allotted a certain number of projects that thy have to supervise. Most supervisors will refuse to take on any more students if they have already filled up their allotment - which they are perfectly allowed to do.
 
-### Contacting your Supervisor
+## Contacting your Supervisor
 
 * **I cannot contact my supervisor**: Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, please email the Unit Director and/or Deputy Unit Directors on the [Contact Us](/contact/) page.
 * **My supervisor refuses to meet me**: Please email the Unit Director and/or Deputy Unit Directors on the [Contact Us](/contact/) page including any recent and relevant emails with your supervisor.
 
-## Vivas
+# Vivas
 
 * **What is the role of the viva?**: The role of the viva is for the second marker to meet you and get more information about your project thta might be missed within the dissertation. As they have not been involved in the project they won't be as familiar with the project as the first marker (your supervisor). The viva is also to check that you completed the work (with a level of independence from your supervisor). The viva doesn't have a set mark in the mark scheme and is usually used to reinforce the second marker;s mark after reading the dissertation.
 * **Who is in my viva?**: Normally, the viva will be between you and the second marker. You may request that your supervisor is present, but they won't ask (or answer) any questions.
