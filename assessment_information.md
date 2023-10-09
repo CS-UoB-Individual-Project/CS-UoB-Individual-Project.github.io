@@ -18,7 +18,7 @@ Table of contents
 ### Project Handbook
 
 Almost every question you might have about the main dissertation is answered in
-the project handbook, available [here](../2022_23_Project_handbook.pdf).
+the project handbook, available [here](/handbook).
 
 ### Example Projects
 
