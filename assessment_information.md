@@ -50,12 +50,12 @@ Links are here for [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/con
 
 * [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1) (useful to pass the ethics quiz!).
 
-* [Student permission form](https://uob.sharepoint.com/:w:/t/grp-cs-individual-projects-2022/EYSvunuiAwtFowMxrt1tBnsBED0_hRTQapxkwCJdY5L50g?e=qiC5dj) (for projects which need ethical approval and are
+* [Student permission form](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Student%20permission%20form.docx?d=w11808599cb264552aefb0e8301b12286&csf=1&web=1&e=tzCM0e) (for projects which need ethical approval and are
   covered by Ethics Application 0026).
 * [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical approval but are not
   covered by Ethics Application 0026).
-* [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Consent%20form%20template.docx?d=we4e6ee51558048b088a27fbe5b506d6a&csf=1&web=1&e=xxuNGx).
-* [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Participant%20Information%20Sheet%20template.docx?d=we0554f2ba5f44cb7b79f628c33b16c60&csf=1&web=1&e=paryxy).
+* [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Consent%20form%20template.docx?d=w96be1235d3714a069cab90d38c594ff9&csf=1&web=1&e=4BPSEX).
+* [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Participant%20Information%20Sheet%20template.docx?d=wfb5a04293a314793a9db8c18d04dc74c&csf=1&web=1&e=YZpXwI).
 
 ## Dissertation Writing
 
@@ -67,15 +67,15 @@ saving/loading the project file.
 ### General Purpose Guide to Academic Writing
 
 Written by Dave Cliff, this gives some useful tips towards how to approach
-academic-style writing and can be found [here](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/TipsOnWriting.pdf?csf=1&web=1&e=SCyJhu).
+academic-style writing and can be found [here](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/TipsOnWriting.pdf?csf=1&web=1&e=eg9oHo).
 
 ### Latex Dissertation Template
 
-The Latex template for the Dissertation can be found [here](https://uob.sharepoint.com/:u:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/ThesisTemplate.zip?csf=1&web=1&e=R0wXha).
+The Latex template for the Dissertation can be found [here](https://uob.sharepoint.com/:u:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/ThesisTemplate.zip?csf=1&web=1&e=iSzVPx).
 
 ### Word Dissertation Template
 
-The word template for the Dissertation can be found [here](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/ThesisTemplate.docx?d=w77ebb46e867d41a8a89e269f3440c671&csf=1&web=1&e=yzmwjH).
+The word template for the Dissertation can be found [here](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/ThesisTemplate.docx?d=w25687d823b8148f2b9e8e7892ac2e6ce&csf=1&web=1&e=hGBZe9).
 
 
 ## Assessment Support and Guidance
