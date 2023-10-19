@@ -43,18 +43,18 @@ application or whether it's something that you and your supervisor can handle to
 
 Can be found on the welcome page of your respective unit on blackboard.
 
-Links are here for [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252952_1&content_id=_7383656_1&mode=cpview), [COMS30045](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252951_1&content_id=_7382043_1&mode=cpview), and [COMSM0052](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252905_1&content_id=_7383655_1&mode=cpview)
-
-
 ### Ethics Links
 
 * [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1) (useful to pass the ethics quiz!).
 
 * [Student permission form](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Student%20permission%20form.docx?d=w11808599cb264552aefb0e8301b12286&csf=1&web=1&e=tzCM0e) (for projects which need ethical approval and are
   covered by Ethics Application 0026).
+  
 * [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical approval but are not
-  covered by Ethics Application 0026).
+  covered by Ethics Application 0026).  Before you put your application in, read the [Faculty Research Ethics Committee webpage](https://uob.sharepoint.com/sites/engineering/SitePages/research-ethics-committee.aspx).  The deadline for being considered at the February Committee is 18 January 2024, with a clinic to support applications on 17 January.  If you are planning to put in an application, we strongly recommend you reach out to Faculty Research Ethics Administrator, [Marc Moyce](mailto:marc.moyce@bristol.ac.uk], to get advice on your application - ideally in TB1.
+  
 * [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Consent%20form%20template.docx?d=w96be1235d3714a069cab90d38c594ff9&csf=1&web=1&e=4BPSEX).
+* 
 * [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Participant%20Information%20Sheet%20template.docx?d=wfb5a04293a314793a9db8c18d04dc74c&csf=1&web=1&e=YZpXwI).
 
 ## Dissertation Writing
