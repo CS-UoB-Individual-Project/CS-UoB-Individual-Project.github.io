@@ -99,7 +99,7 @@ The test allows multiple attempts and will be released in TB1 alongside the trai
 
 ## Confirming a Project
 
-We will need you to confirm a project on **week 8 of TB1**. This will involve agreeing with a supervisor a project name and rough description of the project. You will also have to have passed the ethics quiz before you can confirm a project.
+We will need you to confirm a project on **week 8 of TB1**. This will involve agreeing with a supervisor a project name and rough description of the project. You will also have to have passed the ethics quiz before you can confirm a project.  The ethics quiz is on the front page of your Unit Blackboard. 
 
 
 # Teaching Block 2
