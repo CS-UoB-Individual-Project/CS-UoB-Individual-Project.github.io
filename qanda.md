@@ -25,7 +25,7 @@ The other half of the unit handbook can be found on the [Handbook tab](/handbook
 # Dissertation
 
 ## Structure of Dissertation
-* **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 25 pages.
+* **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
 * **Saying more with less**: When writing your dissertation if you can cut out portions *without* removing anything important it is likely that your mark will go up, not down. Writing concisely with detail is the aim here.
 * **How should I structure my dissertation?**: The structure of your dissertation also depends on topic and project type and it's best to ask your supervisor if they have any suggestions. That said, we expect that most dissertations will begin with an *Introduction*, followed by *Background*, then *Project Execution*, and finally *Evaluation* and *Conclusion*. We have provided a LaTeX template on the main webpage for you to use which follows this structure.
 
