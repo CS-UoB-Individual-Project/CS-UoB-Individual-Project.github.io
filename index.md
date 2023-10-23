@@ -44,10 +44,10 @@ the project handbook [here](/handbook). **Check this first!**
 ## Teams Channel
 
 You can find a link to the teams channel for the unit
-[here](https://teams.microsoft.com/l/team/19%3aSst-jrlaXQ1z1D17zowx-nSBNGlf87ZrtTPLpl2mHEo1%40thread.tacv2/conversations?groupId=ac697083-81ce-41c7-b24d-208e0b33095b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b),
+[here](https://teams.microsoft.com/l/team/19%3aSU5HfuaMqsyIqoDSgjTgrmYLAWHKGbNfamySiYADjI01%40thread.tacv2/conversations?groupId=1b63f256-c976-4dcf-8dbf-a0fc4d6bcb49&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b),
 which can be used as a forum to ask questions and find out more information
 about the unit from Lecturers/TAs or fellow classmates.
-If you don't have access, contact John or Michael, details [here](/contact).
+If you don't have access, contact Mike or Sarah, details [here](/contact).
 
 
 ## Project Code for Blue Crystal
