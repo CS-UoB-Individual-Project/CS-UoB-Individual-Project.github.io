@@ -30,9 +30,9 @@ one-on-one sessions with experts in the field.
 * **Q&A session 1: Online on Teams**. Thursday 5th October 12:00-13:00 (Week 2). Padlet link [here](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-1-hpsbiporpnr7eezo) (click "continue with Microsoft" when signing in). Recording is available [here](https://uob.sharepoint.com/teams/grp-cs-individual-projects-20232024/Shared%20Documents/Questions%20and%20Answers/Recordings/View%20Only/Q%26A%20Session%201-20231005_120153-Meeting%20Recording.mp4?web=1).
 * **Q&A session 2: Online on Teams.**  Tuesday 11th October 12:00-13:00 (Week 3). Padlet link [here](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-2-gmia68150j1jrtfs). Recording will be posted after the event.
 * **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. Released [here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ). 
-* <span style="color:red;">**Ethics Lecture/Quiz Release:** </span> The lecture on Ethics can be found [here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1).
+* **Ethics Lecture/Quiz Release:**  The lecture on Ethics can be found [here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1).
 * **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building). **Wednesday 25th October 14:00-16:00 (Week 5)**
-* **Project specification deadline:** Deadline for finding a supervisor, passing the ethics training, and submitting a project specification **Friday 17th November 12:00 (Week 8)**. Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1XIgcXxY4VKmVom51Cg1JBUQzhDVVRYTEhKQkFaSlNNNVAzVjJIUFU1Ti4u).
+* <span style="color:red;">**Project specification deadline:**</span> Deadline for finding a supervisor, passing the ethics training, and submitting a project specification **Friday 17th November 12:00 (Week 8)**. Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1XIgcXxY4VKmVom51Cg1JBUQzhDVVRYTEhKQkFaSlNNNVAzVjJIUFU1Ti4u).
 
 TB2 Info _Coming Soon_
 
@@ -52,4 +52,4 @@ If you don't have access, contact Mike or Sarah, details [here](/contact).
 
 ## Project Code for Blue Crystal
 
-When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: **COSC027924**, not any other codes you may have been given for previous units.
+When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: **COSC031144**, not any other codes you may have been given for previous units.
