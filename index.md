@@ -34,6 +34,8 @@ one-on-one sessions with experts in the field.
 * **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building). **Wednesday 25th October 14:00-16:00 (Week 5)**
 * <span style="color:red;">**Project specification deadline:**</span> Deadline for finding a supervisor, passing the ethics training, and submitting a project specification **Friday 17th November 12:00 (Week 8)**. Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1XIgcXxY4VKmVom51Cg1JBUQzhDVVRYTEhKQkFaSlNNNVAzVjJIUFU1Ti4u).
 
+**The deadline for Submitting your project specification has now passed. If you haven't already, please contact Mike W. and/or Sarah C. ASAP!**
+
 TB2 Info _Coming Soon_
 
 ## Project Handbook
