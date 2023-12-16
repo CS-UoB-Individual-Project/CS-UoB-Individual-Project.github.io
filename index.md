@@ -54,4 +54,4 @@ If you don't have access, contact Mike or Sarah, details [here](/contact).
 
 ## Project Code for Blue Crystal
 
-When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: **COSC031144**, not any other codes you may have been given for previous units.
+When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: **COMS031144**, not any other codes you may have been given for previous units.
