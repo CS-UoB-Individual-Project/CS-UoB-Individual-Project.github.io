@@ -26,17 +26,31 @@ one-on-one sessions with experts in the field.
 
 ## Schedule, Videos and Materials
 
-* **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. Asynchronous, [video here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ERF6ILi2B55Mmm7KIYCt7IIBLTuST3YEiJsKJujV1GJZ8g?e=Fr7VaQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19), [slides here](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EaDUk7VjGTRNgAWbLCTuDX0BS0ZhxnZACU_MLy-XovxrlA?e=aekPYf).
-* **Q&A session 1: Online on Teams**. Thursday 5th October 12:00-13:00 (Week 2). Padlet link [here](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-1-hpsbiporpnr7eezo) (click "continue with Microsoft" when signing in). Recording is available [here](https://uob.sharepoint.com/teams/grp-cs-individual-projects-20232024/Shared%20Documents/Questions%20and%20Answers/Recordings/View%20Only/Q%26A%20Session%201-20231005_120153-Meeting%20Recording.mp4?web=1).
-* **Q&A session 2: Online on Teams.**  Tuesday 11th October 12:00-13:00 (Week 3). Padlet link [here](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-2-gmia68150j1jrtfs). Recording will be posted after the event.
-* **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. Released [here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ). 
-* **Ethics Lecture/Quiz Release:**  The lecture on Ethics can be found [here](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1).
-* **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building). **Wednesday 25th October 14:00-16:00 (Week 5)**
-* <span style="color:red;">**Project specification deadline:**</span> Deadline for finding a supervisor, passing the ethics training, and submitting a project specification **Friday 17th November 12:00 (Week 8)**. Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1XIgcXxY4VKmVom51Cg1JBUQzhDVVRYTEhKQkFaSlNNNVAzVjJIUFU1Ti4u).
+| **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	|
+|------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	|
+| 22/01/2024 	| 15:00    	| Project Kick-off        	| MVB 1.11/1.11A 	| [link](https://mediasite.bris.ac.uk/Mediasite/Play/9b97627f6dbe4a8c91f72558e9ebcb1e1d) 	|
+| 01/02/2024 	| 11:00    	| Library Workshop        	| Ivy Gate 1.01  	|                                                                                        	|
+| 01/02/2024 	| 13:00    	| Q&A Session             	| QB Pugsley+    	|                                                                                        	|
+| 14/03/2024 	| 11:00    	| Project Poster Workshop 	| QB BBDS        	|                                                                                        	|
+| W/C 18/03  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	|
+| 19/03/2024 	| 09:00    	| Project Writing Retreat 	| QB 1.07       	|                                                                                        	|
+| W/C 15/04  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	|
+| 17/04/2024 	| 14:30    	| Project Poster Day      	| QB BBDS        	|                                                                                        	|
+| 25/04/2024 	| 15:00    	| Project Writing Retreat 	| QB 1.06       	|                                                                                        	|
 
-**The deadline for Submitting your project specification has now passed. If you haven't already, please contact Mike W. and/or Sarah C. ASAP!**
+`*` You will need to sign up for a specific session for the CALD Writing Workshops
 
-TB2 Info _Coming Soon_
+`+` These will be run as a hybrid event
+
+
+## Deadlines
+
+| **Deadline**                                  	| **Date**   	| **Time** 	|
+|-----------------------------------------------	|------------	|----------	|
+| **CS+Maths 4th Year** Innovation Presentation 	| 07/03/2024 	| 14:00    	|
+| **CS 4th Year** Innovation Case               	| 11/03/2024 	| 13:00    	|
+| **CS+Maths** Dissertation Deadline            	| 02/05/2024 	| 13:00    	|
+| **CS** Dissertation Deadline                  	| 09/05/2024 	| 13:00    	|
 
 ## Project Handbook
 
