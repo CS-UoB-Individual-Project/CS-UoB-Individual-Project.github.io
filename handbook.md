@@ -160,7 +160,7 @@ Whilst the poster day is optional, we **highly recommend you attend**, this is a
 
 At the end of the project you will hand in your dissertation, which is a write-up of your project including how it fits into the literature, project execution, and results. **Only the dissertation and viva are marked**, so you may have completed an amazing project, but with a poor dissertation you can still fail the project.
 
-We provide templates in LaTeX and Word for the dissertation for you to use, and **strongly recommend** the LaTeX template due to issues with Word and large files. If you want to use a different template (not recommended), get in contact with us as soon as possible as there are some formatting requirements - failure to follow these could result in failing the project unit.
+We provide [templates](/assessment/#latex-dissertation-template) in LaTeX and Word for the dissertation for you to use, and **strongly recommend** the LaTeX template due to issues with Word and large files. If you want to use a different template (not recommended), get in contact with us as soon as possible as there are some formatting requirements - failure to follow these could result in failing the project unit.
 
 # Assessment
 
