@@ -26,17 +26,17 @@ one-on-one sessions with experts in the field.
 
 ## Schedule, Videos and Materials
 
-| **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	|
-|------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	|
-| 22/01/2024 	| 15:00    	| Project Kick-off        	| MVB 1.11/1.11A 	| [link](https://mediasite.bris.ac.uk/Mediasite/Play/9b97627f6dbe4a8c91f72558e9ebcb1e1d) 	|
-| 01/02/2024 	| 11:00    	| Library Workshop        	| Ivy Gate 1.01  	|                                                                                        	|
-| 01/02/2024 	| 13:00    	| Q&A Session             	| QB Pugsley+    	|                                                                                        	|
-| 14/03/2024 	| 11:00    	| Project Poster Workshop 	| QB BBDS        	|                                                                                        	|
-| W/C 18/03  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	|
-| 19/03/2024 	| 09:00    	| Project Writing Retreat 	| QB 1.07       	|                                                                                        	|
-| W/C 15/04  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	|
-| 17/04/2024 	| 14:30    	| Project Poster Day      	| QB BBDS        	|                                                                                        	|
-| 25/04/2024 	| 15:00    	| Project Writing Retreat 	| QB 1.06       	|                                                                                        	|
+| **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
+|------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
+| 22/01/2024 	| 15:00    	| Project Kick-off        	| MVB 1.11/1.11A 	| [link](https://mediasite.bris.ac.uk/Mediasite/Play/9b97627f6dbe4a8c91f72558e9ebcb1e1d) 	    |
+| 01/02/2024 	| 11:00    	| Library Workshop        	| Ivy Gate 1.01  	|                                                                                        	    |
+| 01/02/2024 	| 13:00    	| Q&A Session             	| QB Pugsley+    	| [Padlet](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-3-6in1lwfinnzesipq)|
+| 14/03/2024 	| 11:00    	| Project Poster Workshop 	| QB BBDS        	|                                                                                        	    |
+| W/C 18/03  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
+| 19/03/2024 	| 09:00    	| Project Writing Retreat 	| QB 1.07       	|                                                                                        	    |
+| W/C 15/04  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
+| 17/04/2024 	| 14:30    	| Project Poster Day      	| QB BBDS        	|                                                                                        	    |
+| 25/04/2024 	| 15:00    	| Project Writing Retreat 	| QB 1.06       	|                                                                                        	    |
 
 `*` You will need to sign up for a specific session for the CALD Writing Workshops
 

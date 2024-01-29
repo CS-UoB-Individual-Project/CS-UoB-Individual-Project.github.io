@@ -17,6 +17,36 @@ Table of contents
 # Announcements Page
 
 
+## Week 2 of Projects
+
+We're now entering the second week of the Project.  If you haven’t been able to meet your supervisor and don’t have a date this week, please email me and Sarah Connolly, and we will chase them for you. 
+
+This week there is the Library Workshop to help you maximise your research skills and the Projects Q&A on Thursday – we recommend you all come to these. 
+* **Library Workshop** Thursday 11:00-12:00 Ivy Gate 1.01. Get info on how to find reliable sources, incorporating AI tools effectively, and more!
+* **Project Q&A** Thursday 13:00-14:00 Queens Building 1.4. Get answers to all of your burning questions! Write them on the Padlet [here](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-3-6in1lwfinnzesipq).
+
+ 
+
+We also wanted to remind you about some project resources for you:
+
+ 
+
+* [Project website](https://cs-uob-individual-project.github.io/).  The front page has the main dates, including the various workshops.  These, and Poster Day, are optional, but we strongly recommend all students use the opportunities.
+* The website also includes the [marking scheme](https://cs-uob-individual-project.github.io/handbook/#mark-scheme), the [dissertation template](https://cs-uob-individual-project.github.io/assessment/#latex-dissertation-template) and the [Project handbook](https://cs-uob-individual-project.github.io/handbook/).
+* The [Individual Projects Team](https://teams.microsoft.com/l/team/19%3aSU5HfuaMqsyIqoDSgjTgrmYLAWHKGbNfamySiYADjI01%40thread.tacv2/conversations?groupId=1b63f256-c976-4dcf-8dbf-a0fc4d6bcb49&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) will be our main way of communicating with students, and has a Frequently Asked Questions channel, where you can ask us anything about the projects. 
+* Example projects from last year are in the Project Team (general -> files -> Class Materials).  The filenames start with the unit code (M&CS 20c project, BSc 40c, MEng 40c)
+* If you missed the kick-off, the recording is in the Re/Play section of the unit Blackboards, and the [slides are here](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/kick-off.pdf?csf=1&web=1&e=3ig3kj). 
+ 
+
+If you have any questions, bring them to the Q&A on Thursday, or ask in the FAQ Channel on Teams.
+
+
+All the best
+
+ 
+Michael Wray and Sarah Connolly
+
+
 ## Project Specification Spreadsheet Released
 
 Hi all,
