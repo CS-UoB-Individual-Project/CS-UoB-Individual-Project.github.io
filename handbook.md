@@ -121,7 +121,7 @@ This is a chance to ask questions and get guidance throughout the project, they 
 
 ## Time Management
 
-You should plan for 12 weeks with 40-hour work weeks for the project - though with everything at University you can choose to break this up however you wish.
+You should plan for 12 weeks with 40-hour work weeks for all your work in the Teaching Block - your project, your other unit(s) and the innovation case if in Year 4 - though with everything at University you can choose to break this up however you wish.
 **You should not *plan* to work every day in TB2**, doing so will likely leave you falling behind.
 
 Importantly, you should plan for *disruptions* which could be illnesses, job interviews, computer issues, etc.
