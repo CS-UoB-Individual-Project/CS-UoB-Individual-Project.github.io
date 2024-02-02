@@ -17,6 +17,20 @@ Table of contents
 # Announcements Page
 
 
+## Library Workshop Recording/Slides and Q&A 3 Recording
+
+Hi All,
+
+Just a quick email to say that the slides for the library workshop and the recording for both the workshop and 3rd Q&A are now on the website or at the links below:
+
+Library workshop [Slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EXoqJuUQOs5PoSe4355rFu4BCqxFn4W5Nq3JpZ2X1b636g?e=iJfXCt), [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/415d6236aa084fb2b9409bcd7856de1e1d)
+Q&A 3 [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/33848200efcb43cdbb134000641608a51d)
+
+Have a good weekend,
+
+Mike and Sarah
+
+
 ## Week 2 of Projects
 
 We're now entering the second week of the Project.  If you haven’t been able to meet your supervisor and don’t have a date this week, please email me and Sarah Connolly, and we will chase them for you. 
