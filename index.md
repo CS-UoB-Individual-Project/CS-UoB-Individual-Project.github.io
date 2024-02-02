@@ -29,8 +29,8 @@ one-on-one sessions with experts in the field.
 | **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
 |------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
 | 22/01/2024 	| 15:00    	| Project Kick-off        	| MVB 1.11/1.11A 	| [link](https://mediasite.bris.ac.uk/Mediasite/Play/9b97627f6dbe4a8c91f72558e9ebcb1e1d) 	    |
-| 01/02/2024 	| 11:00    	| Library Workshop        	| Ivy Gate 1.01  	|                                                                                        	    |
-| 01/02/2024 	| 13:00    	| Q&A Session             	| QB Pugsley+    	| [Padlet](https://uob.padlet.org/michaelwray1/individual-projects-23-24-q-a-3-6in1lwfinnzesipq)|
+| 01/02/2024 	| 11:00    	| Library Workshop        	| Ivy Gate 1.01  	| [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EXoqJuUQOs5PoSe4355rFu4BCqxFn4W5Nq3JpZ2X1b636g?e=iJfXCt), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/415d6236aa084fb2b9409bcd7856de1e1d) |
+| 01/02/2024 	| 13:00    	| Q&A Session             	| QB Pugsley+    	| [recording](https://mediasite.bris.ac.uk/Mediasite/Play/33848200efcb43cdbb134000641608a51d)   |
 | 14/03/2024 	| 11:00    	| Project Poster Workshop 	| QB BBDS        	|                                                                                        	    |
 | W/C 18/03  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
 | 19/03/2024 	| 09:00    	| Project Writing Retreat 	| QB 1.07       	|                                                                                        	    |
@@ -51,6 +51,12 @@ one-on-one sessions with experts in the field.
 | **CS 4th Year** Innovation Case               	| 11/03/2024 	| 13:00    	|
 | **CS+Maths** Dissertation Deadline            	| 02/05/2024 	| 13:00    	|
 | **CS** Dissertation Deadline                  	| 09/05/2024 	| 13:00    	|
+
+## Viva Dates
+
+The vivas will be held on the **28th/29th May 2024**. Treat these dates as an exam, i.e. you should be free for these dates.
+
+Note that vivas are being planned to be **in-person**.
 
 ## Project Handbook
 
