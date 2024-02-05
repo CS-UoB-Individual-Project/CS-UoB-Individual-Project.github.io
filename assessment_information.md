@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessment and Ethics Information
+title: Assessment Information
 permalink: /assessment/
 ---
 
@@ -13,7 +13,7 @@ Table of contents
 {:toc}
 </details>
 
-## Assessment and Ethics Information
+## Assessment Information
 
 ### Project Handbook
 
@@ -30,32 +30,6 @@ We have selected a variety of student projects from last year covering a wide ra
 
 Note that these have been anonymised and some pages with identifying information has been removed.
 
-
-## Ethics
-
-This year we will require **all** students to pass a short ethics quiz before
-submitting their project specification, regardless of whether your project
-requires an ethics application or not. In fact, the main point of the training 
-is to make sure that you can accurately tell whether your project requires a full ethics
-application or whether it's something that you and your supervisor can handle together.
-
-### Ethics Quiz
-
-Can be found on the welcome page of your respective unit on blackboard.
-
-### Ethics Links
-
-* [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1) (useful to pass the ethics quiz!).
-
-* [Student permission form](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Student%20permission%20form.docx?d=w11808599cb264552aefb0e8301b12286&csf=1&web=1&e=tzCM0e) (for projects which need ethical approval and are
-  covered by Ethics Application 0026).
-  
-* [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical approval but are not
-  covered by Ethics Application 0026).  Before you put your application in, read the [Faculty Research Ethics Committee webpage](https://uob.sharepoint.com/sites/engineering/SitePages/research-ethics-committee.aspx).  The deadline for being considered at the February Committee is 18 January 2024, with a clinic to support applications on 17 January.  If you are planning to put in an application, we strongly recommend you reach out to Faculty Research Ethics Administrator, Marc Moyce at marc.moyce@bristol.ac.uk, to get advice on your application - ideally in TB1.
-  
-* [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Consent%20form%20template.docx?d=w96be1235d3714a069cab90d38c594ff9&csf=1&web=1&e=4BPSEX).
-* 
-* [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Participant%20Information%20Sheet%20template.docx?d=wfb5a04293a314793a9db8c18d04dc74c&csf=1&web=1&e=YZpXwI).
 
 ## Dissertation Writing
 
