@@ -59,8 +59,8 @@ out to Faculty Research Ethics Administrator, Marc Moyce at
 * [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical approval but are not
   covered by Ethics Application 0026).  
   
-* [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Consent%20form%20template.docx?d=w96be1235d3714a069cab90d38c594ff9&csf=1&web=1&e=4BPSEX).
+* [Sample Consent form template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Shared%20Documents/ConsentForm_template.docx?d=wdcf48a86422f477fb9b7f5ebd9e5fe6b&csf=1&web=1&e=ebMZhS).
 * 
-* [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Class%20Materials/Participant%20Information%20Sheet%20template.docx?d=wfb5a04293a314793a9db8c18d04dc74c&csf=1&web=1&e=YZpXwI).
+* [Sample Participant Information Sheet Template](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-20232024/Shared%20Documents/Participant%20information%20sheet.docx?d=w9894f16793c84a6dbf23bd5f146cea76&csf=1&web=1&e=apxrxA).
 
 
