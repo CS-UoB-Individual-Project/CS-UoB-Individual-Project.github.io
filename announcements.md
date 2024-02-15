@@ -2,7 +2,7 @@
 layout: default
 nav_order: 2
 title: Announcements
-permalink: /anouncements/
+permalink: /announcements/
 ---
 
 <details open markdown="block">

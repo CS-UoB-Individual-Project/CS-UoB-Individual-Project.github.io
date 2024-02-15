@@ -2,6 +2,7 @@
 layout: default
 title: Assessment Information
 permalink: /assessment/
+nav_order: 6
 ---
 
 <details open markdown="block">
