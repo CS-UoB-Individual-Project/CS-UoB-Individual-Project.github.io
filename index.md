@@ -31,6 +31,7 @@ one-on-one sessions with experts in the field.
 | 22/01/2024 	| 15:00    	| Project Kick-off        	| MVB 1.11/1.11A 	| [link](https://mediasite.bris.ac.uk/Mediasite/Play/9b97627f6dbe4a8c91f72558e9ebcb1e1d) 	    |
 | 01/02/2024 	| 11:00    	| Library Workshop        	| Ivy Gate 1.01  	| [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EXoqJuUQOs5PoSe4355rFu4BCqxFn4W5Nq3JpZ2X1b636g?e=iJfXCt), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/415d6236aa084fb2b9409bcd7856de1e1d) |
 | 01/02/2024 	| 13:00    	| Q&A Session             	| QB Pugsley+    	| [recording](https://mediasite.bris.ac.uk/Mediasite/Play/33848200efcb43cdbb134000641608a51d)   |
+| 21/02/2024    | N/A       | Intro to LaTeX            | N/A               | [online video](https://web.microsoftstream.com/video/ff83cc49-acd5-4ca1-b1b2-b01576f2e0ed)    |
 | 14/03/2024 	| 11:00    	| Project Poster Workshop 	| QB BBDS        	|                                                                                        	    |
 | W/C 18/03  	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
 | 19/03/2024 	| 09:00    	| Project Writing Retreat 	| QB 1.07       	|                                                                                        	    |
