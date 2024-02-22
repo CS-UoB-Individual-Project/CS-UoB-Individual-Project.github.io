@@ -23,7 +23,7 @@ You do **not** need your talk to be an accurate overview of your project as it w
 
 Further details are discussed in the first workshop, linked below.
 
-The membership of the marking panel is still being finalised, but will include Christian Konrad, John Lapinskas, and Michael Wray. The mark scheme is also still in the process of being finalised, but a broad overview was discussed in the first workshop.
+The membership of the marking panel is still being finalised, but will include Christian Konrad, John Lapinskas, and Michael Wray. A more formal description of the assessment along with a mark scheme is available [here](mark_scheme.pdf).
 
 ## Schedule and Materials
 
