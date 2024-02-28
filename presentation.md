@@ -31,7 +31,7 @@ The membership of the marking panel is still being finalised, but will include C
 |------------	|----------	|-------------------------           	|----------------	|-------------- |
 |02/02/2024     |1pm-3pm    |Workshop 1: Intro and speaking technique |Ada SM3            |[Slides](intro-talk.pdf), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/f9da8043c64c416a9bc7cb5229494f301d)|
 |16/02/2024     |2pm-4pm    |Workshop 2: Outlining and slides       |Ada SM4            |[Slides](session2.pdf), [recording](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/969ee7cc0a1f4f4ba311e1545e0a05241d), [TOPp SEkrEt](PPTs.zip)               |
-|23/02/2024     |           |Workshop 3: Looking at drafts          |Ada SM4            |               |
+|23/02/2024     |           |Workshop 3: Looking at drafts          |Ada SM4            | [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/78d84cf5a7ba451193990826b6173ea31d)              |
 |26/02/2024     |N/A        |**Reading week!**                      |N/A                |N/A            |
 |04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |Physics 3.34       |               |
 |07/03/2024     |2pm-5pm    |Presentations                          |Queens 1.68        |N/A            |
