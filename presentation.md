@@ -25,6 +25,8 @@ Further details are discussed in the first workshop, linked below.
 
 The membership of the marking panel is still being finalised, but will include Christian Konrad, John Lapinskas, and Michael Wray. A more formal description of the assessment along with a mark scheme is available [here](mark_scheme.pdf).
 
+You should submit your slides in advance of the presentations themselves on Blackboard [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8033435_1&course_id=_257094_1&mode=reset) (scroll to the bottom). The deadline is the start of the presentations, i.e. 2pm on March 7th.
+
 ## Schedule and Materials
 
 | **Date**   	| **Time** 	| **Title**               	            | **Location**   	| **Materials** |
