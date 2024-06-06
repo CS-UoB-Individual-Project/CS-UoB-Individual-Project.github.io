@@ -59,6 +59,16 @@ The vivas will be held on the **28th/29th May 2024**. Treat these dates as an ex
 
 Note that vivas are being planned to be **in-person**.
 
+## August submission deadlines
+
+| **Deadline**                                  	| **Date**   	| **Time** 	|
+|-----------------------------------------------	|------------	|----------	|
+| **All programmes** Dissertation Deadline        | 05/08/2024 	| 13:00    	|
+
+## August Viva Dates
+
+The vivas will be held on the **9/12 August 2024**. Treat these dates as an exam, i.e. you should be free for these dates.
+
 ## Project Handbook
 
 Almost every question you might have about the project is answered in
