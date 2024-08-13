@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 5
-title: Handbook - Q&A
+nav_order: 8
+title: Frequently Asked Questions
 permalink: /qanda/
 ---
 

@@ -1,9 +1,3 @@
----
-layout: default
-nav_order: 3
-title: Handbook - Quick Start
-permalink: /handbook/
----
 
 <details open markdown="block">
 <summary>
