@@ -17,7 +17,7 @@ Table of contents
 
 # Individual Project Handbook - Questions & Answers
 
-## Where to ask questions
+# Where to ask questions
 The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Mike and Sarah will be answering questions as quickly as we can.  We will periodically add answers here.
 
 # Project choice
@@ -45,8 +45,8 @@ The first and fastest place to ask questions and to see if your question has alr
 
 ## Contacting your Supervisor
 
-* **I cannot contact my supervisor**: Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, please email the Unit Director and/or Deputy Unit Directors on the [Contact Us](/contact/) page.
-* **My supervisor refuses to meet me**: Please email the Unit Director and/or Deputy Unit Directors on the [Contact Us](/contact/) page including any recent and relevant emails with your supervisor.
+* **I cannot contact my supervisor**: Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, please email [Mike and Sarah](/contact/).
+* **My supervisor refuses to meet me**: Please email [Mike and Sarah](/contact/) including any recent and relevant emails with your supervisor.
 
 # Accessing equipment/software/services
 
@@ -55,39 +55,30 @@ The first and fastest place to ask questions and to see if your question has alr
 * **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if it is, email [Mike and Sarah](/contact/).
 * **How do I apply to use Blue Crystal?**:  Use [this link](https://www.acrc.bris.ac.uk/login-area/apply.cgi) and under project details, make sure you click join an existing project, with project code COMS031144.
 
-# Poster Day
-
-* **What is Poster Day**: This is a chance to meet your Second Marker for the first time, talk to them about your project and ask them what they expect to see in a project like yours.  It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
-* **Is Poster Day mandatory?**: No, but we strongly encourage it!
-* **I've never made a poster before - how do I start?**:  Come to the Poster Workshop, and you can start with the templates in the [Class Materials pages of the Projects Team]
-* **Do I have to pay to come to Poster Day?**: No, we will print your poster for you.  
-* **Can I keep my posters?**:  Yes, but if you leave Poster Day early, leave your poster up and you can collect it afterwards from the School Office.  
-
 # Dissertation
 
 ## Structure of Dissertation
 * **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
 * **Saying more with less**: When writing your dissertation if you can cut out portions *without* removing anything important it is likely that your mark will go up, not down. Writing concisely with detail is the aim here.
-  
 * **How should I structure my dissertation?**: The structure of your dissertation also depends on topic and project type and it's best to ask your supervisor if they have any suggestions. That said, we expect that most dissertations will begin with an *Introduction*, followed by *Background*, then *Project Execution*, and finally *Evaluation* and *Conclusion*. We have provided a LaTeX template on the main webpage for you to use which follows this structure.
-* **Which referencing shoul
-
-* **Do I have to use LaTeX to write my dissertataion?**: 
-* **Is there a specific template I should use?**: Yes, use the templates provided (LaTeX and word) in the [Class Materials section of the Project Team](
+* **Do I have to use LaTeX to write my dissertataion?**: No, but talk to your supervisor about this as there may be field-specific norms you should use.
+* **Is there a specific template I should use?**: Yes, use the templates provided (LaTeX and word) in the [Class Materials section of the Project Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).
 * **I want to change my dissertation title, is this ok?**:  Yes, this is fine.  
 * **One of the easiest ways to provide evidence of my project working as expected is via video. Am I allowed to link to one/multiple youtube videos in my project writeup?**: Yes! You can provide these either as a footnote, or cited as you would a webpage. You can also use the viva to showcase your project working.
+
+
+## Writing your dissertation
+* **Is there anywhere I can get help with the writing?**: The [University Study Skills team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/) have a lot of support for writing, including workshops and bookable tutorials and dropins where someone can look at your writing and give you feedback and advice. That website also has resources on all kinds of topics like academic reading and writing, planning your work and using feedback.  You can also book sessions with [University Writing Fellows](https://www.bristol.ac.uk/bristol-futures/royal-literary-fellows/) who can give you advice on writing and feedback on your draft.  There will also be two writing workshops in TB2 run bu the Centre for Academic Language and Development specifically about the Computer Science dissertations.
 * **How many pages of our dissertation we are allowed to give our supervisor for feedback?**: It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time to read and reply - it's best to agree in advance when you will send them drafts for feedback.
 * **Does the page count of 50 pages include figures? I have a lot of data visualisations which are required to be in the main body but increases the page count as a result.**:  Figures in the main body of the dissertation are included in the page count, but you can also include more in the Appendices, which are not included in the page count.  Talk to your supervisor about what's best for your project.
 
-# Referencing
+## Referencing
 
 * **Which referencing style should I use?**:It's up to you, as long as you are consistent, but in general CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference always everything you can think of.
- 
 * **How do I know what I should be referencing?**: There's a page on referencing in general on [the University Library pages]( https://www.bristol.ac.uk/library/subject-support/referencing/) which we recommend bookmarking.
 * **What's the difference between a dissertation, a thesis and a report?**: For these projects, nothing! They're different words to describe the same thing.
 
-
-# Research
+## Research
 
 * **Where can I get healp researching my area?**:  The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers.  Use that link to book an appointment.
 * **Can I get research support in other topics?**: Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) and they can get help from any of the other Subject Librarians in the University.
@@ -138,12 +129,21 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Where do I submit my dissertation?**: In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points.
 * **What should I call the file?**:  It's helpful to call your PDF [your name]_[dissertation title] but there is no standard naming convention.
 * **Do I need to submit my code?**:  You can if you want to - there is a separate submission point called Auxiliary Materials, where you can submit a zip file with your code and any other materials. You can also include links to your GitHub within your dissertation.  If you do submit code, make sure you add something in the dissertation to tell the markers you have done so.  If there is part of the code you definitely want the marker to see, include snippets in the dissertation and longer parts of code in the Appendices.
+* **I'm worried I won't finish in time - can I get an extension?**: 
+
+# Poster Day
+
+* **What is Poster Day**: This is a chance to meet your Second Marker for the first time, talk to them about your project and ask them what they expect to see in a project like yours.  It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
+* **Is Poster Day mandatory?**: No, but we strongly encourage it!
+* **Do you have examples of posters?**: Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there will be examples of posters added to the [Class Materials pages of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH). 
+* **I've never made a poster before - how do I start?**:  Come to the Poster Workshop, and you can start with the templates in the [Class Materials pages of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).  
+* **Do I have to pay to come to Poster Day?**: No, we will print your poster for you.  
+* **Can I keep my posters?**:  Yes, but if you leave Poster Day early, leave your poster up and you can collect it afterwards from the School Office.  
 
 # Marking
 
 * **How will I be marked?**: Each project will be marked by two markers:  your supervisor and your second marker. This is so you are marked by someone who knows your project and someone who doesn't.  They will each mark the work independently and then agree a mark between them. If they can't agree, we will bring in a third marker, but this is rare.
 * **Who will be my second marker?**: Your second marker will be someone who knows enough about your subject to mark your project.  We will tell you who your second marker is halfway through TB2, and you will have a chance to talk to them about your project on or around Poster Day.
-
 * **Is there a difference in the mark scheme for CS and Maths and CS?**: No, it's the same marking scheme.  For the Maths and CS Short Project, your markers will know it's a 20 credit project and mark it accordingly
 
 # Vivas
