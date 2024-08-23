@@ -59,6 +59,8 @@ The first and fastest place to ask questions and to see if your question has alr
 
 # Dissertation
 
+There is more information about the structure and templates on the [Writing Your Dissertation page](/writing_your_dissertation/).
+
 ## Structure of Dissertation
 * **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
 * **Saying more with less**: When writing your dissertation if you can cut out portions *without* removing anything important it is likely that your mark will go up, not down. Writing concisely with detail is the aim here.
@@ -67,13 +69,14 @@ The first and fastest place to ask questions and to see if your question has alr
 * **Is there a specific template I should use?**: Yes, use the templates provided (LaTeX and word) in the [Class Materials section of the Project Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).
 * **I want to change my dissertation title, is this ok?**:  Yes, this is fine.  
 * **One of the easiest ways to provide evidence of my project working as expected is via video. Am I allowed to link to one/multiple youtube videos in my project writeup?**: Yes! You can provide these either as a footnote, or cited as you would a webpage. You can also use the viva to showcase your project working.
+* **What is "frontmatter"?**:  These are the standard pages you must include in the dissertation - things like the title page, index, list of tables etc.  These are provided in the templates and are not included in the page count.  
+* **Do I have to include Acknowledgements in my dissertation?**: No, this is optional - if you don't want to include them, delete the page. 
 
 
 ## Writing your dissertation
 
-There is more information on the [Writing Your Dissertation page](/writing_your_dissertation/)
+There is more information, including sources of writing, editing and planning support, on the [Writing Your Dissertation page](/writing_your_dissertation/)
 
-* **Is there anywhere I can get help with the writing?**: The [University Study Skills team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/) have a lot of support for writing, including workshops and bookable tutorials and dropins where someone can look at your writing and give you feedback and advice. That website also has resources on all kinds of topics like academic reading and writing, planning your work and using feedback.  You can also book sessions with [University Writing Fellows](https://www.bristol.ac.uk/bristol-futures/royal-literary-fellows/) who can give you advice on writing and feedback on your draft.  There will also be two writing workshops in TB2 run bu the Centre for Academic Language and Development specifically about the Computer Science dissertations.
 * **How many pages of our dissertation we are allowed to give our supervisor for feedback?**: It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time to read and reply - it's best to agree in advance when you will send them drafts for feedback.
 * **Does the page count of 50 pages include figures? I have a lot of data visualisations which are required to be in the main body but increases the page count as a result.**:  Figures in the main body of the dissertation are included in the page count, but you can also include more in the Appendices, which are not included in the page count.  Talk to your supervisor about what's best for your project.
 * **Can I use AI/Large Language Models/Translation software?**: Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity/).
@@ -86,7 +89,7 @@ There is more information on the [Writing Your Dissertation page](/writing_your_
 
 ## Research
 
-* **Where can I get healp researching my area?**:  The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers.  Use that link to book an appointment.
+* **Where can I get help researching my area?**:  The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers.  Use that link to book an appointment.
 * **Can I get research support in other topics?**: Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) and they can get help from any of the other Subject Librarians in the University.
 * **Can I get access to a book/journal that the University doesn't already provide?**:  Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) who can order books and sign up to journals for you. 
 
