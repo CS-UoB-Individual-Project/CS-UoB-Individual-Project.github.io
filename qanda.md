@@ -51,9 +51,11 @@ The first and fastest place to ask questions and to see if your question has alr
 # Accessing equipment/software/services
 
 * **How do I borrow hardware for my project?**: Make an [appointment with the Computer Science Teaching Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint) who can help you.
-* **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact/) as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.  
-* **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if it is, email [Mike and Sarah](/contact/).
+* **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact/) with what you need and why you need it, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
+* **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if they agree it it is, email [Mike and Sarah](/contact/) with what you need and why you need it.
+* **It's too late, I already spent money on my project - what do I do?**: Email [Mike and Sarah](/contact/) and do not spend any more money on it!
 * **How do I apply to use Blue Crystal?**:  Use [this link](https://www.acrc.bris.ac.uk/login-area/apply.cgi) and under project details, make sure you click join an existing project, with project code COMS031144.
+
 
 # Dissertation
 
