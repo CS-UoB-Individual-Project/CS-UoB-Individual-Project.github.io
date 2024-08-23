@@ -70,9 +70,13 @@ The first and fastest place to ask questions and to see if your question has alr
 
 
 ## Writing your dissertation
+
+There is more information on the [Writing Your Dissertation page](/writing_your_dissertation/)
+
 * **Is there anywhere I can get help with the writing?**: The [University Study Skills team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/) have a lot of support for writing, including workshops and bookable tutorials and dropins where someone can look at your writing and give you feedback and advice. That website also has resources on all kinds of topics like academic reading and writing, planning your work and using feedback.  You can also book sessions with [University Writing Fellows](https://www.bristol.ac.uk/bristol-futures/royal-literary-fellows/) who can give you advice on writing and feedback on your draft.  There will also be two writing workshops in TB2 run bu the Centre for Academic Language and Development specifically about the Computer Science dissertations.
 * **How many pages of our dissertation we are allowed to give our supervisor for feedback?**: It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time to read and reply - it's best to agree in advance when you will send them drafts for feedback.
 * **Does the page count of 50 pages include figures? I have a lot of data visualisations which are required to be in the main body but increases the page count as a result.**:  Figures in the main body of the dissertation are included in the page count, but you can also include more in the Appendices, which are not included in the page count.  Talk to your supervisor about what's best for your project.
+* **Can I use AI/Large Language Models/Translation software?**: Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity/).
 
 ## Referencing
 
@@ -88,15 +92,11 @@ The first and fastest place to ask questions and to see if your question has alr
 
 # Ethics
 
+You can find the full information about Project Ethics on the [Ethics page](/ethics/).
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
 * **How long does it take to get an ethics application accepted?**: This can vary, _a lot_. Depending on the project and application this can be granted quickly in a few weeks. Alternatively, it could undergo required changes from the Faculty Research Ethics Committee (FREC) in multiple stages taking three months or longer. You may notice that this scenario is longer than the projects unit so it is _imperative_ that you discuss ethics with your supervier ASAP and submit the ethics application ASAP.
 * **Can I use datasets used online in a project that requires no ethics**: Yes, so long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release. 
-
-# Submitting your work
-* **Where do I submit my dissertation?**: In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points.
-* **What should I call the file?**:  It's helpful to call your PDF [your name]_[dissertation title] but there is no standard naming convention.
-* **Do I need to submit my code?**:  You can if you want to - there is a separate submission point called Auxiliary Materials, where you can submit a zip file with your code and any other materials. You can also include links to your GitHub within your dissertation.  If you do submit code, make sure you add something in the dissertation to tell the markers you have done so.  If there is part of the code you definitely want the marker to see, include snippets in the dissertation and longer parts of code in the Appendices.
 
 
 # Timetabled Events
@@ -113,7 +113,13 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 ## Writing Retreats
 * **What are the Writing Retreats?**: These are optional sessions to do some writing in a quiet space with other people around you. Mike and Sarah will be there, doing our own writing as well, bringing snacks and being on hand for questions.
 
+# Submitting your work
+* **Where do I submit my dissertation?**: In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points.
+* **What should I call the file?**:  It's helpful to call your PDF [your name]_[dissertation title] but there is no standard naming convention.
+* **Do I need to submit my code?**:  You can if you want to - there is a separate submission point called Auxiliary Materials, where you can submit a zip file with your code and any other materials. You can also include links to your GitHub within your dissertation.  If you do submit code, make sure you add something in the dissertation to tell the markers you have done so.  If there is part of the code you definitely want the marker to see, include snippets in the dissertation and longer parts of code in the Appendices.
+
 # Marking
+There is more information about the marking and assessment processes on the [Assessment Information page](/assessment_information/).
 
 * **How will I be marked?**: Each project will be marked by two markers:  your supervisor and your second marker. This is so you are marked by someone who knows your project and someone who doesn't.  They will each mark the work independently and then agree a mark between them. If they can't agree, we will bring in a third marker, but this is rare.
 * **Who will be my second marker?**: Your second marker will be someone who knows enough about your subject to mark your project.  We will tell you who your second marker is halfway through TB2, and you will have a chance to talk to them about your project on or around Poster Day.
@@ -127,5 +133,5 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Do I have to make a presentation for my viva?**:  No, but we recommend you bring some slides so that you can remember the key points you want to say. 
 * **Can I complete the unit without undergoing a viva?**: Unfortunately not. University regulations require that everyone on the unit must undergo the viva to complete the unit. If you have a study support plan and/or uncomfortable/nervous about undertaking the viva, *get in contact with us!* We can structure the viva in different ways to accommodate everyone.
 * **When will the vivas happen?**:  They will take place during the summer exam period - 28th April to 16th May 2024, inclusive, so you MUST be in Bristol for the whole of that time.
-* **How should I prepare for the viva?**: You wrote your dissertation, and the questions are going to come from there! The best preparation is to read through your dissertation and related work and ensure that any presentations/demos are smooth and polished.
+* **How should I prepare for the viva?**: See the viva section on the [Assessment Information page](/assessment_information/).
 * **For projects with implementations, must the code run on a lab machine for the viva or is it acceptable to run the demo on e.g. our laptops?**: You can run your code in any way you see fit (basically on whatever works).
