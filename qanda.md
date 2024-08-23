@@ -61,6 +61,8 @@ The first and fastest place to ask questions and to see if your question has alr
 
 There is more information about the structure and templates on the [Writing Your Dissertation page](/writing_your_dissertation/).
 
+* **What's the difference between a dissertation, a thesis and a report?**: For these projects, nothing! They're different words to describe the same thing.
+
 ## Structure of Dissertation
 * **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
 * **Saying more with less**: When writing your dissertation if you can cut out portions *without* removing anything important it is likely that your mark will go up, not down. Writing concisely with detail is the aim here.
@@ -85,7 +87,6 @@ There is more information, including sources of writing, editing and planning su
 
 * **Which referencing style should I use?**:It's up to you, as long as you are consistent, but in general CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference always everything you can think of.
 * **How do I know what I should be referencing?**: There's a page on referencing in general on [the University Library pages]( https://www.bristol.ac.uk/library/subject-support/referencing/) which we recommend bookmarking.
-* **What's the difference between a dissertation, a thesis and a report?**: For these projects, nothing! They're different words to describe the same thing.
 
 ## Research
 
