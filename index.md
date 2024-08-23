@@ -76,8 +76,16 @@ You can find a link to the teams channel for the unit
 * The [Project Q and A Chennel](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) is where you can ask questions
 * The [Class Materials](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=v6jcDe) section of the General Channel has dissertation and poster templates and examples of projects from 2023-4.
 
-If you don't have access, contact Mike or Sarah, details [here](/contact).
+If you don't have access, [contact Mike and Sarah](/contact).
 
+## Equipment, Software and Subscriptions for your Project
+
+**DO NOT SPEND YOUR OWN MONEY ON YOUR PROJECT!!**
+We have a budget that we can use to buy you equipment, software, subscriptions, websites and more (within reason) but it is very hard for us to reimburse students money that you have spent.  If you need something, confirm this with your supervisors and then [contact Mike and Sarah](/contact) with the details of what you want and why you want it.  
+
+If you want to borrow equipment, including phones, Arduinos and more, [make an appointment with the Computer Science Teaching Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint) who can help you.
+
+The Hackspace and the General Engineering Lab have free 3D printers, laser cutters and other equipment you can use free of charge.  You can find all the details, including the online inductions you need to take before you use the equipment [on the Engineering Technical Services Blackboard](https://www.ole.bris.ac.uk/ultra/organizations/_238502_1/cl/outline) (you must be logged into Blackboard). 
 
 ## Project Code for Blue Crystal
 
