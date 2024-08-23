@@ -131,14 +131,19 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Do I need to submit my code?**:  You can if you want to - there is a separate submission point called Auxiliary Materials, where you can submit a zip file with your code and any other materials. You can also include links to your GitHub within your dissertation.  If you do submit code, make sure you add something in the dissertation to tell the markers you have done so.  If there is part of the code you definitely want the marker to see, include snippets in the dissertation and longer parts of code in the Appendices.
 * **I'm worried I won't finish in time - can I get an extension?**: 
 
-# Poster Day
+# Timetabled Events
+
+## Poster Day
 
 * **What is Poster Day**: This is a chance to meet your Second Marker for the first time, talk to them about your project and ask them what they expect to see in a project like yours.  It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
 * **Is Poster Day mandatory?**: No, but we strongly encourage it!
 * **Do you have examples of posters?**: Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there will be examples of posters added to the [Class Materials pages of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH). 
 * **I've never made a poster before - how do I start?**:  Come to the Poster Workshop, and you can start with the templates in the [Class Materials pages of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).  
 * **Do I have to pay to come to Poster Day?**: No, we will print your poster for you.  
-* **Can I keep my posters?**:  Yes, but if you leave Poster Day early, leave your poster up and you can collect it afterwards from the School Office.  
+* **Can I keep my posters?**:  Yes, but if you leave Poster Day early, leave your poster up and you can collect it afterwards from the School Office.
+
+## Writing Retreats
+* **What are the Writing Retreats?**: These are optional sessions to do some writing in a quiet space with other people around you. Mike and Sarah will be there, doing our own writing as well, bringing snacks and being on hand for questions.
 
 # Marking
 
