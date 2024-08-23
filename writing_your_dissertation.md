@@ -44,7 +44,7 @@ academic-style writing for Computer Scientists.
 
 # Dissertation Templates
 
-### LaTeX Dissertation Template
+## LaTeX Dissertation Template
 
 The LaTeX template for the Dissertation can be found [here](https://uob.sharepoint.com/:u:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/ThesisTemplate%20-%20LaTeX.zip?csf=1&web=1&e=klVsKZ).  
 
@@ -53,11 +53,24 @@ We recommend you use [Overleaf](https://www.overleaf.com/) to write in - scroll 
 
 You'll notice that the template has information about what to include in each section.
 
-If you have never used LaTeX or Overleaf before, there are helpful guides on the [Overleaf website](https://www.overleaf.com/learn). 
+### Help with LaTex and Overleaf
 
+The University Library Services have a useful [guide to LaTeX and Overleaf](https://bristol.libguides.com/computer-science/latex) and there are helpful guides to Overleaf and LaTeX on the [Overleaf website](https://www.overleaf.com/learn). 
 
-### Word Dissertation Template
+## Word Dissertation Template
 
 The word template for the Dissertation can be found [here](https://uob.sharepoint.com/:w:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/ThesisTemplate%20-%20Word.docx?d=w332200b510a34a0889161d287e1b917e&csf=1&web=1&e=VgkZIB).
+
+# Research Support
+
+The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) is here to help your research,  They can meet with you, help you get started and even find you papers or other references.  They can help you with research in any subject, not just Computer Science - use the link to make an appointment.  
+
+# Referencing
+
+It doesn't matter which reference style you use, as long as it's consistent.  In general, CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference almost anything you can think of.
+
+[The University Library referencing page]( https://www.bristol.ac.uk/library/subject-support/referencing/) his an excellent resource, which we recommend bookmarking.
+
+We strongly recommend you use [BibTeX](https://www.bibtex.org/), a tool and a file format which are used to describe and process lists of references (mostly in conjunction with LaTeX documents) and a referencing tool like [Mendeley](https://www.bristol.ac.uk/library/subject-support/libraryskills/referencing/mendeley/) or [EndNote](https://www.bristol.ac.uk/library/subject-support/libraryskills/referencing/endnote/).  The library has a [guide to using BibTeX with Mendeley and EndNote](https://bristol.libguides.com/ld.php?content_id=33098841).
 
 
