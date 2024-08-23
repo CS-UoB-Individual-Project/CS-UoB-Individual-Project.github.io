@@ -28,7 +28,7 @@ The first and fastest place to ask questions and to see if your question has alr
 * **I've been working on a personal project - can I use this for my Project?**: Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
 * **I'm struggling to choose a project, what do I do?** Talk to your personal tutor in the first instance - or if they can't help you, reach out to [Mike and Sarah](/contact/).
 * **I'm really excited about my project - can I start work on it now?**:  We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
-
+* **Why do I have to pick my Project now?  I want to wait until I've had more experience of the units**: Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
 
 # Supervisors
 
