@@ -97,7 +97,7 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Where do I submit my dissertation?**: In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points.
 * **What should I call the file?**:  It's helpful to call your PDF [your name]_[dissertation title] but there is no standard naming convention.
 * **Do I need to submit my code?**:  You can if you want to - there is a separate submission point called Auxiliary Materials, where you can submit a zip file with your code and any other materials. You can also include links to your GitHub within your dissertation.  If you do submit code, make sure you add something in the dissertation to tell the markers you have done so.  If there is part of the code you definitely want the marker to see, include snippets in the dissertation and longer parts of code in the Appendices.
-* **I'm worried I won't finish in time - can I get an extension?**: 
+<span style="color:red">* **I'm worried I won't finish in time - can I get an extension?**: </span>
 
 # Timetabled Events
 
