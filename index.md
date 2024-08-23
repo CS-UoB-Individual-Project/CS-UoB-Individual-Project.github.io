@@ -28,6 +28,10 @@ one-on-one sessions with experts in the field.
 
 | **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
 |------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
+|  	|   	| Returners Talks - Project Introduction       	|  	|   |
+|  	|   	| Projects Q&A       	|  	|   |
+|  	|   	| Projects spreadsheet released       	|  	|    |
+|  	|   	| Matching Day       	|  	|     |
 | 	|     	| Project Kick-off        	|  	| [link]
 |  	|   	| Project Kick-off        	|  	| [link]    |
 |  	|    	| Library Workshop        	|   	| [slides]|
@@ -35,7 +39,7 @@ one-on-one sessions with experts in the field.
 |     |    | Intro to LaTeX            | N/A               | [   |
 | 	| 	| Project Poster Workshop 	| QB BBDS        	|   |
 | 	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
-| 	|   	| Project Writing Retreat 	|      	|                                                                                        	    |
+| 	|   	| Project Writing Retreat 	|      	|             |
 |  	| *        	| CALD Writing Workshops  	|              	|                                                                                        	    |
 | 	|    	| Project Poster Day      	| QB BBDS        	|                                                                                        	    |
 | 	|    	| Project Writing Retreat 	|        	|                                                                                        	    |
@@ -49,9 +53,10 @@ one-on-one sessions with experts in the field.
 
 | **Deadline**                                  	| **Date**   	| **Time** 	|
 |-----------------------------------------------	|------------	|----------	|
+| **All students** Innovation Presentation 	|  18 October 2024	|    17:00 	|
 | **CS+Maths 4th Year** Innovation Presentation 	|  	|     	|
 | **CS 4th Year** Innovation Case               	| 	| 13:00    	|
-| **All Students** Dissertation Deadline            	| 13:00	|     	|
+| **All students** Dissertation Deadline            	| 13:00	|     	|
 
 
 ## Viva Dates
@@ -60,15 +65,6 @@ Most vivas will be held on the **** in Bristol. Treat these dates as an exam, i.
 
 Note that vivas are being planned to be **in-person**.
 
-## August submission deadlines
-
-| **Deadline**                                  	| **Date**   	| **Time** 	|
-|-----------------------------------------------	|------------	|----------	|
-| **All programmes** Dissertation Deadline        | 05/08/2024 	| 13:00    	|
-
-## August Viva Dates
-
-The vivas will be held on the **9/12 August 2024**. Treat these dates as an exam, i.e. you should be free for these dates.
 
 
 ## Teams Channel
