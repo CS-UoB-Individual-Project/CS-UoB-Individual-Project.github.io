@@ -96,8 +96,9 @@ You can find the full information about Project Ethics on the [Ethics page](/eth
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
 * **How long does it take to get an ethics application accepted?**: This can vary, _a lot_. Depending on the project and application this can be granted quickly in a few weeks. Alternatively, it could undergo required changes from the Faculty Research Ethics Committee (FREC) in multiple stages taking three months or longer. You may notice that this scenario is longer than the projects unit so it is _imperative_ that you discuss ethics with your supervier ASAP and submit the ethics application ASAP.
-* **Can I use datasets used online in a project that requires no ethics**: Yes, so long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release. 
-
+* **Can I use datasets used online in a project that requires no ethics**: Yes, so long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release.
+* **Can I use photos/videos of myself without a full ethical review?**:  Yes, this is covered under the Blanket Ethics Agreement.
+* **Will extensions be given if I fail to get ethical approval?**: On its own, failure to get ethical approval will _not_ be grounds for an extension. It is up to you to ensure that this happens in a timely manner. If there are delays, your supervisor will support you and help you change your project plans.
 
 # Timetabled Events
 
