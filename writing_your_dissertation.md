@@ -67,10 +67,14 @@ The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-
 
 # Referencing
 
-It doesn't matter which reference style you use, as long as it's consistent.  In general, CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference almost anything you can think of.
+Whenever you look at an article, book, paper, website, video, podcast etc for your project, make sure you record them and reference them in your work. 
 
-[The University Library referencing page]( https://www.bristol.ac.uk/library/subject-support/referencing/) his an excellent resource, which we recommend bookmarking.
+We recommend you use [BibTeX](https://www.bibtex.org/), a tool and a file format which are used to describe and process lists of references (mostly in conjunction with LaTeX documents) and a referencing tool like [Mendeley](https://www.bristol.ac.uk/library/subject-support/libraryskills/referencing/mendeley/) or [EndNote](https://www.bristol.ac.uk/library/subject-support/libraryskills/referencing/endnote/) to organise your references.  The library has a [guide to using BibTeX with Mendeley and EndNote](https://bristol.libguides.com/ld.php?content_id=33098841) so you can keep track of references in Mendeley and then export them into BibTeX to seamlessly integrate them into your report. 
 
-We strongly recommend you use [BibTeX](https://www.bibtex.org/), a tool and a file format which are used to describe and process lists of references (mostly in conjunction with LaTeX documents) and a referencing tool like [Mendeley](https://www.bristol.ac.uk/library/subject-support/libraryskills/referencing/mendeley/) or [EndNote](https://www.bristol.ac.uk/library/subject-support/libraryskills/referencing/endnote/).  The library has a [guide to using BibTeX with Mendeley and EndNote](https://bristol.libguides.com/ld.php?content_id=33098841).
+It doesn't matter which referencing style you use, as long as it's consistent.  In general, CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference almost anything you can think of. We recommend you use the [DOI link](https://www.doi.org/the-identifier/what-is-a-doi/) for online articles and hyperlink for webpages, so it is easy for your markers to follow your references to the source.  
+
+[The University Library referencing page]( https://www.bristol.ac.uk/library/subject-support/referencing/) is a great resource, which we recommend bookmarking.
+
+
 
 
