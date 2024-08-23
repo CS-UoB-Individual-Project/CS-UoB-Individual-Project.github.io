@@ -1,8 +1,8 @@
 ---
 layout: default
 nav_order: 4
-title: Announcements
-permalink: /announcements/
+title: Writing Your Dissertation
+permalink: /writing_your_dissertation/
 ---
 
 <details open markdown="block">
