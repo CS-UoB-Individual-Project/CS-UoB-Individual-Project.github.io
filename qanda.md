@@ -15,7 +15,7 @@ Table of contents
 </details>
 
 
-# Individual Project Handbook - Questions & Answers
+# Individual Project Questions & Answers
 
 # Where to ask questions
 The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Mike and Sarah will be answering questions as quickly as we can.  We will periodically add answers here.
