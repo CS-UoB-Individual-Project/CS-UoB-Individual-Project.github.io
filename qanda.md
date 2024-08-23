@@ -88,41 +88,7 @@ The first and fastest place to ask questions and to see if your question has alr
 
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
-## Blanket Ethics
-
-* **What is Blanket Ethics?**: Blanket ethics is an ethics application that we have submitted on behalf of the unit. It covers many low concern aspects of projects _that require ethical approval_. We've just managed to do this already for you.
-* **What does Blanket Ethics Cover?**: Blanket ethics covers projects that:
-  * Conduct a survey, e.g. for feedback.
-  * Is not collecting data from vulnerable populations.
-  * Is not collecting sensitive data or protected characteristics.
-  * Collects anonymised data.
-  * Collects informed consent from participants prior to them taking part.
-  * Puts participants under NO physical or mental harm.
-* **How do I use Blanket Ethics?**: When writing your dissertation you will need to include the following statement in the front matter: "This project is covered by the blanket ethics application 0026 as determined by my supervisor SUPERVISOR_NAME".
-
-## Ethical Review
-* **What projects require Ethical Review?**: All projects that contain one or more of the following require full ethical review:
-  * Collecting data from a vulnerable population (e.g. children)
-  * Collecting sensitive data and/or protected characteristics.
-  * Collecting non-anonymised data.
-  * Deceives participants.
-  * Danger of physical and/or mental harm
-  * Participants aren't able to give informed consent.
-* **Will my ethics application get accepted?**: There is no guarantee that ethics will be granted for a project. You will need to have strong reasons for why your project contains one of the above aspects. For example, collecting non-anonymised data only because anonymisation is too much effort will be rejected.
 * **How long does it take to get an ethics application accepted?**: This can vary, _a lot_. Depending on the project and application this can be granted quickly in a few weeks. Alternatively, it could undergo required changes from the Faculty Research Ethics Committee (FREC) in multiple stages taking three months or longer. You may notice that this scenario is longer than the projects unit so it is _imperative_ that you discuss ethics with your supervier ASAP and submit the ethics application ASAP.
-* **Will extensions be given if I fail to get ethical approval?**: On its own, failure to get ethical approval will _not_ be grounds for an extension. It is up to you to ensure that this happens in a timely manner.
-* **How do I apply for ethical approval?**: Your supervisor will apply on your behalf using the Online Research Ethics Management System (OREMS) - link [here](https://orems.bristol.ac.uk/). You should discuss your application with your supervisor IN DETAIL before anything is submitted.
-* **What do I do if the ethics deadline has passed?** The January deadline was to be considered in the February meeting, you can (and should) still apply - ethics applications will be considered on a rolling basis after the deadline.
-* **How do I get help on my application?**: You should ask your supervisor regarding best practices and any tips on how to apply. You can also contact the Facutly Research Ethics Administrator Marc Moyce: [marc.moyce@bristol.ac.uk](mailto:marc.moyce@bristol.ac.uk).
-
-## No Ethics
-
-* **When does  aproject require no ethics?**: A project requiring no ethics will:
-  * Not be conducting user studies
-  * Not asking someone to provide feedback
-  * Not Taking Photos/recordings of people
-  * Not collecting data from online resources
-  * Processing anonymised data so that it is de-anonymised.
 * **Can I use datasets used online in a project that requires no ethics**: Yes, so long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release. 
 
 # Submitting your work
