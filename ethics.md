@@ -53,7 +53,7 @@ allows multiple attempts and is released in TB1 alongside the training.
 
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
-## No Ethics
+### No Ethics
 A project requiring no ethics will not:
   * conduct user studies
   * ask someone who's not your supervisor to provide feedback that will be used in the project
@@ -64,7 +64,7 @@ A project requiring no ethics will not:
 You can use online datasets for a projects with no ethics, as long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release. 
 
 
-## Blanket Ethics
+### Blanket Ethics
 Blanket Ethics is an ethics application that we have submitted on behalf of the unit. It covers many low concern aspects of projects _that require ethical approval_. We've just managed to do this already for you.
 
 Blanket Ethics covers projects that:
@@ -79,7 +79,7 @@ Blanket Ethics covers projects that:
 
 When writing your dissertation you will need to include the following statement in the front matter: "This project is covered by the blanket ethics application 0026 as determined by my supervisor SUPERVISOR_NAME".
 
-## Ethical Review
+### Full Ethical Review
 All projects that contain one or more of the following require full ethical review:
   * Collecting data from a vulnerable population (e.g. children)
   * Collecting sensitive data and/or data about protected characteristics.
@@ -120,7 +120,7 @@ form and participant information sheet in the
 appendix of your dissertation along with the ethics statement.
 
 
-## Ethics Links
+# Ethics Links
 
 * [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1) (useful to pass the ethics quiz!).
 
