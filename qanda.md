@@ -65,7 +65,6 @@ There is more information about the structure and templates on the [Writing Your
 
 ## Structure of Dissertation
 * **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
-* **Saying more with less**: When writing your dissertation if you can cut out portions *without* removing anything important it is likely that your mark will go up, not down. Writing concisely with detail is the aim here.
 * **How should I structure my dissertation?**: The structure of your dissertation also depends on topic and project type and it's best to ask your supervisor if they have any suggestions. That said, we expect that most dissertations will begin with an *Introduction*, followed by *Background*, then *Project Execution*, and finally *Evaluation* and *Conclusion*. We have provided a LaTeX template on the main webpage for you to use which follows this structure.
 * **Do I have to use LaTeX to write my dissertataion?**: No, but talk to your supervisor about this as there may be field-specific norms you should use.
 * **Is there a specific template I should use?**: Yes, use the templates provided (LaTeX and word) in the [Class Materials section of the Project Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).
@@ -85,7 +84,7 @@ There is more information, including sources of writing, editing and planning su
 
 ## Referencing
 
-* **Which referencing style should I use?**:It's up to you, as long as you are consistent, but in general CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference always everything you can think of.
+* **Which referencing style should I use?**:It's up to you, as long as you are consistent, but in general CS people recommend IEEE - there's a guide on [Cite Them Right](https://www-citethemrightonline-com.bris.idm.oclc.org/category-list?docid=CTRIEEE) which tells you how to reference almost anything you can think of.
 * **How do I know what I should be referencing?**: There's a page on referencing in general on [the University Library pages]( https://www.bristol.ac.uk/library/subject-support/referencing/) which we recommend bookmarking.
 
 ## Research
