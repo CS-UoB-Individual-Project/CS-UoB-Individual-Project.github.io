@@ -33,8 +33,8 @@ In the (very) rare case that both markers cannot agree on a final mark, a third 
 
 ## Viva (Oral Exam)
 
-The second supervisor will hold your viva which for all purposes is an oral exam.
-This means that **attendance is mandatory** and you will fail the unit if you are not present.
+The second marker will hold your viva which for all purposes is an oral exam.
+Vivas are in person and **attendance is mandatory** - you will fail the unit if you are not present.
 
 The viva has several purposes:
 * To showcase parts of the project which cannot (easily) be incoporated into the dissertation.
@@ -44,8 +44,8 @@ The viva has several purposes:
 * To explore your understanding of the project area.
 
 The viva is not a separate marked component, rather it will factor into your final mark, though you can treat it as worth 5-10% of your overall mark.
- You should prepare for the viva, but there is no need to lose nights sleeping over it.
- In most cases, the viva clarifies and reinforces the second marker's initial impressions of the project rather than changing it completely.
+You should prepare for the viva, but there is no need to lose nights sleeping over it.
+In most cases, the viva clarifies and reinforces the second marker's initial impressions of the project rather than changing it completely.
 
 ## Mark Scheme
 
