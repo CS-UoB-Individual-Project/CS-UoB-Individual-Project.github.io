@@ -83,8 +83,8 @@ If you don't have access, [contact Mike and Sarah](/contact).
 **DO NOT SPEND YOUR OWN MONEY ON YOUR PROJECT!!**
 We have a budget that we can use to buy you equipment, software, subscriptions, websites and more (within reason) but it is very hard for us to reimburse students money that you have spent.  
 
-There is information on the [Accessing Equipment/Software]9/money/) page about how you can borrow, buy and use things for your project.  
+There is information on the [Accessing Equipment/Software](/money/) page about how you can borrow, buy and use things for your project.  
 
 ## Project Code for Blue Crystal
 
-When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: **COMS031144**, not any other codes you may have been given for previous units.
+When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Under project details, make sure you click join an existing project, with the Final Year Projects project code: **COMS031144**, not any other codes you may have been given for previous units.
