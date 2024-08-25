@@ -18,6 +18,7 @@ Table of contents
 # Individual Project Questions & Answers
 
 # Where to ask questions
+
 The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Mike and Sarah will be answering questions as quickly as we can.  We will periodically add answers here.
 
 # Project choice
@@ -32,7 +33,7 @@ The first and fastest place to ask questions and to see if your question has alr
 
 # Supervisors
 
-## Choosing a Supervisor
+## Choosing a supervisor
 
 * **How do I choose a supervisor?**: You should choose your supervisor based on the area of the project you want to work on as well as someone that you are interested in working with. During TB1 we will release a spreadsheet containing a list of projects that each supervisor is interested in supervising, but note that this is not a non-exhaustive list! Think about the kind of person you want to work with.  For example, what kind of person makes you want to work harder?  Would you like to meet weekly or fortnightly?  How do you prefer to communicate?  
 * **I know what I want to do and who I want to work with - can I approach them now, or do I have to wait for the spreadsheet?**:  You don't have to wait - if you know who you want to work with, go ahead and email them!
@@ -43,7 +44,7 @@ The first and fastest place to ask questions and to see if your question has alr
 * **The supervisor I want to work with has no more slots left - what should I do?**: On the Projects Spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [Mike and Sarah](/contact/).
 * **There are no supervisors interested in working in the area I'm interested in**:  The list of areas is not exhaustive, and we can usually help you find supervisors for most interests.  Talk to your personal tutor or [Mike and Sarah](/contact/).
 
-## Contacting your Supervisor
+## Contacting your supervisor
 
 * **I cannot contact my supervisor**: Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, please email [Mike and Sarah](/contact/).
 * **My supervisor refuses to meet me**: Please email [Mike and Sarah](/contact/) including any recent and relevant emails with your supervisor.
@@ -52,8 +53,8 @@ The first and fastest place to ask questions and to see if your question has alr
 See [the Accessing Equipment/Software page](/money/) for more information. 
 
 * **How do I borrow hardware for my project?**: Make an [appointment with the Computer Science Teaching Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint) who can help you.
-* **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact/) with what you need and why you need it, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
-* **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if they agree it it is, email [Mike and Sarah](/contact/) with what you need and why you need it.
+* **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact/) with what you need and why you need it, and ideally links to what you need, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
+* **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if they agree it it is, email [Mike and Sarah](/contact/) with what you need and why you need it. 
 * **It's too late, I already spent money on my project - what do I do?**: Email [Mike and Sarah](/contact/) and do not spend any more money on it!
 * **How do I apply to use Blue Crystal?**:  Use [this link](https://www.acrc.bris.ac.uk/login-area/apply.cgi) and under project details, make sure you click join an existing project, with project code COMS031144.
 
@@ -64,7 +65,8 @@ There is more information about the structure and templates on the [Writing Your
 
 * **What's the difference between a dissertation, a thesis and a report?**: For these projects, nothing! They're different words to describe the same thing.
 
-## Structure of Dissertation
+## Structure of your dissertation
+
 * **How long should my dissertation be?**: Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
 * **How should I structure my dissertation?**: The structure of your dissertation also depends on topic and project type and it's best to ask your supervisor if they have any suggestions. That said, we expect that most dissertations will begin with an *Introduction*, followed by *Background*, then *Project Execution*, and finally *Evaluation* and *Conclusion*. We have provided a LaTeX template on the main webpage for you to use which follows this structure.
 * **Do I have to use LaTeX to write my dissertataion?**: No, but talk to your supervisor about this as there may be field-specific norms you should use.
@@ -116,14 +118,17 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 * **Can I keep my posters?**:  Yes, but if you leave Poster Day early, leave your poster up and you can collect it afterwards from the School Office.
 
 ## Writing Retreats
+
 * **What are the Writing Retreats?**: These are optional sessions to do some writing in a quiet space with other people around you. Mike and Sarah will be there, doing our own writing as well, bringing snacks and being on hand for questions.
 
 # Submitting your work
+
 * **Where do I submit my dissertation?**: In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points.
 * **What should I call the file?**:  It's helpful to call your PDF [your name]_[dissertation title] but there is no standard naming convention.
 * **Do I need to submit my code?**:  You can if you want to - there is a separate submission point called Auxiliary Materials, where you can submit a zip file with your code and any other materials. You can also include links to your GitHub within your dissertation.  If you do submit code, make sure you add something in the dissertation to tell the markers you have done so.  If there is part of the code you definitely want the marker to see, include snippets in the dissertation and longer parts of code in the Appendices.
 
 # Marking
+
 There is more information about the marking and assessment processes on the [Assessment Information page](/assessment_information/).
 
 * **How will I be marked?**: Each project will be marked by two markers:  your supervisor and your second marker. This is so you are marked by someone who knows your project and someone who doesn't.  They will each mark the work independently and then agree a mark between them. If they can't agree, we will bring in a third marker, but this is rare.
