@@ -49,6 +49,7 @@ The first and fastest place to ask questions and to see if your question has alr
 * **My supervisor refuses to meet me**: Please email [Mike and Sarah](/contact/) including any recent and relevant emails with your supervisor.
 
 # Accessing equipment/software/services
+See [the Accessing Equipment/Software page](/money/) for more information. 
 
 * **How do I borrow hardware for my project?**: Make an [appointment with the Computer Science Teaching Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint) who can help you.
 * **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact/) with what you need and why you need it, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
