@@ -81,11 +81,9 @@ If you don't have access, [contact Mike and Sarah](/contact).
 ## Equipment, Software and Subscriptions for your Project
 
 **DO NOT SPEND YOUR OWN MONEY ON YOUR PROJECT!!**
-We have a budget that we can use to buy you equipment, software, subscriptions, websites and more (within reason) but it is very hard for us to reimburse students money that you have spent.  If you need something, confirm this with your supervisors and then [contact Mike and Sarah](/contact) with the details of what you want and why you want it.  
+We have a budget that we can use to buy you equipment, software, subscriptions, websites and more (within reason) but it is very hard for us to reimburse students money that you have spent.  
 
-If you want to borrow equipment, including phones, Arduinos and more, [make an appointment with the Computer Science Teaching Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint) who can help you.
-
-The Hackspace and the General Engineering Lab have free 3D printers, laser cutters and other equipment you can use free of charge.  You can find all the details, including the online inductions you need to take before you use the equipment [on the Engineering Technical Services Blackboard](https://www.ole.bris.ac.uk/ultra/organizations/_238502_1/cl/outline) (you must be logged into Blackboard). 
+There is information on the [Accessing Equipment/Software]9/money/) page about how you can borrow, buy and use things for your project.  
 
 ## Project Code for Blue Crystal
 
