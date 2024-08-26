@@ -81,11 +81,11 @@ Some of the supervisors on the list will have already taught you, but most of th
 
 If you're not sure what kind of Project to choose, reach out to your personal tutor as soon as possible.  
 
-If you still need help after talking to your tutor, [contact Mike and Sarah](/contact/).
+If you still need help after talking to your tutor, [contact Mike and Sarah](/contact).
 
 
 ## Confirming a Project
 
-You need to confirm your project by  **the end of Friday Week 5 (18th October)**. This will involve agreeing a project name and rough description of the project with a supervisor and submitting this in a form. The title and description can change before the start of TB2, but you will not be able to change your supervisor unless there is a serious issue - if that happens, please [contact Mike and Sarah](/contact/).
+You need to confirm your project by  **the end of Friday Week 5 (18th October)**. This will involve agreeing a project name and rough description of the project with a supervisor and submitting this in a form. The title and description can change before the start of TB2, but you will not be able to change your supervisor unless there is a serious issue - if that happens, please [contact Mike and Sarah](/contact).
 
 You will also have to have passed the [ethics quiz](/ethics/#ethics-quiz) before you can confirm a project.  The ethics quiz is on the front page of your Unit Blackboard. 
