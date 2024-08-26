@@ -24,10 +24,10 @@ The first and fastest place to ask questions and to see if your question has alr
 # Project choice
 
 * **Which type of project will give me higher marks?**: The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
-* **Can I make my own project topic?**: Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [Mike and Sarah](/contact/) who will help you identify possible supervisors.
+* **Can I make my own project topic?**: Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [Mike and Sarah](/contact) who will help you identify possible supervisors.
 * **I want to do a project that crosses disciplines - is this possible?**: Yes, you can have two Supervisors in different disciplines, as long as one is in Computer Science, and they both agree.
 * **I've been working on a personal project - can I use this for my Project?**: Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
-* **I'm struggling to choose a project, what do I do?** Talk to your personal tutor in the first instance - or if they can't help you, reach out to [Mike and Sarah](/contact/).
+* **I'm struggling to choose a project, what do I do?** Talk to your personal tutor in the first instance - or if they can't help you, reach out to [Mike and Sarah](/contact).
 * **I'm really excited about my project - can I start work on it now?**:  We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
 * **Why do I have to pick my Project now?  I want to wait until I've had more experience of the units**: Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
 
@@ -38,30 +38,30 @@ The first and fastest place to ask questions and to see if your question has alr
 * **How do I choose a supervisor?**: You should choose your supervisor based on the area of the project you want to work on as well as someone that you are interested in working with. During TB1 we will release a spreadsheet containing a list of projects that each supervisor is interested in supervising, but note that this is not a non-exhaustive list! Think about the kind of person you want to work with.  For example, what kind of person makes you want to work harder?  Would you like to meet weekly or fortnightly?  How do you prefer to communicate?  
 * **I know what I want to do and who I want to work with - can I approach them now, or do I have to wait for the spreadsheet?**:  You don't have to wait - if you know who you want to work with, go ahead and email them!
 * **Is it ok to approach more than one supervisor?**  Yes, we encourage you to do this, so you can so you can make the choice that's best for you.  We will have a Projects Matching Day where you can meet multiple supervisors in the same session. 
-* **Can I have a supervisor from outside Computer Science?** Yes, they can be your Second Supervisor, but you will need a Supervisor from within CS as well.  If you're not sure who to approach, come and talk to [Mike and Sarah](/contact/).
+* **Can I have a supervisor from outside Computer Science?** Yes, they can be your Second Supervisor, but you will need a Supervisor from within CS as well.  If you're not sure who to approach, come and talk to [Mike and Sarah](/contact).
 * **How should I approach a supervisor?** Email them with a brief introduction of why you're interested in working with them/on their project and about you - what you're interested in, and if you've taken classes with them.  Ask if they can meet you, and give them some ideas of days and times you're free on.
 * **What are supervisor slots?**: Each year supervisors are allotted a certain number of projects that thy have to supervise. Most supervisors will refuse to take on any more students if they have already filled up their allotment - which they are perfectly allowed to do.
-* **The supervisor I want to work with has no more slots left - what should I do?**: On the Projects Spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [Mike and Sarah](/contact/).
-* **There are no supervisors interested in working in the area I'm interested in**:  The list of areas is not exhaustive, and we can usually help you find supervisors for most interests.  Talk to your personal tutor or [Mike and Sarah](/contact/).
+* **The supervisor I want to work with has no more slots left - what should I do?**: On the Projects Spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [Mike and Sarah](/contact).
+* **There are no supervisors interested in working in the area I'm interested in**:  The list of areas is not exhaustive, and we can usually help you find supervisors for most interests.  Talk to your personal tutor or [Mike and Sarah](/contact).
 
 ## Contacting your supervisor
 
-* **I cannot contact my supervisor**: Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, please email [Mike and Sarah](/contact/).
-* **My supervisor refuses to meet me**: Please email [Mike and Sarah](/contact/) including any recent and relevant emails with your supervisor.
+* **I cannot contact my supervisor**: Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, please email [Mike and Sarah](/contact).
+* **My supervisor refuses to meet me**: Please email [Mike and Sarah](/contact) including any recent and relevant emails with your supervisor.
 
 # Accessing equipment/software/services
-See [the Accessing Equipment/Software page](/money/) for more information. 
+See [the Accessing Equipment/Software page](/money) for more information. 
 
 * **How do I borrow hardware for my project?**: Make an [appointment with the Computer Science Teaching Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint) who can help you.
-* **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact/) with what you need and why you need it, and ideally links to what you need, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
-* **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if they agree it it is, email [Mike and Sarah](/contact/) with what you need and why you need it. 
-* **It's too late, I already spent money on my project - what do I do?**: Email [Mike and Sarah](/contact/) and do not spend any more money on it!
+* **If I buy something I need for my project, can I get reimbursed?**:  This is very hard - instead, if you need something, contact [Mike and Sarah](/contact) with what you need and why you need it, and ideally links to what you need, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
+* **How can I get access to an online service or API I need?**: Talk to your supervisor about if it is necessary, and if they agree it it is, email [Mike and Sarah](/contact) with what you need and why you need it. 
+* **It's too late, I already spent money on my project - what do I do?**: Email [Mike and Sarah](/contact) and do not spend any more money on it!
 * **How do I apply to use Blue Crystal?**:  Use [this link](https://www.acrc.bris.ac.uk/login-area/apply.cgi) and under project details, make sure you click join an existing project, with project code COMS031144.
 
 
 # Dissertation
 
-There is more information about the structure and templates on the [Writing Your Dissertation page](/writing_your_dissertation/).
+There is more information about the structure and templates on the [Writing Your Dissertation page](/writing).
 
 * **What's the difference between a dissertation, a thesis and a report?**: For these projects, nothing! They're different words to describe the same thing.
 
@@ -79,11 +79,11 @@ There is more information about the structure and templates on the [Writing Your
 
 ## Writing your dissertation
 
-There is more information, including sources of writing, editing and planning support, on the [Writing Your Dissertation page](/writing_your_dissertation/)
+There is more information, including sources of writing, editing and planning support, on the [Writing Your Dissertation page](/writing)
 
 * **How many pages of our dissertation we are allowed to give our supervisor for feedback?**: It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time to read and reply - it's best to agree in advance when you will send them drafts for feedback.
 * **Does the page count of 50 pages include figures? I have a lot of data visualisations which are required to be in the main body but increases the page count as a result.**:  Figures in the main body of the dissertation are included in the page count, but you can also include more in the Appendices, which are not included in the page count.  Talk to your supervisor about what's best for your project.
-* **Can I use AI/Large Language Models/Translation software?**: Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity/).
+* **Can I use AI/Large Language Models/Translation software?**: Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity).
 
 ## Referencing
 
@@ -98,7 +98,7 @@ There is more information, including sources of writing, editing and planning su
 
 # Ethics
 
-You can find the full information about Project Ethics on the [Ethics page](/ethics/).
+You can find the full information about Project Ethics on the [Ethics page](/ethics).
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
 * **How long does it take to get an ethics application accepted?**: This can vary, _a lot_. Depending on the project and application this can be granted quickly in a few weeks. Alternatively, it could undergo required changes from the Faculty Research Ethics Committee (FREC) in multiple stages taking three months or longer. You may notice that this scenario is longer than the projects unit so it is _imperative_ that you discuss ethics with your supervier ASAP and submit the ethics application ASAP.
@@ -129,7 +129,7 @@ If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical
 
 # Marking
 
-There is more information about the marking and assessment processes on the [Assessment Information page](/assessment_information/).
+There is more information about the marking and assessment processes on the [Assessment Information page](/assessment).
 
 * **How will I be marked?**: Each project will be marked by two markers:  your supervisor and your second marker. This is so you are marked by someone who knows your project and someone who doesn't.  They will each mark the work independently and then agree a mark between them. If they can't agree, we will bring in a third marker, but this is rare.
 * **Who will be my second marker?**: Your second marker will be someone who knows enough about your subject to mark your project.  We will tell you who your second marker is halfway through TB2, and you will have a chance to talk to them about your project on or around Poster Day.
@@ -143,5 +143,5 @@ There is more information about the marking and assessment processes on the [Ass
 * **Do I have to make a presentation for my viva?**:  No, but we recommend you bring some slides so that you can remember the key points you want to say. 
 * **Can I complete the unit without undergoing a viva?**: Unfortunately not. University regulations require that everyone on the unit must undergo the viva to complete the unit. If you have a study support plan and/or uncomfortable/nervous about undertaking the viva, *get in contact with us!* We can structure the viva in different ways to accommodate everyone.
 * **When will the vivas happen?**:  They will take place during the summer exam period - 28th April to 16th May 2024, inclusive, so you MUST be in Bristol for the whole of that time.
-* **How should I prepare for the viva?**: See the viva section on the [Assessment Information page](/assessment_information/).
+* **How should I prepare for the viva?**: See the viva section on the [Assessment Information page](/assessment).
 * **For projects with implementations, must the code run on a lab machine for the viva or is it acceptable to run the demo on e.g. our laptops?**: You can run your code in any way you see fit (basically on whatever works).
