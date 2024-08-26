@@ -2,7 +2,7 @@
 layout: default
 nav_order: 4
 title: Writing Your Dissertation
-permalink: /writing_your_dissertation/
+permalink: /writing/
 ---
 
 <details open markdown="block">
