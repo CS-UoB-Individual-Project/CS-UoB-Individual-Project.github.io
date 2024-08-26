@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assessment Information
-permalink: /assessment/
+permalink: /assessment
 nav_order: 7
 ---
 
