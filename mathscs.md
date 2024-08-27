@@ -18,7 +18,7 @@ Table of contents
 
 There are two different Maths & CS units:  
 * 20 credit Year 3 **COMS30044 Individual Short Project**
-* 40 credit Year 4 **COMSM0142 Individual Project with Presentation**, MEng only.
+* 40 credit Year 4 **COMSM0142 Individual Project with Presentation**
 
 This page has information relevent to both units, as well as specific information about each one.
 
