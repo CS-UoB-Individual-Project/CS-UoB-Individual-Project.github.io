@@ -27,14 +27,14 @@ This page has information relevent to both units, as well as specific informatio
 Because of the different Maths unit options, some M&CS students will take your projects across Teaching Block 4 (across the full year - TB1+TB2=TB4). If you want to do this, you will need to:
 
 * If you are planning to take the Project as TB4, please [email Mike and Sarah](/contact) so we are aware.
-* When you are talking to a potential supervisor, make sure they are aware you will want to take the project as TB4, so you will be starting your supervision in TB1.
+* When you are talking to a potential supervisor, make sure they are aware you are talking the project as TB4, so you will need to start your supervision in TB1.
 * Get your project agreed with a supervisor in the first few weeks, so you can start work before Week 6 Reading Week.
-* Make a strong project plan that means you will be working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).
-* If you are taking COMSM0142, you will still need to attend the Presentation classes in TB2 and take that part of the assessment at the same time.
+* Make a strong project plan including working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).
+* If you are taking COMSM0142, you still need to attend the Presentation classes in TB2 and take that part of the assessment in Week 19.
 
 ## COMS30044: Individual Short Project
 
-Because your unit is 20 credits, as opposed to 40 for everyone else, you are only expected to complete half the amount of work.  When you're talking to potential supervisors, please let them know you are talking about the 20 credit project - and when you start your supervision in TB2 and meet your second marker at Poster Day and in the viva, let them know too.  We will remind them as well, but it will make everyone's lives easier to make things as clear as possible.  
+Because your unit is 20 credits, as opposed to 40 for everyone else, you are only expected to complete half the amount of work.  When you're talking to potential supervisors, please let them know you are taking the 20 credit project - and when you start your supervision in TB2 and meet your second marker at Poster Day and in the viva, rmind them too.  We will remind them as well, but it will make everyone's lives easier if there's no uncertainty.  
 
 Apart from that, everything is the same - it's the same marking scheme, and you can choose from the same projects list - you'll just be completing less work.  There are examples of 20 credit projects in the [Class Materials folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU) in 3 folders divided by grades the students achieved - look for the ones with names starting with COMS30044.  These can give you an idea of how much work is expected.  Because there are fewer students taking COMS30044, there are fewer example projects.  You can also look at the 40 credit projects to get inspiration, but bear in mind you are not expected to do this much work!
 
@@ -66,12 +66,12 @@ You should submit your slides in advance of the presentations themselves on Blac
 
 | **Date**   	| **Time** 	| **Title**               	            | **Location**   	| **Materials** |
 |------------	|----------	|-------------------------           	|----------------	|-------------- |
-|02/02/2024     |1pm-3pm    |Workshop 1: Intro and speaking technique |Ada SM3            |[Slides](intro-talk.pdf), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/f9da8043c64c416a9bc7cb5229494f301d)|
-|16/02/2024     |2pm-4pm    |Workshop 2: Outlining and slides       |Ada SM4            |[Slides](session2.pdf), [recording](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/969ee7cc0a1f4f4ba311e1545e0a05241d), [TOPp SEkrEt](PPTs.zip)               |
-|23/02/2024     |           |Workshop 3: Looking at drafts          |Ada SM4            | [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/78d84cf5a7ba451193990826b6173ea31d)              |
+|02/02/2024     |1pm-3pm    |Workshop 1: Intro and speaking technique |            |[Slides](intro-talk.pdf), recording to follow|
+|16/02/2024     |2pm-4pm    |Workshop 2: Outlining and slides       |        |[Slides](session2.pdf), recording to follow             |
+|23/02/2024     |           |Workshop 3: Looking at drafts          |           | recording to follow              |
 |26/02/2024     |N/A        |**Reading week!**                      |N/A                |N/A            |
-|04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |Physics 3.34       | [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/310c011af09c47e3b84acadc9a957b611d)              |
-|07/03/2024     |2pm-5pm    |Presentations                          |Queens 1.68        |N/A            |
+|04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |     | recording to follow             |
+|07/03/2024     |2pm-5pm    |Presentations                          |       |N/A            |
 |Weeks 8-9      |N/A        |Marks and feedback                     |N/A                |N/A            |
 
 ## Contacts
