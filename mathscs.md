@@ -58,9 +58,13 @@ You do **not** need your talk to be an accurate overview of your project, as it 
 
 Further details are discussed in the first workshop, linked below.
 
-The marking panel will include Raphaël Clifford, Christian Konrad, John Lapinskas, and Michael Wray. A more formal description of the assessment along with a mark scheme is available [here](mark_scheme.pdf).
+### Presentation assessment detils
 
-You should submit your slides in advance of the presentations themselves on Blackboard [here](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8033435_1&course_id=_257094_1&mode=reset) (scroll to the bottom). The deadline is the start of the presentations, 
+A more formal description of the assessment along with a mark scheme is available [here](mark_scheme.pdf).  The marking panel will include Raphaël Clifford, Christian Konrad, John Lapinskas, and Michael Wray. 
+
+**You should submit your slides in advance of the presentations themselves on Blackboard [here].(https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8033435_1&course_id=_257094_1&mode=reset)** (scroll to the bottom). 
+
+The deadline is the start of the presentations, **ADD**
 
 ## Schedule and Materials
 
