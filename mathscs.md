@@ -62,7 +62,7 @@ A more formal description of the assessment along with a mark scheme is availabl
 
 The deadline is the start of the presentations, **ADD**
 
-## Schedule and Materials
+### Presentation schedule and materials
 
 | **Date**   	| **Time** 	| **Title**               	            | **Location**   	| **Materials** |
 |------------	|----------	|-------------------------           	|----------------	|-------------- |
@@ -74,6 +74,6 @@ The deadline is the start of the presentations, **ADD**
 |07/03/2024     |2pm-5pm    |Presentations                          |       |N/A            |
 |Weeks 8-9      |N/A        |Marks and feedback                     |N/A                |N/A            |
 
-## Contacts
+### Presentation ontacts
 
-If you have any questions about this part of the unit, please [contact Raphaël Clifford](mailto:raphael.clifford@bristol.ac.uk).
+If you have any questions about the Presentation, please [contact Raphaël Clifford](mailto:raphael.clifford@bristol.ac.uk).
