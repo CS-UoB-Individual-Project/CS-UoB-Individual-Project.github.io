@@ -20,10 +20,17 @@ There are two different Maths & CS units:
 * 20 credit Year 3 **COMS30044 Individual Short Project**
 * 40 credit Year 4 **COMSM0142 Individual Project with Presentation**
 
-This page has information relevent to both units, as well as specific information about each one.
+# COMS30044: Individual Short Project
+
+Because your unit is 20 credits, as opposed to 40 for everyone else, you are only expected to complete half the amount of work.  When you're talking to potential supervisors, please let them know you're taking this unit - and when you start your supervision in TB2 and meet your second marker at Poster Day and in the viva, tell them too.  We will remind them as well, but it will make everyone's lives easier if there's no uncertainty.  
+
+Apart from that, everything is the same - it's the same marking scheme, and you can choose from the same projects list - you'll just be completing less work.  There are examples of 20 credit projects in the [Class Materials folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU) in 3 folders divided by grades the students achieved - look for the ones with names starting with COMS30044.  These can give you an idea of how much work is expected.  Because there are fewer students taking COMS30044, there are fewer example projects.  You can also look at the 40 credit projects to get inspiration, but bear in mind you are not expected to do this much work!
+
+# COMSM0142: Individual Project with Presentation
+
+Because the number of students who take this unit is small, there are not many examples of these projects in the [Class Materials folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU).  However, the COMSM0052 projects are the Computer Science MEng students, and are equivalent amounts of work.  
 
 ## Taking your project across TB4
-
 Because of the different Maths unit options, some M&CS students will take your projects across Teaching Block 4 (across the full year - TB1+TB2=TB4). If you want to do this, you will need to:
 
 * If you are planning to take the Project as TB4, please [email Mike and Sarah](/contact) so we are aware.
@@ -32,18 +39,7 @@ Because of the different Maths unit options, some M&CS students will take your p
 * Make a strong project plan including working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).
 * If you are taking COMSM0142, you still need to attend the Presentation classes in TB2 and take that part of the assessment in Week 19.
 
-## COMS30044: Individual Short Project
-
-Because your unit is 20 credits, as opposed to 40 for everyone else, you are only expected to complete half the amount of work.  When you're talking to potential supervisors, please let them know you are taking the 20 credit project - and when you start your supervision in TB2 and meet your second marker at Poster Day and in the viva, rmind them too.  We will remind them as well, but it will make everyone's lives easier if there's no uncertainty.  
-
-Apart from that, everything is the same - it's the same marking scheme, and you can choose from the same projects list - you'll just be completing less work.  There are examples of 20 credit projects in the [Class Materials folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU) in 3 folders divided by grades the students achieved - look for the ones with names starting with COMS30044.  These can give you an idea of how much work is expected.  Because there are fewer students taking COMS30044, there are fewer example projects.  You can also look at the 40 credit projects to get inspiration, but bear in mind you are not expected to do this much work!
-
-## COMSM0142: Individual Project with Presentation
-
-Because the number of students who take this unit is small, there are not many examples of these projects in the [Class Materials folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU).  However, the COMSM0052 projects are the Computer Science MEng students, and are equivalent amounts of work.  
-
 ### What is the presentation?
-
 90% of your unit mark will be from your dissertation, with 10% coming from the presentation aspect.  
 
 The presentation will be a 15-minute talk (with slides) given to a panel of markers and the other COMSM0142 students, with questions afterwards. These questions will not be deep and technical (as you might encounter in a viva), and you shouldn't need to spend any additional time preparing for them. 
