@@ -28,14 +28,14 @@ one-on-one sessions with experts in the field.
 
 | **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
 |------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
-|  	|   	| Returners Talks - Project Introduction       	|  	|   |
+| 12/09/24 	|13:00 M&CS/14:00 CS   	| Project Introduction in Returners Talks       	| 1.08 M&CS/1.11a CS 	|   |
 |  	|   	| Projects Q&A       	|  	|   |
 |  	|   	| Projects spreadsheet released       	|  	|    |
 |  	|   	| Matching Day       	|  	|     |
-| 	|     	| Project Kick-off        	|  	| [link]
-|  	|   	| Project Kick-off        	|  	| [link]    |
-|  	|    	| Library Workshop        	|   	| [slides]|
-|  	|    	| Q&A Session             	|    	| [recording]  |
+| 	|     	| TB2 Project Kick-off        	|  	|  |
+|  	|   	| Project Kick-off        	|  	|     |
+|  	|    	| Library Workshop        	|   	| |
+|  	|    	| Q&A Session             	|    	|   |
 |     |    | Intro to LaTeX            | N/A               | [   |
 | 	| 	| Project Poster Workshop 	| QB BBDS        	|   |
 | 	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
@@ -53,10 +53,10 @@ one-on-one sessions with experts in the field.
 
 | **Deadline**                                  	| **Date**   	| **Time** 	|
 |-----------------------------------------------	|------------	|----------	|
-| **All students** Innovation Presentation 	|  18 October 2024	|    17:00 	|
+| **All students** Supervisor confirmation 	|  18 October 2024	|    17:00 	|
 | **CS+Maths 4th Year** Innovation Presentation 	|  	|     	|
 | **CS 4th Year** Innovation Case               	| 	| 13:00    	|
-| **All students** Dissertation Deadline            	| 13:00	|     	|
+| **All students** Dissertation Deadline           |  	| 13:00	|     	|
 
 
 ## Viva Dates
@@ -83,7 +83,7 @@ If you don't have access, [contact Mike and Sarah](/contact).
 **DO NOT SPEND YOUR OWN MONEY ON YOUR PROJECT!!**
 We have a budget that we can use to buy you equipment, software, subscriptions, websites and more (within reason) but it is very hard for us to reimburse students money that you have spent.  
 
-There is information on the [Accessing Equipment/Software](/money/) page about how you can borrow, buy and use things for your project.  
+There is information on the [Accessing Equipment/Software](/money) page about how you can borrow, buy and use things for your project.  
 
 ## Project Code for Blue Crystal
 
