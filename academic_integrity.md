@@ -1,3 +1,20 @@
+---
+layout: default
+nav_order: 8
+title: Academic Integrity
+permalink: /academic_integrity/
+---
+
+<details open markdown="block">
+<summary>
+Table of contents
+</summary>
+{: .text-delta}
+1. TOC
+{:toc}
+</details>
+
+
 # Academic Integrity and Plagiarism
 
 We expect all final year students to be familiar with and correctly follow the university's rules on academic integrity and plagiarism.  Please read the [University pages on Academic Integrity](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/), including the 3 linked pages on [plagiarism](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/plagiarism/), [collusion](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/collusion/) and [contract cheating, including 'AI' tools](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/contract-cheating/).
