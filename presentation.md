@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 8
+nav_order: 
 title: Presentation component (COMSM0142 only)
 permalink: /presentation/
 ---
