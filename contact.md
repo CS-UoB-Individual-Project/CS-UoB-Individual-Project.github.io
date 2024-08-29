@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 permalink: /contact/
-nav_order: 8
+nav_order: 12
 ---
 
 <details open markdown="block">
