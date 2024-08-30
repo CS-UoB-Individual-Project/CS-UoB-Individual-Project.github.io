@@ -14,6 +14,8 @@ Table of contents
 {:toc}
 </details>
 
+# THIS WEBSITE IS CURRENTLY THE 23/24 VERSION AND WILL BE UPDATED SHORTLY
+
 ## Welcome
 
 Welcome to the project unit! Your final project is the pinnacle of your degree.
