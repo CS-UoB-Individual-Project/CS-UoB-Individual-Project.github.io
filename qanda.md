@@ -19,7 +19,7 @@ Table of contents
 
 # Where to ask questions
 
-The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Mike and Sarah will be answering questions as quickly as we can.  We will periodically add answers here.
+**The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Mike and Sarah will be answering questions as quickly as we can.  We will periodically add answers here throughout the year.**
 
 # Project choice
 
@@ -47,6 +47,7 @@ I want to wait until I've had more experience of the units**: Students will have
 # Supervisors
 
 ## Choosing a supervisor
+**See the [Finding a Project page](/tb1) for more information**
 
 #### How do I choose a supervisor? 
 You should choose your supervisor based on the area of the project you want to work on as well as someone that you are interested in working with. Think about the kind of person you want to work with.  For example, what kind of person makes you want to work harder?  Would you like to meet weekly or fortnightly?  How do you prefer to communicate?  
@@ -74,11 +75,8 @@ The list of areas is not exhaustive, and we can usually help you find supervisor
 
 ## Contacting your supervisor
 
-#### I cannot contact my supervisor**: 
+#### I can't contact or meet my supervisor
 Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, email [Mike and Sarah](/contact).
-
-#### My supervisor refuses to meet me
-Please email [Mike and Sarah](/contact) including any recent and relevant emails with your supervisor.
 
 # Accessing equipment/software/services
 See [the Accessing Equipment/Software page](/money) for more information. 
@@ -95,7 +93,7 @@ See [the Accessing Equipment/Software page](/money) and scroll down to the Blue 
 
 # Dissertation
 
-There is more information about the structure and templates on the [Writing Your Dissertation page](/writing).
+**There is more information about the structure and templates on the [Writing Your Dissertation page](/writing).**
 
 ##### What's the difference between a dissertation, a thesis and a report?
 For these projects, nothing! They're different words to describe the same thing.
@@ -129,7 +127,7 @@ No, this is optional - if you don't want to include them, delete the page.
 
 ## Writing your dissertation
 
-There is more information, including sources of writing, editing and planning support, on the [Writing Your Dissertation page](/writing)
+**There is more information, including sources of writing, editing and planning support, on the [Writing Your Dissertation page](/writing)**
 
 #### How many pages of our dissertation we are allowed to give our supervisor for feedback?
 It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time to read and reply - it's best to agree in advance when you will send them drafts for feedback.
@@ -139,6 +137,9 @@ Figures in the main body of the dissertation are included in the page count, but
 
 #### Can I use AI/Large Language Models/Translation software?
 Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity) as this has everything you need.  if you're not sure you understand it, talk to your supervisor, and if they can't help, email [Mike and Sarah](/contact).
+
+#### Is there anywhere to get help with writing? I'm worried about it!
+Yes, see the [Writing Your Dissertation page](/writing) for details of Study Support help, including one-to-one writing tutorials.
 
 ## Referencing
 
@@ -161,7 +162,7 @@ Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.
 
 # Ethics
 
-You can find the full information about Project Ethics on the [Ethics page](/ethics).
+***You can find the full information about Project Ethics on the [Ethics page](/ethics).**
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
 #### How long does it take to get an ethics application accepted?
@@ -216,7 +217,7 @@ You can if you want to - there is a separate submission point called Auxiliary M
 
 # Marking
 
-There is more information about the marking and assessment processes on the [Assessment Information page](/assessment).
+**There is more information about the marking and assessment processes on the [Assessment Information page](/assessment).**
 
 #### Who will be my second marker?
 Your second marker will be someone who knows enough about your subject to mark your project.  We will tell you who your second marker is halfway through TB2, and you will have a chance to talk to them about your project on or around Poster Day.
