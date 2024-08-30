@@ -36,7 +36,7 @@ aux_links:
   "Blackboard home page":
     - "https://www.ole.bris.ac.uk/"
 
-color_scheme: dark
+color_scheme: light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
