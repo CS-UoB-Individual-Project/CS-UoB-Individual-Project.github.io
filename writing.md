@@ -34,12 +34,12 @@ You will see some optional sessions in your timetable - Writing Workshops by CAL
 
 For more support with writing:
 
-* **General Purpose Guide to Academic Writing** by Professor Dave Cliff has some useful useful tips towards how to approach
+* **[General Purpose Guide to Academic Writing](https://uob.sharepoint.com/:b:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/TipsOnWriting.pdf?csf=1&web=1&e=rr5B30)** by Professor Dave Cliff has some useful useful tips towards how to approach
 academic-style writing for Computer Scientists.
-* **[Study Skills guides to academic reading, writing, planning your work and more]** - scroll down the page to get the various guides to different topics.  
+* **[Study Skills guides to academic reading, writing, planning your work and more]([https://www.bristol.ac.uk/students/your-studies/study-support/study-skills](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/))** - scroll down the page to get the various guides to different topics.  
 * **The [University Study Skills team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/)** run bookable workshops and tutorials and dropins where they can give you feedback and advice on your writing at any stages. 
 * **[University Writing Fellows](https://www.bristol.ac.uk/bristol-futures/royal-literary-fellows/)** are also available to give you advice on writing and feedback on your drafts.
-* **[Wordsmiths](https://sway.cloud.microsoft/WS8RylsNvhtGTXDc?ref=Link)** is a weekly writing group for any Bristol students to come together to give each other tips and feedback on your writing - scroll down to the Study Groups section of the website.
+* **[Wordsmiths](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/#groups)** is a weekly writing group for any Bristol students to come together to give each other tips and feedback on your writing - scroll down to the Study Groups section of the website.
 
 
 # Dissertation Templates
