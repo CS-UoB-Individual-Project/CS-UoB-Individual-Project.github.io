@@ -32,7 +32,7 @@ Yes, you can approach supervisors with a concrete proposal or with the beginning
 ### I want to do a project that crosses disciplines - is this possible?
 Yes, you can have two Supervisors in different disciplines, as long as one is in Computer Science, and they both agree.
 
-### I've been working on a personal project - can I use this for my Project?
+### I've been working on a personal project - can I use this for the unit?
 Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
 
 ### I'm struggling to choose a project, what do I do?
@@ -41,7 +41,7 @@ Talk to your personal tutor in the first instance - or if they can't help you, r
 ### I'm really excited about my project - can I start work on it now?
 We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
 
-### Why do I have to pick my Project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units
+### Why do I have to pick my project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units
 Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
 
 # Supervisors
@@ -68,7 +68,7 @@ Email them with a brief introduction of why you're interested in working with th
 Each year supervisors are allotted a certain number of projects that thy have to supervise. Most supervisors will refuse to take on any more students if they have already filled up their allotment - which they are perfectly allowed to do.
 
 ### The supervisor I want to work with has no more slots left - what should I do?
-On the Projects Spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [Mike and Sarah](/contact).
+On the projects spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [Mike and Sarah](/contact).
 
 ### There are no supervisors interested in working in the area I'm interested in
 The list of areas is not exhaustive, and we can usually help you find supervisors for most interests.  Talk to your personal tutor or [Mike and Sarah](/contact).
