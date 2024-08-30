@@ -24,6 +24,7 @@ Table of contents
 # Project choice
 
 **Which type of project will give me higher marks?**
+
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
 
 **Can I make my own project topic?**
