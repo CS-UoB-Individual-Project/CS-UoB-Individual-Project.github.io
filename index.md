@@ -40,7 +40,7 @@ The projects unit will run in three phases:
 | 28/02/25	| 14:00   	| Project Writing Retreat 	| Wills Reception Room     	|             |
 | 04/03/25 	| 15:00 	| Project Poster Workshop 	| Queens Building 1.07        	|   |
 |  *	| *    	| CALD Writing Workshops  	|  *            	|                                                                                        	    |                                                                                      	    |
-| 02/04/2025	| 14:00   	| Poster Day 	| Bill Brown Suite     	|                                                                                        	    |
+| 02/04/25	| 14:00   	| Poster Day 	| Bill Brown Suite     	|                                                                                        	    |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 
