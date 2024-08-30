@@ -23,39 +23,39 @@ Table of contents
 
 # Project choice
 
-#### Which type of project will give me higher marks?
+**Which type of project will give me higher marks?**
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
 
-#### Can I make my own project topic?
+**Can I make my own project topic?**
 Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [Mike and Sarah](/contact) who will help you identify possible supervisors.
 
-#### I want to do a project that crosses disciplines - is this possible?
+**I want to do a project that crosses disciplines - is this possible?**
 Yes, you can have two Supervisors in different disciplines, as long as one is in Computer Science, and they both agree.
 
-#### I've been working on a personal project - can I use this for my Project?
+**I've been working on a personal project - can I use this for my Project?**
 Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
 
-#### I'm struggling to choose a project, what do I do?
+**I'm struggling to choose a project, what do I do?**
 Talk to your personal tutor in the first instance - or if they can't help you, reach out to [Mike and Sarah](/contact).
 
-#### I'm really excited about my project - can I start work on it now?
+**I'm really excited about my project - can I start work on it now?**
 We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
 
-#### Why do I have to pick my Project now?  
-I want to wait until I've had more experience of the units**: Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
+**Why do I have to pick my Project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units**
+Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
 
 # Supervisors
 
 ## Choosing a supervisor
 **See the [Finding a Project page](/tb1) for more information**
 
-#### How do I choose a supervisor? 
+**How do I choose a supervisor?**
 You should choose your supervisor based on the area of the project you want to work on as well as someone that you are interested in working with. Think about the kind of person you want to work with.  For example, what kind of person makes you want to work harder?  Would you like to meet weekly or fortnightly?  How do you prefer to communicate?  
 
-#### I know what I want to do and who I want to work with - can I approach them now, or do I have to wait for the spreadsheet?
-You don't have to wait - if you know who you want to work with, go ahead and email them!
+**I know what I want to do and who I want to work with - can I approach them now, or do I have to wait for the spreadsheet?
+You don't have to wait - if you know who you want to work with, go ahead and email them!**
 
-#### Is it ok to approach more than one supervisor?
+**Is it ok to approach more than one supervisor?**
 Yes, we encourage you to do this, so you can so you can make the choice that's best for you.  We will have a Projects Matching Day where you can meet multiple supervisors in the same session. 
 
 #### Can I have a supervisor from outside Computer Science?
@@ -79,7 +79,7 @@ The list of areas is not exhaustive, and we can usually help you find supervisor
 Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, email [Mike and Sarah](/contact).
 
 # Accessing equipment/software/services
-See [the Accessing Equipment/Software page](/money) for more information. 
+**See [the Accessing Equipment/Software page](/money) for more information.** 
 
 #### If I buy something I need for my project, can I get reimbursed?
 This is very hard - instead, if you need something, contact [Mike and Sarah](/contact) with what you need and why you need it, and ideally links to what you need, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
