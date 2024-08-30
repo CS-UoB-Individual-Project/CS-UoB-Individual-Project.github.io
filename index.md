@@ -14,17 +14,16 @@ Table of contents
 {:toc}
 </details>
 
-## Welcome
+## Overall Timeline
 
-Welcome to the project unit! Your final project is the pinnacle of your degree.
-It is a chance for you to demonstrate what you have learnt and what you are
-capable of. It makes up a significant part of your degree classification. It
-will be challenging, and you will need to demonstrate that you can overcome
-this challenge. That said, it will also be one of the most fulfilling parts of
-your degree, since it is a chance to focus on what you want to do, supported by
-one-on-one sessions with experts in the field.
+The projects unit will run in three phases:
+* **TB1** You will find a supervisor and *specify* a project.
+* **TB2** You will *execute* your project and write up a *dissertation*.
+* **Summer Assessment Period** We will *assess* your project by reading the dissertation and holding an oral exam (viva).
+
 
 ## Schedule, Videos and Materials
+
 
 | **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
 |------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
@@ -40,7 +39,7 @@ one-on-one sessions with experts in the field.
 | 	| 	| Project Poster Workshop 	| QB BBDS        	|   |
 | 	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
 | 	|   	| Project Writing Retreat 	|      	|             |
-|  	| *        	| CALD Writing Workshops  	|              	|                                                                                        	    |
+|  	|     	| CALD Writing Workshops  	|              	|                                                                                        	    |
 | 	|    	| Project Poster Day      	| QB BBDS        	|                                                                                        	    |
 | 	|    	| Project Writing Retreat 	|        	|                                                                                        	    |
 
@@ -77,6 +76,7 @@ You can find a link to the teams channel for the unit
 * The [Class Materials](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=v6jcDe) section of the General Channel has dissertation and poster templates and examples of projects from 2023-4.
 
 If you don't have access, [contact Mike and Sarah](/contact).
+<<<<<<< HEAD
 
 ## Equipment, Software and Subscriptions for your Project
 
@@ -88,3 +88,5 @@ There is information on the [Accessing Equipment/Software](/money) page about ho
 ## Project Code for Blue Crystal
 
 When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Under project details, make sure you click join an existing project, with the Final Year Projects project code: **COMS031144**, not any other codes you may have been given for previous units.
+=======
+>>>>>>> 2432639 (Renamed introduction to overview, updated main hub and academic integrity pages)

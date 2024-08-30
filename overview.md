@@ -1,8 +1,8 @@
 ---
 layout: default
 nav_order: 3
-title: Introduction
-permalink: /introduction/
+title: Overview
+permalink: /overview/
 ---
 
 <details open markdown="block">
@@ -13,14 +13,6 @@ Table of contents
 1. TOC
 {:toc}
 </details>
-
-This page will contain a high-level overview of the individual project unit.
-We recommend reading this and the following pages in detail:
-
-1. [Teaching Block 1](tb_1)
-2. [Teaching Block 2](tb_2)
-3. [Assessment Information](assessment)
-
 
 # Principles and Independent Learning Objectives (ILOs)
 
@@ -35,14 +27,6 @@ You should bear in mind the following three principles whilst completing your pr
   * Present your results in written and verbal form.
   * Manage your own time, and decide your own objectives. 
 
-# Overall Timeline
-
-The projects unit will run in three phases:
-* **TB1** You will find a supervisor and *specify* a project.
-* **TB2** You will *execute* your project and write up a *dissertation*.
-* **Summer Assessment Period** We will *assess* your project by reading the dissertation and holding an oral exam (viva).
-
-You can find a full up to date list of the schedule of the unit on the [main hub](/#schedule-videos-and-materials)
 
 # Academic Integrity and Plagiarism
 
@@ -65,12 +49,3 @@ The Faculty position is that if you use 'AI' tools (such as ChatGPT, CoPilot, De
 If you're interested in the University policies on 'AI' tools and the reasoning behind them, including some of the risks, read the new [Study Skills Resource](https://www.ole.bris.ac.uk/bbcswebdav/pid-8037204-dt-content-rid-46594374_2/courses/Study_Skills/using-ai-at-university/index.html). 
 
 
-# The Innovation Case
-
-This section only concerns students on the 4 year degree programmes (COMSM0052 and COMSM0142), all other students can stop reading now!
-
-If you are on the MEng degree, you will submit an innovation case (worth 5 CP) if you are on COMSM0052 or perform an oral presentation (worth 4CP of the unit).
-
-Regardless of the format, these supplemental assessments are designed to understand and express how your skills and knowledge can make a positive and valuable difference in the world.
-You will develop an argument for the relevance and significance of Computer Science work in your research project area for an external audience.
-You will have separate sessions within your timetable which will guide you through the process and how to present your work in such a style.

@@ -1,8 +1,14 @@
 ---
 layout: default
+<<<<<<< HEAD
 nav_order: 8
 title: Academic Integrity
 permalink: /academic_integrity/
+=======
+nav_order: 10
+title: Academic Integrity
+permalink: /integrity/
+>>>>>>> 2432639 (Renamed introduction to overview, updated main hub and academic integrity pages)
 ---
 
 <details open markdown="block">
@@ -13,7 +19,6 @@ Table of contents
 1. TOC
 {:toc}
 </details>
-
 
 # Academic Integrity and Plagiarism
 
