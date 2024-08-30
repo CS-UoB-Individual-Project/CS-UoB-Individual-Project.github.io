@@ -17,9 +17,9 @@ Table of contents
 ## Overall Timeline
 
 The projects unit will run in three phases:
-* **TB1** You will find a supervisor and *specify* a project.
-* **TB2** You will *execute* your project and write up a *dissertation*.
-* **Summer Assessment Period** We will *assess* your project by reading the dissertation and holding an oral exam (viva).
+* **TB1** You will find a supervisor and decide on a project.
+* **TB2** You will execute your project and write up a dissertation.
+* **Summer Assessment Period** We will assess your project by reading the dissertation and holding an oral exam (viva).
 
 
 ## Schedule, Videos and Materials
