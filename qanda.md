@@ -23,29 +23,28 @@ Table of contents
 
 # Project choice
 
-**Which type of project will give me higher marks?**
-
+### Which type of project will give me higher marks?
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
 
-**Can I make my own project topic?**
-
+### Can I make my own project topic?
 Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [Mike and Sarah](/contact) who will help you identify possible supervisors.
 
-**I want to do a project that crosses disciplines - is this possible?**
-
+###I want to do a project that crosses disciplines - is this possible?
 Yes, you can have two Supervisors in different disciplines, as long as one is in Computer Science, and they both agree.
 
-**I've been working on a personal project - can I use this for my Project?**
-
+###I've been working on a personal project - can I use this for my Project?
 Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
 
 **I'm struggling to choose a project, what do I do?**
+
 Talk to your personal tutor in the first instance - or if they can't help you, reach out to [Mike and Sarah](/contact).
 
 **I'm really excited about my project - can I start work on it now?**
+
 We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
 
 **Why do I have to pick my Project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units**
+
 Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
 
 # Supervisors
