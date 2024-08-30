@@ -29,25 +29,21 @@ The projects unit will run in three phases:
 |------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
 | 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    	| 1.11a 	|   |
 | 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  	| 1.08  	|   |
-|  	|   	| Projects Q&A       	|  	|   |
-|  	|   	| Projects spreadsheet released       	|  	|    |
-|  	|   	| Matching Day       	|  	|     |
-| 	|     	| TB2 Project Kick-off        	|  	|  |
-|  	|   	| Project Kick-off        	|  	|     |
-|  	|    	| Library Workshop        	|   	| |
-|  	|    	| Q&A Session             	|    	|   |
-|     |    | Intro to LaTeX            | N/A               | [   |
-| 	| 	| Project Poster Workshop 	| QB BBDS        	|   |
-| 	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
-| 	|   	| Project Writing Retreat 	|      	|             |
-|  	|     	| CALD Writing Workshops  	|              	|                                                                                        	    |
-| 	|    	| Project Poster Day      	| QB BBDS        	|                                                                                        	    |
-| 	|    	| Project Writing Retreat 	|        	|                                                                                        	    |
+| 23/09/24	|10:00   	| Projects Q&A       	| Biomedical Building E29 	|   |
+| 23/09/24 	|11:00   	| Projects spreadsheet released       	|  	|    |
+| 02/10/24	|14:00   	| Matching Day       	| Bill Brown 	|     |
+| 13/01/25	|13:00     	| TB2 Project Kick-off        	| QB 1.15 	|  |
+| 16/01/25  	|13:00   	| Projects Q&A       	|  QB 1.15	|     |
+| 20/01/25  	|13:00    	| Library Workshop        	| QB 1.15  	| |
+| 23/01/25 	| 13:00    	| Q&A Session             	| QB 1.15   	|   |
+| *	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
+| 28/02/25	| 14:00   	| Project Writing Retreat 	| Will Reception Room     	|             |
+| 04/03/25 	| 15:00 	| Project Poster Workshop 	| QB 1.07        	|   |
+|  *	| *    	| CALD Writing Workshops  	|  *            	|                                                                                        	    |                                                                                      	    |
+| 02/04/2025	| 14:00   	| Poster Day 	| Bill Brown      	|                                                                                        	    |
+
 
 `*` CALD Writing Workshops will be added to your timetable. 
-
-`+` These will be run as a hybrid event
-
 
 ## Deadlines
 
@@ -62,7 +58,7 @@ The projects unit will run in three phases:
 
 ## Viva Dates
 
-Most vivas will be held on the **** in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2025.
+Most vivas will be held on the 11th and 12th May in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2025**.
 
 Note that vivas are being planned to be **in-person**.
 
