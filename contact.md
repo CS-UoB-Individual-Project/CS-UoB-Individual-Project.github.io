@@ -16,8 +16,8 @@ Table of contents
 
 ## Contact Us
 
-* Michael Wray (Unit director): [michael.wray@bristol.ac.uk](mailto:michael.wray@bristol.ac.uk)
-* Sarah Connolly (Deputy Unit Director): [sarah.connolly@bristol.ac.uk](mailto:sarah.connolly@bristol.ac.uk)
+* Michael (Mike) Wray (Unit director): [michael.wray@bristol.ac.uk](mailto:michael.wray@bristol.ac.uk)
+* Sarah Connolly (Deputy unit director): [sarah.connolly@bristol.ac.uk](mailto:sarah.connolly@bristol.ac.uk)
 * Pete Bennett (innovation case lead): [peter.bennett@bristol.ac.uk](mailto:peter.bennett@bristol.ac.uk)
 * Dave Jarman (innovation case deputy): [dave.jarman@bristol.ac.uk](mailto:dave.jarman@bristol.ac.uk)
 * John Lapinskas (presentation component lead): [john.lapinskas@bristol.ac.uk](mailto:john.lapinskas@bristol.ac.uk)
