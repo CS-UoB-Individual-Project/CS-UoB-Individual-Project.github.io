@@ -28,12 +28,15 @@ Table of contents
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
 
 **Can I make my own project topic?**
+
 Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [Mike and Sarah](/contact) who will help you identify possible supervisors.
 
 **I want to do a project that crosses disciplines - is this possible?**
+
 Yes, you can have two Supervisors in different disciplines, as long as one is in Computer Science, and they both agree.
 
 **I've been working on a personal project - can I use this for my Project?**
+
 Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
 
 **I'm struggling to choose a project, what do I do?**
