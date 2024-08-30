@@ -15,6 +15,22 @@ Table of contents
 </details>
 
 
+# Time Management
+
+You should plan for 12 weeks with 40-hour work weeks for all your work in the Teaching Block - your project, your other unit(s) and the innovation case if in Year 4 - though with everything at University you can choose to break this up however you wish.
+**You should not *plan* to work every day in TB2**, doing so will likely leave you falling behind.
+
+Importantly, you should plan for *disruptions* which could be illnesses, job interviews, computer issues, etc.
+
+# Minimum Viable Product
+
+When planning your project you should define a minimum viable product(MVP). This should be enough to pass the unit that you will be able to **complete on time after around half of your alotted time** and should be discussed with your supervisor when confirming your project.
+
+If your project is harder than expected, then you have the MVP to fall back on, otherwise you can add extra features to the MVP to increase the challenge of your project.
+
+You should be constantly reviewing your progress during TB2, for yourself and for your supervisor. If you think you cannot finish the MVP **you should let your supervisor know immediately**.
+
+
 # Dissertation Writing
 
 When writing your thesis, we **strongly** recommend writing it using LaTeX

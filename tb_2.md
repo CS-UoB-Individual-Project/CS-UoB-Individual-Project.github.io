@@ -28,25 +28,6 @@ Other activities during this term will include:
 As always, see the [schedule](/#schedule-videos-and-materials) for up-to-date information.
 
 
-## Completing your Project
-
-Your supervisor is expected to meet you for **at least 1 hour every 2 weeks** (or 0.5 hour every week) during teaching block 2.
-This is a chance to ask questions and get guidance throughout the project, they will not solve your project for you, and there won't be time for them to do this. Do not expect more than a "let's discuss at the next meeting" as a response from your supervisor outside of your normal meeting time.
-
-## Time Management
-
-You should plan for 12 weeks with 40-hour work weeks for all your work in the Teaching Block - your project, your other unit(s) and the innovation case if in Year 4 - though with everything at University you can choose to break this up however you wish.
-**You should not *plan* to work every day in TB2**, doing so will likely leave you falling behind.
-
-Importantly, you should plan for *disruptions* which could be illnesses, job interviews, computer issues, etc.
-
-## Minimum Viable Product
-
-When planning your project you should define a minimum viable product(MVP). This should be enough to pass the unit that you will be able to **complete on time after around half of your alotted time** and should be discussed with your supervisor when confirming your project.
-
-If your project is harder than expected, then you have the MVP to fall back on, otherwise you can add extra features to the MVP to increase the challenge of your project.
-
-You should be constantly reviewing your progress during TB2, for yourself and for your supervisor. If you think you cannot finish the MVP **you should let your supervisor know immediately**.
 
 ## Mental Health
 

@@ -16,9 +16,9 @@ Table of contents
 
 # Assessment Information
 
-Normally, you would submit your project in week 24. Submission consists of your dissertation (compulsory) and any auxiliary material (e.g. code), and the submission is digital only.
+The deadline is the 28th April. Submission consists of your dissertation (compulsory) and any auxiliary material (e.g. code), and the submission is digital only.
 
-Your project will be marked by your supervisor (known as the first marker) and a second marker who isn't involved with the project.
+Your project will be marked by your supervisor (first marker) and a second marker who isn't involved with the project.
 You will have the chance to talk to your second marker about your project at Poster Day and they will hold the viva with you.
 
 ## Marking Process
@@ -34,25 +34,21 @@ In the (very) rare case that both markers cannot agree on a final mark, a third 
 ## Viva (Oral Exam)
 
 The second marker will hold your viva which for all purposes is an oral exam.
-Vivas are in person and **attendance is mandatory** - you will fail the unit if you are not present.
+Vivas are **in-person** and **attendance is mandatory** - you will fail the unit if you are not present.
 
 The viva has several purposes:
 * To showcase parts of the project which cannot (easily) be incoporated into the dissertation.
 * To get assurance that you have done the work yourself.
-* To discuss any mistakes or omissions within the dissertation.
 * To correct any misunderstandings the second marker may have had about the work.
+* To discuss any mistakes or omissions within the dissertation.
 * To explore your understanding of the project area.
 
-The viva is not a separate marked component, rather it will factor into your final mark, though you can treat it as worth 5-10% of your overall mark.
-You should prepare for the viva, but there is no need to lose nights sleeping over it.
-In most cases, the viva clarifies and reinforces the second marker's initial impressions of the project rather than changing it completely.
+The viva will start with you giving a 5-10 minute overview of the project. Slides aren't necessary but can be helpful to remind you of what to say.
 
-## Mark Scheme
+# Mark Scheme
 
-How your project is assessed will depend on many specific factors, including the type of degree it is for (BSc, MEng), the type of project (enterprise, research, theory, development etc.), and what achievements you claim in your thesis.
-For example if you tell us in your thesis that the usability of the software you developed is your most important achievement, your markers will most likely weight usability higher than other criteria.
 
-However, your project will generally be marked along four pillars:
+Your project will generally be marked along four pillars:
 * Challenge and Achievement
 * Technical Approach
 * Critical Interpretation
@@ -70,7 +66,7 @@ These pillars don't represent individual marks that get aggregated, but are guid
 | 40-49  | * Little challenge, some progress made but failed to achieve main aims<br>* An inadequate volume of work, mostly/wholly supervisor directed<br>* Scope entirely within scope of degree or aligns poorly with Comp. Sci.                                                                                                                                                            | * The project findings are of little value, for example they fail to replicate existing work<br>* Tools and techniques are mis-applied or not always appropriate<br>* Little consideration if any of the choice of tools or alternatives<br>* Methodology is ad-hoc or unsystematic in places<br>* Some lack of the command of tools and techniques employed<br>* Technical material is handled unconvincingly or incorrectly<br>* Fixing technical problems would require a substantial effort/re-design                                                          | * Very little evaluation - poorly designed or executed<br>* Metrics and techniques may not be appropriate, with no or very limited useful conclusions<br>* The appraisal may be shallow or only partially applicable to the project aims<br>* Little or no useful consideration of future work or relevant open problems                                                                 | * The dissertation is hard to read in certain areas<br>* Presentation is weak, key concepts cannot be understood<br>* Visualisation is absent, ineffective, or visually inconsistent<br>* Very little prior work cited, sometimes incorrectly<br>* Chosen prior work misses key works<br>* The student cannot answer basic questions without prompts or at all                                                                                                                                                                                                      |
 | 0-39   | * Trivial challenge with very little progress towards aims<br>* Inadequate volume of work with little self direction<br>* Scope entirely within scope of degree or aligns poorly with Comp. Sci.                                                                                                                                                                                   | * The project findings have no value, or almost no value<br>* Tools and techniques are mis-applied, or not appropriate<br>* Little or no consideration of the choice of tools, or of alternatives<br>* Methodology is unsystematic or absent throughout<br>* Evidence of a profound lack of command of the tools and techniques employed<br>* Technical material is handled incorrectly or unconvincingly throughout<br>* Fixing technical problems would require restarting the project                                                                           | * Evaluation is superficial, incoherent or completely absent<br>* Little or no useful conclusions are reached<br>* Very little to no critical appraisal                                                                                                                                                                                                                                  | * The dissertation is frequently very difficult to understand<br>* Presentation is poor, the reader cannot understand discussion points<br>* Visualisation is either absent or confusing offering no help<br>* Very little prior work cited and/or frequently cited incorrectly<br>* Chosen prior work shows misunderstanding of wider context<br>* The student cannot answer basic questions at all<br>* Unclear if the student has done any work on the topic at all                                                                                              |
 
-## Example Projects
+# Example Projects
 
 We have selected a variety of student projects from last year covering a wide range of topics and have grouped them based on their mark. Make sure that you look at projects relevant to your unit code (COMSM0142 should look at COMSM0052 as well, as the unit has only run for 1 year).
 
@@ -81,7 +77,7 @@ We have selected a variety of student projects from last year covering a wide ra
 Note that these have been anonymised and some pages with identifying information has been removed.  Please bear in mind that there is no corretion between the subjects and the grades as you are just seeing a selection.
 
 
-## Assessment Support and Guidance
+# Assessment Support and Guidance
 
 * [Request a Coursework Extension](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/request-a-coursework-extension/)
 * [Extenuating Circumstances Guidance](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/extenuating-circumstances/)

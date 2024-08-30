@@ -58,22 +58,22 @@ Further details are discussed in the first workshop, linked below.
 
 A more formal description of the assessment along with a mark scheme is available [here](mark_scheme.pdf).  The marking panel will include Raphaël Clifford, Christian Konrad, John Lapinskas, and Michael Wray. 
 
-**You should submit your slides in advance of the presentations themselves on Blackboard [here].(https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8033435_1&course_id=_257094_1&mode=reset)** (scroll to the bottom). 
+* You should submit your slides in advance of the presentations themselves on Blackboard.
 
-The deadline is the start of the presentations, **ADD**
+The deadline is the start of the presentations, **TBC**
 
 ### Presentation schedule and materials
 
 | **Date**   	| **Time** 	| **Title**               	            | **Location**   	| **Materials** |
 |------------	|----------	|-------------------------           	|----------------	|-------------- |
-|02/02/2024     |1pm-3pm    |Workshop 1: Intro and speaking technique |            |[Slides](intro-talk.pdf), recording to follow|
-|16/02/2024     |2pm-4pm    |Workshop 2: Outlining and slides       |        |[Slides](session2.pdf), recording to follow             |
-|23/02/2024     |           |Workshop 3: Looking at drafts          |           | recording to follow              |
+|02/02/2024     |1pm-3pm    |Workshop 1: Intro and speaking technique |            |[Slides](intro-talk.pdf)|
+|16/02/2024     |2pm-4pm    |Workshop 2: Outlining and slides       |        |[Slides](session2.pdf)|
+|23/02/2024     |           |Workshop 3: Looking at drafts          |           | |
 |26/02/2024     |N/A        |**Reading week!**                      |N/A                |N/A            |
-|04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |     | recording to follow             |
+|04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |     | |
 |07/03/2024     |2pm-5pm    |Presentations                          |       |N/A            |
 |Weeks 8-9      |N/A        |Marks and feedback                     |N/A                |N/A            |
 
-### Presentation ontacts
+### Presentation Contacts
 
 If you have any questions about the Presentation, please [contact Raphaël Clifford](mailto:raphael.clifford@bristol.ac.uk).

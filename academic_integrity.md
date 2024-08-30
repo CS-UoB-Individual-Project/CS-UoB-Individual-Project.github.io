@@ -1,14 +1,8 @@
 ---
 layout: default
-<<<<<<< HEAD
 nav_order: 8
 title: Academic Integrity
 permalink: /academic_integrity/
-=======
-nav_order: 10
-title: Academic Integrity
-permalink: /integrity/
->>>>>>> 2432639 (Renamed introduction to overview, updated main hub and academic integrity pages)
 ---
 
 <details open markdown="block">
@@ -31,10 +25,10 @@ You are expected to complete online academic integrity training - find this on t
 We will check for academic integrity and plagiarism in three ways:
 1. We run all dissertations through TurnItIn to check that work submitted is your own or correctly referenced.
 2. Your supervisor (who is your first marker) is the subject expert and will know text that is not correctly referenced.
-3. . If you cannot explain basic parts of your dissertation within the viva then you are likely to be investigated further.
+3. If you cannot explain basic parts of your dissertation within the viva then you are likely to be investigated further.
 
 
-## A note on AI within Submissions
+# A note on AI within Submissions
 
 The Faculty position is that if you use 'AI' tools (such as ChatGPT, CoPilot, DeepL translation tools etc, you should cite all uses in your report.  The full information is in the single page [Faculty guidance](https://www.ole.bris.ac.uk/bbcswebdav/pid-8241705-dt-content-rid-48627612_3/xid-48627612_3), which you should read (you must be signed into Blackboard to access it, and can also access it if you scroll down to Academic Integrity in the Blackboard [CS student handbook](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8241665_1&course_id=_258444_1&content_id=_8241705_1#).
 

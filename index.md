@@ -27,7 +27,8 @@ The projects unit will run in three phases:
 
 | **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
 |------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
-| 12/09/24 	|13:00 M&CS/14:00 CS   	| Project Introduction in Returners Talks       	| 1.08 M&CS/1.11a CS 	|   |
+| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    	| 1.11a 	|   |
+| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  	| 1.08  	|   |
 |  	|   	| Projects Q&A       	|  	|   |
 |  	|   	| Projects spreadsheet released       	|  	|    |
 |  	|   	| Matching Day       	|  	|     |
@@ -52,10 +53,11 @@ The projects unit will run in three phases:
 
 | **Deadline**                                  	| **Date**   	| **Time** 	|
 |-----------------------------------------------	|------------	|----------	|
-| **All students** Supervisor confirmation 	|  18 October 2024	|    17:00 	|
-| **CS+Maths 4th Year** Innovation Presentation 	|  	|     	|
-| **CS 4th Year** Innovation Case               	| 	| 13:00    	|
-| **All students** Dissertation Deadline           |  	| 13:00	|     	|
+| **All students** Supervisor confirmation 	        |  18/10/24	    | 17:00 	|
+| **CS+Maths 4th Year** Innovation Presentation 	|  TBC          |     	    |
+| **CS 4th Year** Innovation Case               	|  13/02/24     | 13:00    	|
+| **All students** Dissertation Deadline            |  28/04/24     | 13:00	    |
+| **All students** Viva Dates                       |  11/05/24 & 12/05/24    |      	    |
 
 
 ## Viva Dates
@@ -76,17 +78,3 @@ You can find a link to the teams channel for the unit
 * The [Class Materials](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=v6jcDe) section of the General Channel has dissertation and poster templates and examples of projects from 2023-4.
 
 If you don't have access, [contact Mike and Sarah](/contact).
-<<<<<<< HEAD
-
-## Equipment, Software and Subscriptions for your Project
-
-**DO NOT SPEND YOUR OWN MONEY ON YOUR PROJECT!!**
-We have a budget that we can use to buy you equipment, software, subscriptions, websites and more (within reason) but it is very hard for us to reimburse students money that you have spent.  
-
-There is information on the [Accessing Equipment/Software](/money) page about how you can borrow, buy and use things for your project.  
-
-## Project Code for Blue Crystal
-
-When submittng jobs for Blue Crystal, ACRC requires you to use a project code. Under project details, make sure you click join an existing project, with the Final Year Projects project code: **COMS031144**, not any other codes you may have been given for previous units.
-=======
->>>>>>> 2432639 (Renamed introduction to overview, updated main hub and academic integrity pages)
