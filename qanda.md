@@ -95,7 +95,7 @@ See [the Accessing Equipment/Software page](/money) and scroll down to the Blue 
 
 **There is more information about the structure and templates on the [Writing Your Dissertation page](/writing).**
 
-#### What's the difference between a dissertation, a thesis and a report?
+### What's the difference between a dissertation, a thesis and a report?
 For these projects, nothing! They're different words to describe the same thing.
 
 ## Structure of your dissertation
@@ -162,7 +162,8 @@ Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.
 
 # Ethics
 
-***You can find the full information about Project Ethics on the [Ethics page](/ethics).**
+**You can find the full information about Project Ethics on the [Ethics page](/ethics).**
+
 If in doubt, **ASK YOUR SUPERVISOR** about whether your project requires ethical approval.
 
 ### How long does it take to get an ethics application accepted?
