@@ -5,6 +5,15 @@ title: Get Help
 permalink: /help/
 ---
 
+<details open markdown="block">
+<summary>
+Table of contents
+</summary>
+{: .text-delta}
+1. TOC
+{:toc}
+</details>
+
 # Getting help when things go wrong
 
 We hope that you'll enjoy your project, and everything will go smoothly - but if things go wrong, we're here to help.
