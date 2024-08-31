@@ -47,6 +47,7 @@ The viva will start with you giving a 5-10 minute overview of the project. Slide
 
 # Mark Scheme
 
+The pass mark is 40 for BSc projects and 50 for MEng. 
 
 Your project will generally be marked along four pillars:
 * Challenge and Achievement
@@ -74,16 +75,19 @@ We have selected a variety of student projects from last year covering a wide ra
 * First class (70-77) [example projects](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20projects%20-%201st%20-%2070-77?csf=1&web=1&e=KfRAb8)
 * Very High First (80+) [example projects](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20projects%20-%201st%20-%2080+?csf=1&web=1&e=OL9sZJ)
 
-Note that these have been anonymised and some pages with identifying information has been removed.  Please bear in mind that there is no corretion between the subjects and the grades as you are just seeing a selection.
+Note that these have been anonymised and some pages with identifying information has been removed.  Please bear in mind that there is no correlaion between the subjects and the grades, as you are just seeing a selection.
 
 
 # Assessment Support and Guidance
 
 * [Request a Coursework Extension](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/request-a-coursework-extension/)
-* [Extenuating Circumstances Guidance](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/extenuating-circumstances/)
+* [Exceptional Circumstances Guidance](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/exceptional-circumstances/)
 * [What Assessment Support is Available](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/)
+  
 * [Study Support](https://www.bristol.ac.uk/students/your-studies/study-support/)
 * [Wellbeing Support](https://www.bristol.ac.uk/students/support/wellbeing/)
+  
 * [Exam Arrangements](http://www.bristol.ac.uk/directory/exams/)
+  
 * [Guidance on Exam Board Outcomes](https://www.bristol.ac.uk/students/support/academic-advice/outcomes/)
 * [Resits and Supplementary Assessments](https://www.bristol.ac.uk/students/support/academic-advice/outcomes/resits/)
