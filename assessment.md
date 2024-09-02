@@ -35,7 +35,7 @@ In the (very) rare case that both markers cannot agree on a final mark, a third 
 
 The second marker will hold your viva which for all purposes is an oral exam.
 Vivas are **in-person** and **attendance is mandatory** - you will fail the unit if you are not present.
-Most vivas will be on 13th and 14th May 2025, but due to staff availability, some may be on different dates, so **you must be in Bristol for the full exam period (28th Aoril to 16th May 2025).**
+Most vivas will be on 13th and 14th May 2025, but due to staff availability, some may be on different dates, so **you must be in Bristol for the full exam period (28th April to 16th May 2025).**
 
 The viva has several purposes:
 * To showcase parts of the project which cannot (easily) be incoporated into the dissertation.
