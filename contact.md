@@ -16,7 +16,7 @@ Table of contents
 
 ## Contact Us
 
-* Michael Wray (Unit Director): [michael.wray@bristol.ac.uk](mailto:michael.wray@bristol.ac.uk)
+* Mike (Michael) Wray (Unit Director): [michael.wray@bristol.ac.uk](mailto:michael.wray@bristol.ac.uk)
 * Sarah Connolly (Deputy Unit Director): [sarah.connolly@bristol.ac.uk](mailto:sarah.connolly@bristol.ac.uk)
 * Shawn Shen (COMSM0052 Innovation Case Lead): [junxiao.shen@bristol.ac.uk](mailto:junxiao.shen@bristol.ac.uk)
 * Dave Jarman (COMSM0052 Innovation Case Deputy): [dave.jarman@bristol.ac.uk](mailto:dave.jarman@bristol.ac.uk)
