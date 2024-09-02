@@ -53,12 +53,12 @@ The projects unit will run in three phases:
 | **CS+Maths 4th Year** Innovation Presentation 	|  TBC          |     	    |
 | **CS 4th Year** Innovation Case               	|  13/02/24     | 13:00    	|
 | **All students** Dissertation Deadline            |  28/04/24     | 13:00	    |
-| **All students** Viva Dates                       |  11/05/24 & 12/05/24    |      	    |
+| **All students** Viva Dates                       |  13/05/24 & 14/05/24    |      	    |
 
 
 ## Viva Dates
 
-Most vivas will be held on the 11th and 12th May in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2025**.
+Most vivas will be held on the 13th and 14th May 2025 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2025**.
 
 Note that vivas are being planned to be **in-person**.
 
