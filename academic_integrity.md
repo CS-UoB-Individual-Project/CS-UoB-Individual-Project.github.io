@@ -28,6 +28,24 @@ We will check for academic integrity and plagiarism in three ways:
 3. If you cannot explain basic parts of your dissertation within the viva then you are likely to be investigated further.
 
 
+# TurnItIn
+
+We use TurnItIn to check for plagiarism and AI usage.  When you submit your
+dissertation, you will be able to see a TurnItIn report giving a similarity
+measure to other sources online and submitted in previous years.  **NOTE** You
+should not look at the similarity score by itself, instead look to make sure
+that large portions of your text do not overlap without proper
+quoting/citation.  If you have any questions about similarity score, talk to
+your supervisor and they can advise you.
+
+# Translation Tools
+As per university policy, it is against policy to write in your native language
+and translate to English using a tool (whether it is AI or not).  The degree
+program is in English and so we expect students to write their dissertation in
+English.  Translating your dissertation into English using a tool is Academic
+Misconduct and can see severe penalties to your degree classification and
+progress.
+
 # A note on AI within Submissions
 
 The Faculty position is that if you use 'AI' tools (such as ChatGPT, CoPilot, DeepL translation tools etc, you should cite all uses in your report.  The full information is in the single page [Faculty guidance](https://www.ole.bris.ac.uk/bbcswebdav/pid-8241705-dt-content-rid-48627612_3/xid-48627612_3), which you should read (you must be signed into Blackboard to access it, and can also access it if you scroll down to Academic Integrity in the Blackboard [CS student handbook](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8241665_1&course_id=_258444_1&content_id=_8241705_1#).
