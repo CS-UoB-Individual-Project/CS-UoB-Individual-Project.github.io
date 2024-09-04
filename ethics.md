@@ -61,7 +61,12 @@ A project requiring no ethics will not:
   * collect data from online resources
   * process anonymised data so that it is de-anonymised.
 
-You can use online datasets for a projects with no ethics, as long as the data has been released as part of a dataset for research and the project isn't changing the data in a way that is unethical and/or goes against the original release. 
+You can use online datasets for a projects with no ethics, as long as the data
+has been released as part of a dataset for research and the project isn't
+changing the data in a way that is unethical and/or goes against the original
+release. 
+**If you are collecting a dataset from an online source then you will need to
+complete a full ethics application**
 
 
 ### Blanket Ethics
@@ -84,6 +89,7 @@ All projects that contain one or more of the following require full ethical revi
   * Collecting data from a vulnerable population (e.g. children)
   * Collecting sensitive data and/or data about protected characteristics.
   * Collecting non-anonymised data.
+  * Scraping data from an online source to create a new dataset.
   * Deceives participants.
   * Danger of physical and/or mental harm
   * Participants aren't able to give informed consent.
