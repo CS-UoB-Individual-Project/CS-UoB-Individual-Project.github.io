@@ -2,9 +2,9 @@ name: Mark Scheme Creation
 
 on:
   push:
-    branches: [ "dev_2024_25" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "dev_2024_25" ]
+    branches: [ "main" ]
 
 jobs:
   build:
