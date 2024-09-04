@@ -3,6 +3,7 @@ layout: default
 title: Assessment Information
 permalink: /assessment
 nav_order: 7
+geometry: margin=1cm, landscape
 ---
 
 <details open markdown="block">
