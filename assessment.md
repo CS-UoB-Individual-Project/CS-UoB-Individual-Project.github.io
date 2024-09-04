@@ -19,6 +19,8 @@ Table of contents
 
 The **project deadline is 28th April 2025**. Submission consists of your dissertation (compulsory) and any auxiliary material (e.g. code), and the submission is digital only.
 
+**Only the dissertation and viva are marked**, so you may have completed an amazing project, but with a poor dissertation you can still fail the project - so make sure you start writing early, get feedback from your supervisor and leave enough time to focus on writing up the evaluation and conclusion.
+
 Your project will be marked by your supervisor (first marker) and a second marker who isn't involved with the project.
 You will have the chance to talk to your second marker about your project at Poster Day and they will hold the viva with you.
 
