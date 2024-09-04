@@ -36,10 +36,7 @@ If your supervisor is an HCI academic, you might also be able to use equipment i
 
 ## Borrow equipment
 If you want to borrow equipment for your project (including mobile phones,
-Arduinos, VR or AR equipment etc), make an [appointment with the Computer
-Science Teaching
-Technologist](https://outlook.office.com/book/bk_11TechnicalAdvice@bristol.ac.uk/?login_hint)
-who can help you.
+Arduinos, VR or AR equipment etc), email the [Engineering Technical Services Tech Hub](mailto:engf-tech-hub@bristol.ac.uk) or drop into the Teach Hub (as you walk into MVB from the main entrance, turn left immediately after you go through the main door). In your email, make sure you include which unit you're on, and the sorts of things you need.
 
 ## Buy equipment you can't borrow
 If you want to use that you can't borrow as we don't have it in stock, or that
