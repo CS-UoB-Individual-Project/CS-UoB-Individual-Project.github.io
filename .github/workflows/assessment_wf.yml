@@ -1,0 +1,26 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "dev_2024_25" ]
+  pull_request:
+    branches: [ "dev_2024_25" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+      - name: create pdf
+        run: pandoc assessment.md -o assessment.pdf
+      - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          add: '.'
+          author_name: Markerbot
+          author_email: cs-markerbot-service@bristol.ac.uk
+          commit: ''
+          cwd: '.'
+          message: 'Creates assessment pdf automatically'
