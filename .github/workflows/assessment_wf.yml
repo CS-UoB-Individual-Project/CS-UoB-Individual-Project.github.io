@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Install pandoc
-        run: apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+        run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
       - name: create pdf
         run: pandoc assessment.md -o assessment.pdf
       - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
