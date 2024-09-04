@@ -14,12 +14,15 @@ jobs:
     steps:
       - name: Install pandoc
         run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
-      - name: create pdf
-        run: |
-            ls #pandoc assessment.md -o assessment.pdf
+      - name: ls
+        run: 
+            ls
       - name: check cwd
-        run: |
+        run:
             pwd
+      - name: create pdf
+        run: 
+            pandoc assessment.md -o assessment.pdf
       - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           add: '.'
