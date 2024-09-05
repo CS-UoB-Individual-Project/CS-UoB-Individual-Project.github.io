@@ -41,10 +41,10 @@ If you want more support managing your project, the [Study Skills Team](https://
 
 ## Timetabled events in TB2
 
-#### Library Workshop
+### Library Workshop
 In Week 14 you can meet the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science), who will give you advice on how to start your research, how to find quality sources, what resources the library has got and even how the librarians can find papers, articles and research for you. 
 
-#### CALD Writing Workshops
+### CALD Writing Workshops
 
 The Centre for Academic Language and Development run workshops specially designed for Computer Science students, to give you tips about writing an academic report and give you a chance to get feedback on draft work.  They are optional but strongly encouraged.
 
@@ -52,14 +52,14 @@ You have been randomly allocated to sessions in Weeks 21 and 23 and we recommend
 
 We will send you more information nearer the time.
 
-#### Writing retreats
+### Writing retreats
 
 These are optional sessions in Weeks 19 and 22 we put on because we find them useful for our own work.  They are an opportunity to dedicate a few hours to writing, in a quiet environment with snacks, surrounded by other people.  Mike and Sarah will be there, doing our own writing, so if you have questions, we can help.  
 
 Bring your laptop, headphones, water bottle and a plan for what you'd like to get done. 
 
 
-#### Project Poster Day - 2nd April 2025
+### Project Poster Day - 2nd April 2025
 
 This is a chance to meet your Second Marker for the first time, talk to them about your project and ask them what they expect to see in a project like yours. It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
 
