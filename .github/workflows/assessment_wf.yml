@@ -16,15 +16,18 @@ jobs:
         uses: actions/checkout@v2
       - name: Install pandoc
         run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
-      - name: ls
-        run: 
-            ls
-      - name: check cwd
+      - name: clean pdf
         run:
-            pwd
+            rm assessment.pdf 
+      - name: create temp md
+        run: 
+            python convert_to_grid_table.py assessment.md -o temp_mark_scheme.md
       - name: create pdf
         run: 
-            pandoc assessment.md -o assessment.pdf
+            pandoc temp_mark_scheme.md -o assessment.pdf
+      - name: clean up temp md
+        run:
+            rm temp_mark_scheme.md
       - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           add: '.'
