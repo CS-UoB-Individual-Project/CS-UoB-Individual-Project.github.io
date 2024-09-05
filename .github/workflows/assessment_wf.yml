@@ -22,13 +22,13 @@ jobs:
         run: conda install -y numpy
       - name: clean pdf
         run:
-            rm assessment.pdf 
+            rm mark_scheme.pdf 
       - name: create temp md
         run: 
             python convert_to_grid_table.py assessment.md -o temp_mark_scheme.md
       - name: create pdf
         run: 
-            pandoc temp_mark_scheme.md -o assessment.pdf
+            pandoc temp_mark_scheme.md -o mark_scheme.pdf
       - name: clean up temp md
         run:
             rm temp_mark_scheme.md
