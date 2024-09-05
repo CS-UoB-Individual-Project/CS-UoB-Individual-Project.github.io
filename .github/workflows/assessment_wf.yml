@@ -18,6 +18,8 @@ jobs:
 
       - name: Install pandoc
         run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+      - name: Setup python environment
+        run: conda install -y numpy
       - name: clean pdf
         run:
             rm assessment.pdf 
