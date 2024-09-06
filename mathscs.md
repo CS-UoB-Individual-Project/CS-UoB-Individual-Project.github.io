@@ -72,9 +72,9 @@ wider project is going. Here we're only concerned with your ability to present
 to an audience on both technical and non-technical material, and your project
 is just a convenient topic to use for that.
 
-Further details are discussed in the first workshop, linked below.
+More information about the Presentation will be added before the classes start in TB2. 
 
-### Presentation assessment detils
+<!-- ### Presentation assessment detils
 
 A more formal description of the assessment along with a mark scheme is
 available [here](mark_scheme.pdf).  The marking panel will be confirmed but
@@ -96,6 +96,8 @@ The deadline is the start of the presentations, **TBC**
 |04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |     | |
 |07/03/2024     |2pm-5pm    |Presentations                          |       |N/A            |
 |Weeks 8-9      |N/A        |Marks and feedback                     |N/A                |N/A            |
+
+ -->
 
 ### Presentation Contacts
 
