@@ -55,7 +55,7 @@ want to do this, you will need to:
 * Make a strong project plan including working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).
 * If you are taking COMSM0142, you still need to attend the Presentation classes in TB2 and take that part of the assessment in Week 19.
 
-### What is the presentation?
+## What is the presentation?
 90% of your unit mark will be from your dissertation, with 10% coming from the presentation aspect.  
 
 The presentation will be a 15-minute talk (with slides) given to a panel of markers and the other COMSM0142 students, with questions afterwards. These questions will not be deep and technical (as you might encounter in a viva), and you shouldn't need to spend any additional time preparing for them. 
@@ -74,31 +74,3 @@ is just a convenient topic to use for that.
 
 More information about the Presentation will be added before the classes start in TB2. 
 
-<!-- ### Presentation assessment detils
-
-A more formal description of the assessment along with a mark scheme is
-available [here](mark_scheme.pdf).  The marking panel will be confirmed but
-will likely include Raphaël Clifford, Christian Konrad, John Lapinskas, and
-Michael Wray. 
-
-* You should submit your slides in advance of the presentations themselves on Blackboard.
-
-The deadline is the start of the presentations, **TBC**
-
-### Presentation schedule and materials
-
-| **Date**   	| **Time** 	| **Title**               	            | **Location**   	| **Materials** |
-|------------	|----------	|-------------------------           	|----------------	|-------------- |
-|02/02/2024     |1pm-3pm    |Workshop 1: Intro and speaking technique |            |[Slides](intro-talk.pdf)|
-|16/02/2024     |2pm-4pm    |Workshop 2: Outlining and slides       |        |[Slides](session2.pdf)|
-|23/02/2024     |           |Workshop 3: Looking at drafts          |           | |
-|26/02/2024     |N/A        |**Reading week!**                      |N/A                |N/A            |
-|04/03/2024     |11am-1pm   |Workshop 4: Practice presentations     |     | |
-|07/03/2024     |2pm-5pm    |Presentations                          |       |N/A            |
-|Weeks 8-9      |N/A        |Marks and feedback                     |N/A                |N/A            |
-
- -->
-
-### Presentation Contacts
-
-If you have any questions about the Presentation, please [contact Raphaël Clifford](mailto:raphael.clifford@bristol.ac.uk).
