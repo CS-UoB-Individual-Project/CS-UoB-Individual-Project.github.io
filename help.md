@@ -46,7 +46,7 @@ Exceptional circumstances are unexpected, unavoidable and make it difficult to a
 
 ## If you fail
 
-If you fail your project, you will usually get the chance to resit it, although depending on your circumstances, this may be during the summer vacation or in the next academic year. If you have Excepetional Circumstances agreed, this may be an uncapped resit, but without these, it will be capped so the pass mark is the highest mark you can get (40 for BSc, 50 for MEng).  
+If you fail your project, you will usually get the chance to resit it, although depending on your circumstances, this may be during the summer vacation or in the next academic year. If you have Exceptional Circumstances agreed, this may be an uncapped resit, but without these, it will be capped so the pass mark is the highest mark you can get (40 for BSc, 50 for MEng).  
 
 There is more information about resits on the [University resit page](https://www.bristol.ac.uk/students/support/academic-advice/outcomes/resits/).  Decisions about resits are made by the Exam Board, and there is more information about their decisions [on this page](https://www.bristol.ac.uk/students/support/academic-advice/outcomes/).
 
@@ -58,7 +58,7 @@ It is important not to overwork yourself; you will not do better work just by wo
 
 Your main contacts for mental health support are:
 
-* The [Student Wellbeing Service](http://www.bristol.ac.uk/students/support/wellbeing
+* The [Student Wellbeing Service](http://www.bristol.ac.uk/students/support/wellbeing)
 * Your GP, for example at the student health service.
 
 ## More assessment support
