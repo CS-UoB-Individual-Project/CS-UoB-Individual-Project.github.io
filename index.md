@@ -24,7 +24,6 @@ The projects unit will run in three phases:
 
 ## Schedule, Videos and Materials
 
-
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
 | 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
@@ -77,7 +76,6 @@ You should bear in mind the following three principles whilst completing your pr
   * Critically evaluate your solution in a suitable manner.
   * Present your results in written and verbal form.
   * Manage your own time, and decide your own objectives. 
-
 
 ## Teams Channel
 
