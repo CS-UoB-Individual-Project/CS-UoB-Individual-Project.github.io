@@ -38,7 +38,7 @@ that large portions of your text do not overlap without proper
 quoting/citation.  If you have any questions about similarity score, talk to
 your supervisor and they can advise you.
 
-# Translation Tools
+# Translation tools
 As per university policy, it is against policy to write in your native language
 and translate to English using a tool (whether it is AI or not).  The degree
 program is in English and so we expect students to write their dissertation in
@@ -46,8 +46,8 @@ English.  Translating your dissertation into English using a tool is Academic
 Misconduct and can see severe penalties to your degree classification and
 progress.
 
-# A note on AI within Submissions
+# 'AI' tools
 
-The Faculty position is that if you use 'AI' tools (such as ChatGPT, CoPilot, DeepL translation tools etc, you should cite all uses in your report.  The full information is in the single page [Faculty guidance](https://www.ole.bris.ac.uk/bbcswebdav/pid-8241705-dt-content-rid-48627612_3/xid-48627612_3), which you should read (you must be signed into Blackboard to access it, and can also access it if you scroll down to Academic Integrity in the Blackboard [CS student handbook](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8241665_1&course_id=_258444_1&content_id=_8241705_1#).
+The Faculty position is that if you use 'AI' tools (such as ChatGPT, Claude, CoPilot, DeepL and other translation tools, the paid subscription to Gramamrly etc), you should cite all uses in your report.  The full information is in the single page [Faculty guidance](https://www.ole.bris.ac.uk/bbcswebdav/pid-8241705-dt-content-rid-48627612_3/xid-48627612_3), which you should read (you must be signed into Blackboard to access it, and can also access it if you scroll down to Academic Integrity in the Blackboard [CS student handbook](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8241665_1&course_id=_258444_1&content_id=_8241705_1#).
 
 If you're interested in the University policies on 'AI' tools and the reasoning behind them, including some of the risks, read the new [Study Skills Resource](https://www.ole.bris.ac.uk/bbcswebdav/pid-8037204-dt-content-rid-46594374_2/courses/Study_Skills/using-ai-at-university/index.html). 
