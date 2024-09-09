@@ -32,7 +32,7 @@ The projects unit will run in three phases:
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
 | 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
 | 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
-| 23/09/24	|10:00   	| Projects Q&A       	                            | Biomedical Building E29 |                      |
+| 23/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a-1-n96swabgvrxm7api)                 | Biomedical Building E29 |                      |
 | 23/09/24 	|11:00   	| Projects spreadsheet released       	            |  	                      |                      |
 | 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
 | 13/01/25	|13:00     	| TB2 Project Kick-off                              | Queens Building 1.15 	  |                      |
