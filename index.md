@@ -14,6 +14,9 @@ Table of contents
 {:toc}
 </details>
 
+
+
+
 ## Overall Timeline
 
 The projects unit will run in three phases:
@@ -63,6 +66,20 @@ The projects unit will run in three phases:
 Most vivas will be held on the 13th and 14th May 2025 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2025**.
 
 Note that vivas are being planned to be **in-person**.
+
+
+## Principles and Independent Learning Objectives (ILOs)
+
+You should bear in mind the following three principles whilst completing your project:
+1. You will be performing **self-directed, independent work**. You are responsible for every part of the project from planning, execution and submission. It is _your_ project.
+2. You will be working on an **in-depth, challenging project**. Your supervisor will ensure that the project is appropriate and relevant.
+3. You will need to demonstrate the ILOs which have been designed to match graduate Computer Science Jobs:
+  * Demonstrate understanding of research-level material
+  * Identify a well-motivated, scientifically interesting challenge.
+  * Engage in a suitable approach to solving said challenge.
+  * Critically evaluate your solution in a suitable manner.
+  * Present your results in written and verbal form.
+  * Manage your own time, and decide your own objectives. 
 
 
 
