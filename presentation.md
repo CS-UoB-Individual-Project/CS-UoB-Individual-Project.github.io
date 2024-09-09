@@ -1,9 +1,4 @@
----
-layout: default
-nav_order: 8
-title: Presentation component (COMSM0142 only)
-permalink: /presentation/
----
+
 
 ## Year 4 Maths/CS Students Only!
 

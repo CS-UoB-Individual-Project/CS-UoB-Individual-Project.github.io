@@ -1,4 +1,4 @@
-name: Makefile CI
+name: Mark Scheme Creation
 
 on:
   push:
@@ -12,10 +12,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: s-weigand/setup-conda@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Install pandoc
         run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+      - name: Setup python environment
+        run: conda install -y numpy
+      - name: clean pdf
+        run:
+            rm mark_scheme.pdf 
+      - name: create temp md
+        run: 
+            python convert_to_grid_table.py assessment.md -o temp_mark_scheme.md
       - name: create pdf
-        run: pandoc assessment.md -o assessment.pdf
+        run: 
+            pandoc temp_mark_scheme.md -o mark_scheme.pdf
+      - name: clean up temp md
+        run:
+            rm temp_mark_scheme.md
       - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           add: '.'

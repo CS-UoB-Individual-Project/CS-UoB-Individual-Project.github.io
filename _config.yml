@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Individual Project 2023
+title: Individual Project 2024-25
 email: michael.wray@bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Page for the Individual Project unit of the University of Bristol undergraduate computer science degree programme.
@@ -41,7 +41,7 @@ aux_links:
   "Blackboard home page":
     - "https://www.ole.bris.ac.uk/"
 
-color_scheme: dark
+color_scheme: light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
