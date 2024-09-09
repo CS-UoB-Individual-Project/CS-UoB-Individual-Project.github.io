@@ -32,9 +32,7 @@ Students on the **Maths & CS Short Project COMS30044** are taking the 20 credit 
 
 Please encourage the students to make and show you their **project plan** at the start of the project, and to start writing early.  
 
-The students have access to **example projects from last year**, divided into folders for 2:i, Standard Firsts and High Firsts (80+).  They can find these by going into the Projects Team General Channel, clicking Files at the top of the page -> Class Materials. 
-
-There are also **report templates in LaTeX and Word, tips on writing** and more resources in the Class Materials folder. 
+The students have access to **example projects from last year**, divided into folders for 2:i, Standard Firsts and High Firsts (80+).  They can find these by going into the Projects Team General Channel, clicking Files at the top of the page -> Class Materials. There are also **report templates in LaTeX and Word, tips on writing** and more resources in the Class Materials folder. If you'd ike access to any of this, [contact Mike and Sarah](/contact).
 
 If your supervisee would like **extra support with writing and study skills**, we have links to resources on the [Writing Your Dissertation page](/writing).
 
@@ -42,7 +40,7 @@ If **you won't be able to see your supervisee** because you are going to be away
 
 Your students will need you to **sign off their project ethics status**
 
-Please do encourage your students to go to the **Library Workshop, writing support activities and especially Poster Day**.  The dates are on the [unit schedule](index/#schedule-videos-and-materials) and you can find out more information about the events on the [Teaching Block 2 page](/tb_2/#timetabled-events-in-tb2)
+Please do encourage your students to go to the **TB2 Library Workshop, writing support activities and especially Poster Day**.  The dates are on the [unit schedule](index/#schedule-videos-and-materials) and you can find out more information about the events on the [Teaching Block 2 page](/tb_2/#timetabled-events-in-tb2)
 
 ## Marking the report
 
