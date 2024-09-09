@@ -25,22 +25,22 @@ The projects unit will run in three phases:
 ## Schedule, Videos and Materials
 
 
-| **Date**   	| **Time** 	| **Title**               	| **Location**   	| **Recording**                                                                          	    |
-|------------	|----------	|-------------------------	|----------------	|----------------------------------------------------------------------------------------	    |
-| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  	| MVB 1.08  	|   |
-| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    	| MVB 1.11a 	|   |
-| 23/09/24	|10:00   	| Projects Q&A       	| Biomedical Building E29 	|   |
-| 23/09/24 	|11:00   	| Projects spreadsheet released       	|  	|    |
-| 02/10/24	|14:00   	| Matching Day       	| Bill Brown Suite 	|     |
-| 13/01/25	|13:00     	| TB2 Project Kick-off        	| Queens Building 1.15 	|  |
-| 16/01/25  	|13:00   	| Projects Q&A       	|  Queens Building 1.15	|     |
-| 20/01/25  	|13:00    	| Library Workshop        	| Queens Building 1.15  	| |
-| 23/01/25 	| 13:00    	| Q&A Session             	| Queens Building 1.15   	|   |
-| *	| *        	| CALD Writing Workshops  	| *              	|                                                                                        	    |
-| 28/02/25	| 14:00   	| Project Writing Retreat 	| Wills Reception Room     	|             |
-| 04/03/25 	| 15:00 	| Project Poster Workshop 	| Queens Building 1.07        	|   |
-|  *	| *    	| CALD Writing Workshops  	|  *            	|                                                                                        	    |                                                                                      	    |
-| 02/04/25	| 14:00   	| Poster Day 	| Bill Brown Suite     	|                                                                                        	    |
+| **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
+|-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
+| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/r/personal/mw1760_bristol_ac_uk/Documents/FinalYearProjects/2024-2025/intro_lecture.pptx?d=w797d14f8122c41d78f8797e8fe7df599&csf=1&web=1&e=dFRBiO)           |
+| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/r/personal/mw1760_bristol_ac_uk/Documents/FinalYearProjects/2024-2025/intro_lecture.pptx?d=w797d14f8122c41d78f8797e8fe7df599&csf=1&web=1&e=dFRBiO)           |
+| 23/09/24	|10:00   	| Projects Q&A       	                            | Biomedical Building E29 |                      |
+| 23/09/24 	|11:00   	| Projects spreadsheet released       	            |  	                      |                      |
+| 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
+| 13/01/25	|13:00     	| TB2 Project Kick-off                              | Queens Building 1.15 	  |                      |
+| 16/01/25  |13:00   	| Projects Q&A                                      |  Queens Building 1.15	  |                      |
+| 20/01/25  |13:00    	| Library Workshop        	                        | Queens Building 1.15    |                      |
+| 23/01/25 	| 13:00    	| Q&A Session                                       | Queens Building 1.15    |                      |
+| *	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
+| 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Wills Reception Room    |                      |
+| 04/03/25 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
+|  *	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
+| 02/04/25	| 14:00   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 
