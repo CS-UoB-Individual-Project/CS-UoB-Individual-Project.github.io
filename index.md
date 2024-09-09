@@ -14,9 +14,6 @@ Table of contents
 {:toc}
 </details>
 
-
-
-
 ## Overall Timeline
 
 The projects unit will run in three phases:
