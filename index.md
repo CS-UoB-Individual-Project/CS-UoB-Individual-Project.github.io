@@ -27,8 +27,8 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/r/personal/mw1760_bristol_ac_uk/Documents/FinalYearProjects/2024-2025/intro_lecture.pptx?d=w797d14f8122c41d78f8797e8fe7df599&csf=1&web=1&e=dFRBiO)           |
-| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/r/personal/mw1760_bristol_ac_uk/Documents/FinalYearProjects/2024-2025/intro_lecture.pptx?d=w797d14f8122c41d78f8797e8fe7df599&csf=1&web=1&e=dFRBiO)           |
+| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
+| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
 | 23/09/24	|10:00   	| Projects Q&A       	                            | Biomedical Building E29 |                      |
 | 23/09/24 	|11:00   	| Projects spreadsheet released       	            |  	                      |                      |
 | 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
