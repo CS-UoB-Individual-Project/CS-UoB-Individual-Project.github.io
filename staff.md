@@ -52,7 +52,7 @@ Please **spot check the bibliography** to check at least 3 references to make su
 
 Please **structure your feedback** around the 4 headings of the [marking scheme](/assessment/#mark-scheme): Challenge & Contribution; Design & Implementation; Testing & Evaluation; Organisation & Communication; and finish with an Overall section.  Feedback should justify your mark, and ideally should be written to help them understand what they did well, what they could have done to get more marks, and what to be aware of in future work. 
 
-**Once you have marked the report**, submit your mark and feedback into markerbot. Once both markers have submitted, you will be sent each other's marks and feedback, and should meet to agree a final mark.  In the very rare cases where you can't agree, contact [Mike and Sarah](/contact) and we will arrange a 3rd marker.  
+**Once you have marked the report**, submit your mark and feedback into markerbot.  **Please do not discuss your mark with the other marker at this point**. Once both markers have submitted, you will be sent each other's marks and feedback, and should meet to agree a final mark.  In the very rare cases where you can't agree after this discussion, contact [Mike and Sarah](/contact) and we will arrange a 3rd marker.  
 
 **Once the final mark is ageed**, the supervisor uploads the mark and final feedback for the student into markerbot and it is sent to the second marker to sign off. 
 
