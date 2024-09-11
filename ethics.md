@@ -23,17 +23,6 @@ potential ethical concerns with each type of project. Projects will vary in the
 level of ethical approval that is required, but understanding this is a
 required ILO.
 
-## Ethics Quiz
-
-Can be found on the welcome page of your respective unit on blackboard.
-
-This year we will require **all** students to pass a short ethics quiz at the
-start of TB2, regardless of whether your project requires an ethics application
-or not. In fact, the main point of the training is to make sure that you can
-accurately tell whether your project requires a full ethics application or
-whether it's something that you and your supervisor can handle together.
-
-
 ## Ethics Statement
 
 **All projects will need an ethics statement** at the beginning of the
