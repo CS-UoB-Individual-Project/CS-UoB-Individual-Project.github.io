@@ -89,7 +89,7 @@ academic-style writing for Computer Scientists.
 
 ## LaTeX Dissertation Template
 
-The LaTeX template for the Dissertation can be found [here](https://uob.sharepoint.com/:u:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/ThesisTemplate%20-%20LaTeX.zip?csf=1&web=1&e=klVsKZ).  
+The LaTeX template for the Dissertation can be found [here](https://github.com/CS-UoB-Individual-Project/Dissertation-template).  
 
 We recommend you use [Overleaf](https://www.overleaf.com/) to write in - scroll
 down on the log-in page to 'Log in with SSIO' and sign up with your University
