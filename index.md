@@ -26,8 +26,8 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
-| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT)           |
+| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ESdNPkAZ445PkZmXeeugKCABqmD-w9doW0fmuWz0LIEEYQ?e=7CEjkG)           |
+| 12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ERywgE9S3WtPgtod6JqfwhEB-tiPEmMnSN4mTOBN1-15Ng?e=5hmPaK) (only the second half was recorded, please see the M&CS for the start)           |
 | 23/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a-1-n96swabgvrxm7api)                 | Biomedical Building E29 |                      |
 | 23/09/24 	|11:00   	| Projects spreadsheet released       	            |  	                      |                      |
 | 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
