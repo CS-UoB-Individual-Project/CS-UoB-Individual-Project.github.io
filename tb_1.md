@@ -20,6 +20,10 @@ Table of contents
 
 We will release a **spreadsheet** containing a list of supervisors with projects that they are interested in supervising. **This is a non-exhaustive list**, but a starting point to generate ideas.  If you're interested in any of the projects, email the supervisors to set up a meeting to see if you want to work together.  
 
+[The spreadsheet for 2024-5 project ideas is here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ?e=4qhnuf).  
+
+**Once you have agreed a project with a supervisor**, please [complete this form](https://forms.office.com/e/dMycuMNQiz), before 17:00, Friday 18 October 2024.
+
 We will hold a **project matching session** in Week 3, where you can talk and discuss potential projects with your supervisor, but you can start talking to supervisors from the start of TB1.
 
 
