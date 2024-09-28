@@ -22,6 +22,8 @@ Table of contents
 **The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Mike and Sarah will be replying as quickly as we can.  We will periodically add answers here throughout the year.**
 
 # Project choice
+### When do I have to have decided a supervisor by?
+You must have agreed with your supervisor that they will supervise your project and completed the [projects specification form](https://forms.office.com/e/dMycuMNQiz) by the end of Week 5 - **17:30, Friday 18th October**.  There is more information about the process on the [Finding a Project page](/tb1).
 
 ### Which type of project will give me higher marks?
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
@@ -40,6 +42,9 @@ Talk to your personal tutor in the first instance - or if they can't help you, r
 
 ### I'm really excited about my project - can I start work on it now?
 We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
+
+### When should final project titles be decided (or roughly decided) by?
+You will need to submit a rough project title to the [projects specification form](https://forms.office.com/e/dMycuMNQiz) by the end of Week 5 - **17:30, Friday 18th October**.  However, your project title can change right up to hand-in date, so you don't need to worry too much about it. 
 
 ### Why do I have to pick my project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units
 Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
@@ -64,6 +69,8 @@ Yes, they can be your Second Supervisor, but you will need a Supervisor from wit
 ### How should I approach a supervisor?
 Email them with a brief introduction of why you're interested in working with them/on their project and about you - what you're interested in, and if you've taken classes with them.  Ask if they can meet you, and give them some ideas of days and times you're free.
 
+Try to sound interested in their work.  If they don't respond in a few working days, send a reminder - and if they don't reply to the reminder in 3 working days, [contact Mike and Sarah](/contact).
+
 ### What are supervisor slots?
 Each year supervisors are allotted a certain number of projects that thy have to supervise. Most supervisors will refuse to take on any more students if they have already filled up their allotment - which they are perfectly allowed to do.
 
@@ -78,6 +85,16 @@ The list of areas is not exhaustive, and we can usually help you find supervisor
 ### I can't contact or meet my supervisor
 Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, email [Mike and Sarah](/contact).
 
+# Maths and CS
+
+### What are some practical differences between the 40 credit projects and the 20 credit M&CS short project? How do the expectations differ and how are they marked differently? How does "half as much work" translate?
+
+The COMS30044 20c project should take a third of your time - so in a 40 hour working week, you should be spending 13 hours a week on it, as opposed to 26 for the 40c projects. It's expected that you won't have as much time to go into as much depth with experiments as the 40c projects.
+
+The [mark scheme](https://cs-uob-individual-project.github.io/assessment#mark-scheme) is the same as the 40c project, but we'd expect the dissertation to not to be as long - something like 15-25 pages. The best thing to do is to talk to your supervisor, as we've all marked and supervised 20c projects - but make it clear it's 20c.  
+
+We've got examples of the 20c projects in the unit Team - go to the top of the general channel -> Files -> class materials.  The 20c projects start with COMS30044 and you can see what pervious students have done.
+
 # Accessing equipment/software/services
 **See [the Accessing Equipment/Software page](/money) for more information.** 
 
@@ -90,6 +107,12 @@ Email [Mike and Sarah](/contact) and do not spend any more money on it!
 ### How do I apply to use Blue Crystal?
 See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Crystal section. 
 
+# TB1
+### Is it up to us to download and prepare any code frameworks required for our dissertation before TB2, or will our supervisors provide additional help in some way?
+There is no requirement to do any work in TB1 - the projects are designed to be completed in TB2.  We do not want you to be distracted from your TB1 units.  You can ask your supervisor for reading suggestions or codebase to look at in TB1, but you're not obligated to do so.  
+
+### I have an idea for a project that would require a lot of design. Should design be done in TB1, allowing me to spend the 12 weeks in TB2 implementing? Or should all the work be done in TB2?
+If you feel like you have time in TB1 you can, but we don't expect you to - again, we expect all the project work to be able to be compelted in TB2.  Remember you will not have supervision meetings in TB1, so if you do have time and start work, you won't be talking to your supervisor about it.  
 
 # Dissertation
 
@@ -178,6 +201,12 @@ Yes, this is covered under the Blanket Ethics Agreement.
 ### Will extensions be given if I fail to get ethical approval?
 On its own, failure to get ethical approval will _not_ be grounds for an extension. It is up to you to ensure that this happens in a timely manner. If there are delays, your supervisor will support you and help you change your project plans.
 
+# Innovation Case (COMSM0052 only)
+### What is the expected workload for the Innovation Case?  
+It's roughly 10% of your time in TB2.  It's an extra piece of work about how you can communicate your project ideas in a different concept - for example writing a business case to turn it into a start up; write a PhD proposal; how it could be taken on in an exisitng business; how it could be incorporated in education and more. 
+
+The deadline is in Week 5, and there will be workshops and sessions on it, and you will write a short piece of writing.  You'll be given examples of previous good work. 
+
 # Timetabled Events
 
 ## Poster Day
@@ -206,6 +235,8 @@ Yes, but if you leave Poster Day early, leave your poster up and you can collect
 Optional sessions to do some writing in a quiet space with other people around you. Mike and Sarah will be there, writing our own work, with snacks for you, so you can ask us questions if you need to. 
 
 # Submitting your work
+### When is the deadline for submitting my dissertation?
+It's the first Monday after the Easter break:  **13:00, Monday 28th April 2025**.  If you want a reminder of all the dates, they are on the [Welcome page]{/index} of this website. 
 
 ### Where do I submit my dissertation?
 In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points, which will be added in the last half of TB2.
