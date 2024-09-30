@@ -49,6 +49,11 @@ You will need to submit a rough project title to the [projects specification for
 ### Why do I have to pick my project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units
 Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
 
+###   For any general project, is the grade (the amount of marks expected if implemented fully) set in stone, or will it be more flexible across TB2 as you research and discover more pitfalls/ ideas you can add to the project? 
+Generally it depends on how far you go - all projects would be able to get a very high first or a fail, depending on how well you write it up. It doesn't matter how much work you've done, if you don't write it up well, you will fail. The thing you get marked on is the writing.  
+
+Talk to your supervisor and your Second Marker at Poster Day what they would expect to see in a project of the mark you are aiming for.  They can't tell you what mark *you* are likely to get, because it depends on your writing, but they can tell you what they would be looking for in a project like yours.
+
 # Supervisors
 
 ## Choosing a supervisor
@@ -63,6 +68,15 @@ You don't have to wait - if you know who you want to work with, go ahead and ema
 ### Is it ok to approach more than one supervisor?
 Yes, we encourage you to do this, so you can so you can make the choice that's best for you.  We will have a Projects Matching Day where you can meet multiple supervisors in the same session. 
 
+### If a supervisor has no slots left, can I still approach them?
+Yes, but bear in mind they might say no.  It's worth a chance, though!
+
+### How many supervisors can I approach at a time?
+All of them, if you like!  There's no limit!
+
+### If the supervisor slots say N/A in the spreadsheet, can I still approach them?
+Yes:  N/A means the supervisor is volunteering to supervise, so may say no - ask them anyway because they may take you on.
+
 ### Can I have a supervisor from outside Computer Science?
 Yes, they can be your Second Supervisor, but you will need a Supervisor from within CS as well.  If you're not sure who to approach, come and talk to [Mike and Sarah](/contact).
 
@@ -70,6 +84,9 @@ Yes, they can be your Second Supervisor, but you will need a Supervisor from wit
 Email them with a brief introduction of why you're interested in working with them/on their project and about you - what you're interested in, and if you've taken classes with them.  Ask if they can meet you, and give them some ideas of days and times you're free.
 
 Try to sound interested in their work.  If they don't respond in a few working days, send a reminder - and if they don't reply to the reminder in 3 working days, [contact Mike and Sarah](/contact).
+
+### How do I tell a supervisor I approached that I want to work with someone else?
+Just send them an email along the lines of "Thanks for your time and the discussion we had, but I've chosen to work on a different project?".  Supervisors won't mind at all about this - we're used to it, and what we really want is for students to find the project that suits them most.  
 
 ### What are supervisor slots?
 Each year supervisors are allotted a certain number of projects that thy have to supervise. Most supervisors will refuse to take on any more students if they have already filled up their allotment - which they are perfectly allowed to do.
@@ -174,8 +191,20 @@ There's a page on referencing in general on [the University Library pages]( http
 
 ## Research
 
-### Where can I get help researching my area?
-The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers.  Use that link to book an appointment.
+### How can I find good papers/where can I get help researching my area?
+The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers for you.  Use that link to book an appointment.
+
+### How can I tell what is a good research paper?
+It should have been published at a conference or in a journal.  Ask your supervisor which conferences/journals are good, because the quality can change, but generally if you find a paper on [Archiv](https://arxiv.org/) check it has been published.  If it hasn't been published, it hasn't been reviewed, so be careful.  
+
+If you find a paper, look at it on [Google Scholar](https://scholar.google.com/) which will tell you where it's been cited, and what it citess, so you can find more recent or older papers.  
+
+The [Association for Computer Vision Digital Library](https://dl.acm.org/) is a great place to look for papers, especially from conferences.
+
+### How do I read research papers?
+Start with the abstract, as this is a short, concise summary of the paper.  If that's relevant, read the introduction, and then only read the full paper if you think it will be useful.  It's fine to skim through the paper to see if it's useful, rather than read the entire paper. 
+
+Some people put papers through ChatGPT/LLMs to get summaries - but be careful, as the LLMs can hallucinate, and make not pick up the most important information.  If you do this, you MUST include this in the 'AI tools' appendix, mention it in the AI Declaration in the template, and if you use the summary in your dissertation you MUST cite it as coming from an LLM and not your own work.
 
 ### Can I get research support in other topics?
 Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) and they can get help from any of the other Subject Librarians in the University.
@@ -206,6 +235,11 @@ On its own, failure to get ethical approval will _not_ be grounds for an extensi
 It's roughly 10% of your time in TB2.  It's an extra piece of work about how you can communicate your project ideas in a different concept - for example writing a business case to turn it into a start up; write a PhD proposal; how it could be taken on in an exisitng business; how it could be incorporated in education and more. 
 
 The deadline is in Week 5, and there will be workshops and sessions on it, and you will write a short piece of writing.  You'll be given examples of previous good work. 
+
+### Are some project proposals on the spreadsheet more suited to building a successful innovation case than others? If so, is there a way to tell?
+No, the Innovation Case is run so that any project can be written about.  They are all perfectly fine - and your Innovation Case can be about anything about how to communicate their ideas to a wider audience.
+
+Our blanket advice for everything is that it will be easier if you pick a project you are enthusiastic about, as it will be much easier to write about.
 
 # Timetabled Events
 
