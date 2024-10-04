@@ -23,7 +23,7 @@ Note that this budget is finite so we won't be able to buy so you will need to c
 Options are below:
 
 ## Use tools and equipment, including 3D printing and laser cutting
-The Hackspace and the General Engineering Lab in the Queen's Building have free
+The Hackspace and the General Engineering Lab in the Queen's Building have
 3D printers, laser cutters and other equipment you can use free of charge.  You
 can find all the details, including the online inductions you need to take
 before you use the equipment [on the Engineering Technical Services
