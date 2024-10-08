@@ -60,4 +60,4 @@ If you still need help after talking to your tutor, [contact Mike and Sarah](/co
 
 ## Confirming a Project
 
-You need to confirm your project by  **the end of Friday Week 5 (18th October)**. This will involve agreeing a project name and rough description of the project with a supervisor and submitting this in a form. The title and description can change before the start of TB2, but you will not be able to change your supervisor unless there is a serious issue - if that happens, please [contact Mike and Sarah](/contact).
+You need to confirm your project by  **the end of Friday Week 5 (18th October)**. This will involve agreeing a project name with a supervisor and submitting this in a form. The title and even the overall project can change before the start of TB2, but you will not be able to change your supervisor unless there is a serious issue - if that happens, please [contact Mike and Sarah](/contact).
