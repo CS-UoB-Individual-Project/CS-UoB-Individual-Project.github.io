@@ -38,9 +38,9 @@ measure to other sources online and submitted in previous years.
 
 You should not look at the similarity score by itself, instead look to make sure
 that large portions of your text do not overlap without proper
-quoting/citation. We never take the similarity score at face value, and it is always checked by the Unit Directors, who are looking specifically for this overlap
+quoting/citation. We never take the similarity score at face value, and it is always checked by the Unit Directors, who are looking specifically for this overlap.
 
-f you have any questions about similarity score, talk to
+If you have any questions about similarity score, talk to
 your supervisor and they can advise you.
 
 
