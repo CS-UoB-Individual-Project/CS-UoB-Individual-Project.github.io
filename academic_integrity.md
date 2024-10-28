@@ -29,7 +29,7 @@ We will check for academic integrity and plagiarism in three ways:
 2. Your supervisor (who is your first marker) is the subject expert and will know text that is not correctly referenced.
 3. If you cannot explain basic parts of your dissertation within the viva then you are likely to be investigated further.
 
-#
+
 # TurnItIn
 
 We use TurnItIn to check for plagiarism and AI usage.  When you submit your
@@ -43,7 +43,7 @@ quoting/citation. We never take the similarity score at face value, and it is al
 f you have any questions about similarity score, talk to
 your supervisor and they can advise you.
 
-#
+
 # Translation tools
 
 As per University policy, you **cannot* write your dissertation in another language
@@ -56,7 +56,7 @@ progress.
 
 If you are concerned about the quality of your written English, the University [Study Skills Team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/) can help you in different ways with [bookable tutorials](https://www.ole.bris.ac.uk/bbcswebdav/courses/Study_Skills/whats-on/index.html#/id/5f044158cf57ca06c433abe4), [drop ins](https://www.ole.bris.ac.uk/bbcswebdav/courses/Study_Skills/whats-on/index.html#/id/632acb7dfb7af103d447e4c6) and support from the [Royal Literary Fund Writing Fellows](https://www.bristol.ac.uk/bristol-futures/royal-literary-fellows/). 
 
-#
+
 # 'AI' tools
 
 The Faculty position is that if you use 'AI' tools (such as ChatGPT, Claude, CoPilot, DeepL and other translation tools, the paid subscription to Grammarly etc), you should cite all uses in your dissertation. 
@@ -72,7 +72,7 @@ Using, for example, ChatGPT to write your Contextual Background because it's fas
 ## What counts as an AI tool?
 Anything that uses Large Language Models (LLMs for example ChatGPT, Claude, CoPilot, DeepL etc) or Generative AI (for example to create pictures, eg Midjourney, Dall-E etc). Given how fast the sector is moving, there are bound to be new examples appearing all year, so if you're uncertain if something counts, please [ask](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
 
-#
+
 ## If you're using AI tools, you need to understand the risks: 
 
 ### You are responsible for AI tool hallucination
@@ -93,7 +93,7 @@ Remember, one of the assessment criteria in the [mark scheme](https://cs-uob-ind
 ### Everything you input into LLMs can be used by them
 **Everything** you enter into AI tools is instantly visible to and usable by the service provider, and is instantly out of your control. This means you need to be very careful if you are using datasets/APIs with conditions of use or other people's work. 
 
-#
+
 ## Want to know more about the University's AI use policies?
 
 If you're interested in the University policies on 'AI' tools and the reasoning behind them, including some of the risks, read the [Study Skills Resource](https://www.ole.bris.ac.uk/bbcswebdav/pid-8037204-dt-content-rid-46594374_2/courses/Study_Skills/using-ai-at-university/index.html). 
