@@ -46,7 +46,7 @@ your supervisor and they can advise you.
 
 # Translation tools
 
-As per University policy, you **cannot* write your dissertation in another language
+As per University policy, you *cannot* write your dissertation in another language
 and translate to English using a tool (whether it is AI or not).  
 
 The degree program is in English, so we expect students to write dissertations in
