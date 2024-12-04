@@ -92,4 +92,4 @@ Mike and Sarah will run initial plagiarism checks on all reports, looking at the
 
 Per University policy, students should write their dissertation in English and **should not use translation tools** for anything other than occasional words. Students can get help writing in English from the University [Study Skills team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/), including 1:1 tutorials.  
 
-There is **more information about academic integrity and plagiarism**, including links to the relevent Unversity policies [on the Academic Integrity page](/academic_integrity).  If you have any questions or concerns, contact [Mike and Sarah](/contact),
+There is **more information about academic integrity and plagiarism**, including links to the relevent Unversity policies [on the Academic Integrity page](/academic_integrity).  If you have any questions or concerns, contact [Mike and Sarah](/contact).
