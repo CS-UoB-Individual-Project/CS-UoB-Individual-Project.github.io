@@ -69,7 +69,7 @@ There will be a workshop in Week 20 to help you make your poster, and we will pr
 
 If you want to see examples of previous student posters, some of the posters that won prizes in 2024 are on display outside MVB 1.11/a, and there is a folder of example posters in [the Unit Team Class Materials section](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20posters?csf=1&web=1&e=qu9xMn).
 
-We will send you details of who your seconf marker is a few weeks before Poster Day so you can arrange a time to meet them.  Please note: if you do not attend Poster Day, your second marker is not obliged to meet you at another time; if they will be away from work that day, they will arrange a different time to meet you. 
+We will send you details of who your second marker is a few weeks before Poster Day so you can arrange a time to meet them.  Please note: if you do not attend Poster Day, your second marker is not obliged to meet you at another time; if they will be away from work that day, they will arrange a different time to meet you. 
 
 ####  What to expect at Poster Day
 
