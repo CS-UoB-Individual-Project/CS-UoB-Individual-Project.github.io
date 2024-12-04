@@ -85,7 +85,7 @@ As part of the marking process, the second marker will carry out a viva with the
 
 **The supervisor is not expected to be at the viva**, however if they want to, they can attend as an observer, although they will not ask questions or contribute to the viva. Contact [Mike and Sarah](/contact) for details of suerpvisees' vivas, if you want to do this. 
 
-## Plagiarism, academic misconduct and LMMs
+## Plagiarism, academic misconduct and LLMs
 Mike and Sarah will run initial plagiarism checks on all reports, looking at the TurnItIn reports and spot-checking the bibliography. **If you have any suspicions the student has committed academic misconduct or plagiarism**, please contact [Mike and Sarah](/contact) with your suspicions, so they can start the academic misconduct process, and mark the report as usual. 
 
 **Students are allowed to use ChatGPT, other LLMs and 'AI' tools** as long as they include their list of prompts in an Appendix and detail how they have used the tools, in the frontmatter. Using tools in appropriate ways, for example, as part of a suite of debugging tools, or to help them reword a sentence, is completely approapriate.  
