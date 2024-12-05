@@ -59,7 +59,8 @@ If you are concerned about the quality of your written English, the University [
 
 # 'AI' tools
 
-The Faculty position is that if you use 'AI' tools (such as ChatGPT, Claude, CoPilot, DeepL and other translation tools, the paid subscription to Grammarly etc), you should cite all uses in your dissertation. 
+From [Faculty Policy](https://www.ole.bris.ac.uk/bbcswebdav/pid-8241705-dt-content-rid-48627612_3/xid-48627612_3) and [University Policy](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/), you are not allowed to write your dissertation using an AI tool. However, you are allowed to use AI tools in other ways so long as it is cited correctly within your dissertation.
+
 
 You should do this as **references throughout your report**, as with any other citations and in two specific sections of your dissertation: the **AI use declaration** at the start of your dissertation and the **AI use appendix** at the end.   
 

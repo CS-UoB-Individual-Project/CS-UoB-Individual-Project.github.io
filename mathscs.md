@@ -50,7 +50,7 @@ projects across Teaching Block 4 (across the full year - TB1+TB2=TB4). If you
 want to do this, you will need to:
 
 * [email Mike and Sarah](/contact) so we are aware.
-* make sure potential supervisors are aware you are talking the project as TB4, so you will need to start your supervision in TB1.
+* Make sure potential supervisors are aware you are talking the project as TB4, so you will need to start your supervision in TB1.
 * Get your project agreed with a supervisor in the first few weeks, so you can start work before Week 6 Reading Week.
 * Make a strong project plan including working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).
 * If you are taking COMSM0142, you still need to attend the Presentation classes in TB2 and take that part of the assessment in Week 19.
@@ -60,11 +60,11 @@ want to do this, you will need to:
 
 The presentation will be a 15-minute talk (with slides) given to a panel of markers and the other COMSM0142 students, with questions afterwards. These questions will not be deep and technical (as you might encounter in a viva), and you shouldn't need to spend any additional time preparing for them. 
 
-You should aim your talk at the level of new year 3 students who are familiar with everything taught in year 1, who are *mostly* familiar with the mandatory units of year 2 but may need a refresher on harder concepts, and who know nothing about the year 3 units. Your goal is to communicate:
+You should aim your talk at the level of new year 3 students who are familiar with the mandatory material from years 1 and 2.  You should not assume detailed knowledge of any material introduced in year 3. Your goal is to communicate:
 
 * What you're doing for your project and how it's going.
 * Why you care about it, and why your audience should care as well.
-* At least one idea from the technical side of your project that a new year 3 student would be unfamiliar with.
+* At least one idea from the technical side of your project that a new year 3 student may be unfamiliar with.
 
 You do **not** need your talk to be an accurate overview of your project, as it
 will be submitted in March, and your mark will be independent of how well your
@@ -72,5 +72,15 @@ wider project is going. Here we're only concerned with your ability to present
 to an audience on both technical and non-technical material, and your project
 is just a convenient topic to use for that.
 
-More information about the Presentation will be added before the classes start in TB2. 
+## Workshops
 
+There will be two workshops in TB2 to help with preparing your presentation and
+giving time to practice this with your peers. These will cover information as
+to what an academic style presentation is, tips for presenting, and offer
+feedback time on how to improve as a presenter.
+
+## Presentation
+
+You will present on the 27th February to a small marking panel and the rest of
+the cohort with the marking panel asking a few questions after your talk
+concludes. The mark scheme will be shown beforehand in the workshops in TB2.
