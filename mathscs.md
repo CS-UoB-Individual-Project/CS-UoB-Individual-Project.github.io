@@ -81,6 +81,10 @@ feedback time on how to improve as a presenter.
 
 ## Presentation
 
-You will present on the 27th February to a small marking panel and the rest of
-the cohort with the marking panel asking a few questions after your talk
-concludes. The mark scheme will be shown beforehand in the workshops in TB2.
+You will present on the 27th February to a small marking panel with the marking
+panel asking a few questions after your talk concludes. The mark scheme will be
+shown beforehand in the workshops in TB2.
+
+If you have a study support plan or are otherwise uncomfortable with the idea
+of presenting your work, please let Raphael know and alternate
+arrangements/adjustments can be made.
