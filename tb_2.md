@@ -23,7 +23,8 @@ During Teaching block 2 you will spend the majority of your time completing your
 Other activities during this term will include:
 * Writing Workshops
 * Library Workshops
-* Poster Workshops
+* Testathons
+* Poster Workshop
 
 As always, see the [schedule](/#schedule-videos-and-materials) for up-to-date information.
 
@@ -44,8 +45,14 @@ If you want more support managing your project, the [Study Skills Team](https://
 ### Library Workshop
 In Week 14 you can meet the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science), who will give you advice on how to start your research, how to find quality sources, what resources the library has got and even how the librarians can find papers, articles and research for you. 
 
-### CALD Writing Workshops
+### Testathons
+On the Wednesdays of Weeks 16 and 20 (the first Wednesdays of February and March) we're holding Testathons, where students from any CS course (and Years 2,3 and 4 of CS and Maths CS) can come and do user testing/evaluation of their work in progress. 
 
+These are co-operative sessions where you ae expected to spend half the session running your own tests and half the session testing other students' work, so eveyone gets benefit out of it. We'll invite staff as well - and students without anything to test can come and see what other people are making.  Work does not have to be complete - you can bring paper prototypes, rough outlines or work in any stages.
+
+If you come, you **must** bring consent forms and information sheets for participants - you can find drafts in the [the Unit Team Class Materials section](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20posters?csf=1&web=1&e=qu9xMn) and you should check them with your supervisor.
+
+### CALD Writing Workshops
 The Centre for Academic Language and Development run workshops specially designed for Computer Science students, to give you tips about writing an academic report and give you a chance to get feedback on draft work.  They are optional but strongly encouraged.
 
 You have been randomly allocated to sessions in Weeks 21 and 23 and we recommend you go to both sessions.  If you can't make the one in your timetable and want to swap sessions, [email the CALD team](mailto:academic-lang-lit-ug@bristol.ac.uk) with your name, your programme, the session you want to leave and when you're available.
@@ -53,14 +60,12 @@ You have been randomly allocated to sessions in Weeks 21 and 23 and we recommend
 We will send you more information nearer the time.
 
 ### Writing retreats
-
 These are optional sessions in Weeks 19 and 22 we put on because we find them useful for our own work.  They are an opportunity to dedicate a few hours to writing, in a quiet environment with snacks, surrounded by other people.  Mike and Sarah will be there, doing our own writing, so if you have questions, we can help.  
 
 Bring your laptop, headphones, water bottle and a plan for what you'd like to get done. 
 
 
 ### Project Poster Day - 2nd April 2025
-
 This is a chance to meet your Second Marker for the first time, talk to them about your project and ask them what they expect to see in a project like yours. It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
 
 Poster Day is optional, but we **strongly recommend you attend**, as it's a chance to integrate outside feedback into your project to show off the incredible work that you have been doing.
@@ -72,7 +77,6 @@ If you want to see examples of previous student posters, some of the posters tha
 We will send you details of who your second marker is a few weeks before Poster Day so you can arrange a time to meet them.  Please note: if you do not attend Poster Day, your second marker is not obliged to meet you at another time; if they will be away from work that day, they will arrange a different time to meet you. 
 
 ####  What to expect at Poster Day
-
 The session is similar to poster fairs at academic conferences.  The standard set-up is your poster on the board on a table with space for a laptop.  The room will be full of other students' posters, and will invite all the CS staff as well as students from Years 1, 2 and 3, the CS Conversion degree and PhD students, who hopefully want to ask you questions about your work.  You should proactively approach people and ask if they want to know more about your work - and do take time to walk around the room and ask other students about their work, because the more students can talk about your projects, the better your reports will be.  This is an opportunity to try out different ways to frame your work.
 
 **Make sure you have something to take notes with**, and note down the questions every asks you, or the comments they have, because these are things you can add to your report.  Make notes of which ways of describing your project works best, so you can use it in the viva.
@@ -85,9 +89,8 @@ The session is similar to poster fairs at academic conferences.  The standard se
 * **If you left space on your poster to add results**, or want to change things, we’ll have glue and Sellotape – make sure you bring what you want to stick onto it!
 
 ####  What to bring and wear
- 
 * Dress comfortably, especially with comfortable shoes, as you will be standing for a long time.  Wear loose, comfortable clothing - a good dress-code is 'smart-casual'.  It can get hot in BBS, so don't come in a jacket!
 * We will have bottles of water and snacks available, but bring your own water bottle and snacks.
- * If you're bringing laptops, tablets etc, have a charger with you.
+* If you're bringing laptops, tablets etc, have a charger with you.
  
 Finally, **make sure you pace yourself on the day**.  If you have people waiting to talk to you, it's fine to ask them to give you a minute or two to write notes of your previous conversations, or ask them to come back later if you need a break.  Plan to try to talk to people about your project for a period of time, then walk around and talk to other people about their projects/sit somewhere quiet and process the conversations for a while, and then repeat.  Treat it like a marathon, not a sprint!
