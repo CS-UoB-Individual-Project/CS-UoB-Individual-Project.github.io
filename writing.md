@@ -20,9 +20,9 @@ Table of contents
 You should plan for 12 weeks with 40-hour work weeks for all your work in the
 Teaching Block. You need to balance your workload between your project, your other unit(s), and the innovation case if
 in Year 4.
-**You should not *plan* to work every day in TB2**, doing so will likely leave you falling behind.
+**You should not *plan* to work every day in TB2**, doing so will likely leave you falling behind, so it's important you build days off into your project plan, and rewards/things you are going to do just for fun.  Ideally you should be doing at least 1 non-study activity a week that's not Computer Science, tht you have to leave the house for.  
 
-Importantly, you should plan for around 1 week of *disruptions* which could be illnesses, job interviews, computer issues, etc.
+Importantly, you should plan for at least 1 week of *disruptions* which could be illnesses, job interviews, computer issues, etc.
 
 # Minimum Viable Product
 
@@ -45,7 +45,7 @@ your supervisor know immediately**.
 When writing your thesis, we **strongly** recommend writing it using LaTeX
 unless you are confident writing a large document within microsoft word (or
 equivalent). Large files in Word can cause formatting issues or crashes when
-saving/loading the project file.
+saving/loading the project file. There's more information on writing in LaTeX, including a dissertation template, below. 
 
 # Academic Writing support
 
@@ -119,9 +119,9 @@ The word template for the Dissertation can be found
 
 The [Computer Science Subject
 Librarian](https://bristol.libguides.com/computer-science) is here to help your
-research,  They can meet with you, help you get started and even find you
+research.  They can meet with you, help you get started and even find you
 papers or other references.  They can help you with research in any subject,
-not just Computer Science - use the link to make an appointment.  
+not just Computer Science - use the link to make an online appointment, or [email Victoria Hopton](mailto:victoria.hopton@bristol.ac.uk) if you want to make an in-person appointment.
 
 # Referencing
 
