@@ -144,10 +144,10 @@ For these projects, nothing! They're different words to describe the same thing.
 Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
 
 ### How should I structure my dissertation?
-There's a dissertation template in the [Class Materials section of the Project Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH) which lays out the standard format, with details of what to put in each section.  Start here, and ask your supervisor what they would expect to see in a dissertation in your area.
+There's a dissertation template in the [Dissertation Templates Section](/writing/#dissertation-templates) which lays out the standard format, with details of what to put in each section.  Start here, and ask your supervisor what they would expect to see in a dissertation in your area.
 
 ### Is there a specific template I should use?
-Yes, use the templates provided (LaTeX and word) in the [Class Materials section of the Project Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).
+Yes, use the templates provided (LaTeX and word) in the [Dissertation Templates Section](/writing/#dissertation-templates).
 
 ### Do I have to use LaTeX to write my dissertataion?
 No, but talk to your supervisor about this as there may be field-specific norms you should use.
