@@ -54,9 +54,9 @@ The projects unit will run in three phases:
 |---------------------------------------------------|-------------------------|-------------|
 | **All students** Supervisor confirmation via [form](https://forms.office.com/e/dMycuMNQiz)	        |  18/10/24	              | 17:00    	|
 | **CS+Maths 4th Year** Presentation 	|  TBC                    |     	    |
-| **CS 4th Year** Innovation Case               	|  13/02/24               | 13:00    	|
-| **All students** Dissertation Deadline            |  28/04/24               | 13:00	    |
-| **All students** Viva Dates                       |  13/05/24 & 14/05/24    | **    	    |
+| **CS 4th Year** Innovation Case               	|  13/02/25               | 13:00    	|
+| **All students** Dissertation Deadline            |  28/04/25               | 13:00	    |
+| **All students** Viva Dates                       |  13/05/25 & 14/05/25    | **    	    |
 
 `**` Viva times will be individual per student and confirmed in TB2.
 
