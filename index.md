@@ -33,9 +33,9 @@ The projects unit will run in three phases:
 | 3 |  30/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a2-48mej2p1tb01nlfn)                      | Geography 1.1S PEEL     |        [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/5fc07b6fe3094d25b5563ec7cc1fdfc41d)              |
 | 3 | 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
 | 13 | 13/01/25	|13:00     	| TB2 Project Kick-off                              | Queens Building 1.15 	  |                      |
-| 13 | 16/01/25  |13:00   	| Projects Q&A                                      |  Queens Building 1.15	  |                      |
+| 13 | 16/01/25  |13:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a3-acr8q2hn6kh584ld)                  |  Queens Building 1.15	  |                      |
 | 14 | 20/01/25  |13:00    	| Library Workshop        	                        | Queens Building 1.15    |                      |
-| 14 | 23/01/25 	| 13:00    	| Q&A Session                                       | Queens Building 1.15    |                      |
+| 14 | 23/01/25	| 13:00    	| Projects Q&A                                      | Queens Building 1.15    |                      |
 | 16 | 05/02/25 | 14:00 | Testathon                                        | MVB 2.11   |         | 
 | 19 | 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Wills Reception Room    |                      |
 | 20 | 04/03/25 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
