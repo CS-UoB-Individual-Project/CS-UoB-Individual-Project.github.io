@@ -22,6 +22,13 @@ Note that this budget is finite so we won't be able to buy so you will need to c
 
 Options are below:
 
+## Bookable Sessions with the Tech Hub
+
+You can book sessions with the tech hub using [their
+form](https://outlook.office365.com/owa/calendar/bk_11TechnicalAdvice@bristol.ac.uk/bookings/)
+this allows you to ask for support and/or how to purchase/borrow
+equipment/services that you might need.
+
 ## Use tools and equipment, including 3D printing and laser cutting
 The Hackspace and the General Engineering Lab in the Queen's Building have
 3D printers, laser cutters and other equipment you can use free of charge.  You
@@ -67,10 +74,12 @@ You can get access to Blue Crystal 4 by following the instructions below:
 1. Click on: [https://www.acrc.bris.ac.uk/login-area/apply.cgi](https://www.acrc.bris.ac.uk/login-area/apply.cgi)
 2. Enter your personal details
 3. Choose: "Join an existing project"
-4. Enter project code: COMS031144
+4. Enter project code: COMS034664
 5. Keep Preferred log-in shell as bash
 6. In the comments box please enter the following:
 _"I am on the Computer Science Individual Project Unit, unit director Michael Wray, and will need access to BC4 for my final year project"_
+
+You will then be able to access Blue Crystal via SSH, see [their docs](https://www.acrc.bris.ac.uk/protected/hpc-docs/connecting/index.html) for more information.
 
 
 
