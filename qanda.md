@@ -54,6 +54,14 @@ Generally it depends on how far you go - all projects would be able to get a ver
 
 Talk to your supervisor and your Second Marker at Poster Day what they would expect to see in a project of the mark you are aiming for.  They can't tell you what mark *you* are likely to get, because it depends on your writing, but they can tell you what they would be looking for in a project like yours.
 
+### Who owns the Intellectual Property (IP) of my project? Should I choose a different project because I want to develop it into a startup?
+From the [Intellectual property policy for Students 2024-2025](https://www.bristol.ac.uk/media-library/sites/secretary/documents/student-rules-and-regs/Intellectual-Property-Policy-for-Students.pdf): _"Students own the intellectual property they create through coursework or research whil registered as students at the University...There are, however, some important exceptions to this basic principle"_. These exceptions are generally very specific in the case of individual projects and are likely not to apply:
+* The research is funded by the University or another third party and a condition of the funding is that the intellectual property rights belong to the funder.
+* Completing a research project - note that this isn't a normal individual project - but a project for a research group. You will have to sign a form in this case and it should be clear.
+* If you are employed by the university or another organisation whilst doing the project, then those parties might claim ownership.
+
+Otherwise, under Section 5 of the [student agreement](https://www.bristol.ac.uk/media-library/sites/secretary/documents/student-rules-and-regs/Student-Agreement.pdf#page=5.60), the University is allowed to use of student-owned intellectual property for non-commercial purposes such as educational use, research use, promotional materials etc. See Section 5.3 of the student agreement.
+
 # Supervisors
 
 ## Choosing a supervisor
@@ -285,11 +293,24 @@ You can if you want to - there is a separate submission point called Auxiliary M
 
 **There is more information about the marking and assessment processes on the [Assessment Information page](/assessment).**
 
+### If I have a supervisor who is not in the School of Computer Science, can they be my first marker?
+No, we require that first markers are those within the School of Computer Science.
+
 ### Who will be my second marker?
 Your second marker will be someone who knows enough about your subject to mark your project.  We will tell you who your second marker is halfway through TB2, and you will have a chance to talk to them about your project on or around Poster Day.
 
+### If I have a second supervisor will they be my second marker?
+No, your second marker will be someone who is external to the project team (you and your supervisor(s)).
+
+### If I have a second supervisor, who will be the first marker?
+Normally, this will be the first supervisor, but it is up to your first and second supervisors to decide who will be the first marker. 
+
+
 ### Is there a difference in the mark scheme for CS and Maths and CS?
 No, it's the same marking scheme.  For the Maths and CS Short Project, your markers will know it's a 20 credit project and mark it accordingly
+
+### What happens if my project cannot go public?
+In this case, please talk to us before submission. We will require you to submit the dissertation to us via email (you can upload an empty pdf to the submission point) as otherwise the paper will go into TurnItIn's public repository. We will ensure that only you, the supervision team, and the markers have access to the project and it will be clear that the project will be private.
 
 # Vivas
 
