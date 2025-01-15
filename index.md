@@ -23,26 +23,27 @@ The projects unit will run in three phases:
 
 
 ## Schedule, Videos and Materials
-| **Week** 	| **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
-|-----------|-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-| -1 | 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ESdNPkAZ445PkZmXeeugKCABqmD-w9doW0fmuWz0LIEEYQ?e=7CEjkG)           |
-| -1 |  12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ERywgE9S3WtPgtod6JqfwhEB-tiPEmMnSN4mTOBN1-15Ng?e=5hmPaK) (only the second half was recorded, please see the M&CS for the start)           |
-| 2 |  23/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a-1-n96swabgvrxm7api)                 | Biomedical Building E29 |  [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/c337275a5eb840a9ad4f8565b085438f1d)           |
-| 2 |  23/09/24 	|11:00   	| Projects spreadsheet released       	            |  [Spreadsheet](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ?e=4qhnuf)	                      |                      |
-| 3 |  30/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a2-48mej2p1tb01nlfn)                      | Geography 1.1S PEEL     |        [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/5fc07b6fe3094d25b5563ec7cc1fdfc41d)              |
-| 3 | 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
-| 13 | 13/01/25	|13:00     	| TB2 Project Kick-off                              | Queens Building 1.15 	  | [slides](https://uob.sharepoint.com/:p:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/TB2%20kick-off%20slides.pptx?d=weef1339c649445c58db41e98a789f5b2&csf=1&web=1&e=kIqCjB), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/21a1d360f4bf48cdae826a21b034724a1d) |
-| 13 | 16/01/25  |13:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a3-acr8q2hn6kh584ld)                  |  Queens Building 1.15	  |                      |
-| 14 | 20/01/25  |13:00    	| Library Workshop        	                        | Queens Building 1.15    |                      |
-| 14 | 23/01/25	| 13:00    	| Projects Q&A                                      | Queens Building 1.15    |                      |
-| 16 | 05/02/25 | 14:00 | Testathon                                        | MVB 2.11   |         | 
-| 19 | 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Wills Reception Room    |                      |
-| 20 | 04/03/25 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
-| 20 | 05/03/25 | 14:00 | Testathon                                         | MVB 2.11     |         | 
-| 21 | *	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
-| 22 | 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
-| 23 |  *	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
-| 24 | 02/04/25	| 14:00   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
+
+| **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
+|-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
+| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ESdNPkAZ445PkZmXeeugKCABqmD-w9doW0fmuWz0LIEEYQ?e=7CEjkG)           |
+|  12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ERywgE9S3WtPgtod6JqfwhEB-tiPEmMnSN4mTOBN1-15Ng?e=5hmPaK) (only the second half was recorded, please see the M&CS for the start)           |
+|  23/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a-1-n96swabgvrxm7api)                 | Biomedical Building E29 |  [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/c337275a5eb840a9ad4f8565b085438f1d)           |
+|  23/09/24 	|11:00   	| Projects spreadsheet released       	            |  [Spreadsheet](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ?e=4qhnuf)	                      |                      |
+|  30/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a2-48mej2p1tb01nlfn)                      | Geography 1.1S PEEL     |        [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/5fc07b6fe3094d25b5563ec7cc1fdfc41d)              |
+| 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
+| 13/01/25	|13:00     	| TB2 Project Kick-off                              | Queens Building 1.15 	  | [slides](https://uob.sharepoint.com/:p:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/TB2%20kick-off%20slides.pptx?d=weef1339c649445c58db41e98a789f5b2&csf=1&web=1&e=pDUeYS), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/21a1d360f4bf48cdae826a21b034724a1d) |
+| 16/01/25  |13:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a3-acr8q2hn6kh584ld)                  |  Queens Building 1.15	  |                      |
+| 20/01/25  |13:00    	| Library Workshop        	                        | Queens Building 1.15    |                      |
+| 23/01/25	| 13:00    	| Projects Q&A                                      | Queens Building 1.15    |                      |
+| 05/02/25 | 14:00 | Testathon                                        | MVB 2.11   |         | 
+| 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Wills Reception Room    |                      |
+| 04/03/25 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
+| 05/03/25 | 14:00 | Testathon                                         | MVB 2.11     |         | 
+| *	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
+| 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
+|  *	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
+| 02/04/25	| 14:00   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 

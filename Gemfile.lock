@@ -3,8 +3,11 @@ GEM
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.2.0)
+    bigdecimal (3.1.9)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
+    csv (3.3.2)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -43,7 +46,7 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    liquid (4.0.3)
+    liquid (4.0.4)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -66,14 +69,19 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-24
   universal-darwin-21
   universal-darwin-22
   universal-darwin-23
 
 DEPENDENCIES
+  base64 (~> 0.2.0)
+  bigdecimal (~> 3.1)
+  csv (~> 3.3)
   jekyll
-  just-the-docs (= 0.4.0.rc1)
-  webrick (~> 1.7)
+  just-the-docs
+  liquid (~> 4.0.4)
+  webrick
 
 BUNDLED WITH
    2.3.21
