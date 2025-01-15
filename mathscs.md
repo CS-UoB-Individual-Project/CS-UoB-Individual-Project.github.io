@@ -66,11 +66,11 @@ You should aim your talk at the level of new year 3 students who are familiar wi
 * Why you care about it, and why your audience should care as well.
 * At least one idea from the technical side of your project that a new year 3 student may be unfamiliar with.
 
-You do not need your talk to be an accurate overview of the results of your
-project, as it will be submitted in March, and your mark will be independent of
-how well your wider project is going. Here we’re only concerned with your
-ability to present to an audience on both technical and non-technical material,
-and your project is just a convenient topic to use for that.
+You do not need your talk to be an accurate overview of the final results of
+your project. Your presentation mark will be independent of the results you end
+up achieving. Here we’re only concerned with your ability to present to an
+audience on both technical and non-technical material, and your project is just
+a convenient topic to use for that.
 
 ## Workshops
 
