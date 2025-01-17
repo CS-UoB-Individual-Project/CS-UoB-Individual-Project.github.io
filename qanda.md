@@ -110,6 +110,37 @@ The list of areas is not exhaustive, and we can usually help you find supervisor
 ### I can't contact or meet my supervisor
 Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, email [Mike and Sarah](/contact).
 
+# Project Execution
+
+### How much help can I get for my project?
+You can ask other members of staff or PhD students if you think they may be able to help out with your project. However, we would expect that because of this help you are able to go above and beyond what you would normally be able to do. For example, if a PhD student helps you with data collection, then you can do more interesting things with the data! It is also worth noting that you can thank people that do help you with the Acknowledgements section, which is always well received :).
+
+### Can I outsource work for my project?
+Yes, but this won't count as work done for you project, so you will have to do more accordingly.
+
+## Research
+
+### How can I find good papers/where can I get help researching my area?
+The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers for you.  Use that link to book an appointment.
+
+### How can I tell what is a good research paper?
+It should have been published at a conference or in a journal.  Ask your supervisor which conferences/journals are good, because the quality can change, but generally if you find a paper on [Archiv](https://arxiv.org/) check it has been published.  If it hasn't been published, it hasn't been reviewed, so be careful.  
+
+If you find a paper, look at it on [Google Scholar](https://scholar.google.com/) which will tell you where it's been cited, and what it citess, so you can find more recent or older papers.  
+
+The [Association for Computer Vision Digital Library](https://dl.acm.org/) is a great place to look for papers, especially from conferences.
+
+### How do I read research papers?
+Start with the abstract, as this is a short, concise summary of the paper.  If that's relevant, read the introduction, and then only read the full paper if you think it will be useful.  It's fine to skim through the paper to see if it's useful, rather than read the entire paper. 
+
+Some people put papers through ChatGPT/LLMs to get summaries - but be careful, as the LLMs can hallucinate, and make not pick up the most important information.  If you do this, you MUST include this in the 'AI tools' appendix, mention it in the AI Declaration in the template, and if you use the summary in your dissertation you MUST cite it as coming from an LLM and not your own work.
+
+### Can I get research support in other topics?
+Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) and they can get help from any of the other Subject Librarians in the University.
+
+### Can I get access to a book/journal that the University doesn't already provide?
+Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) who can order books and sign up to journals for you, or ask in the Queen's Library.
+
 # Maths and CS
 
 ### What are some practical differences between the 40 credit projects and the 20 credit M&CS short project? How do the expectations differ and how are they marked differently? How does "half as much work" translate?
@@ -149,7 +180,7 @@ For these projects, nothing! They're different words to describe the same thing.
 ## Structure of your dissertation
 
 ### How long should my dissertation be?
-Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages.
+Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages - this does not include front matter and back matter (i.e. table of contents, bibliography, appendices, etc.). Note that this is different for 3rd year Maths and CS students doing the 20CP unit COMS30044.
 
 ### How should I structure my dissertation?
 There's a dissertation template in the [Dissertation Templates Section](/writing/#dissertation-templates) which lays out the standard format, with details of what to put in each section.  Start here, and ask your supervisor what they would expect to see in a dissertation in your area.
@@ -177,6 +208,9 @@ No, this is optional - if you don't want to include them, delete the page.
 
 **There is more information, including sources of writing, editing and planning support, on the [Writing Your Dissertation page](/writing)**
 
+### When should I start writing my dissertation?
+As soon as possible! Note that by writing, we don't necessarily mean writing paragraphs and paragraphs of finalised text, rather you can start plotting out the sections, putting in bullet point lists of things you want to talk about in the future. This will make it much easier to write the final version later on.
+
 ### How many pages of our dissertation we are allowed to give our supervisor for feedback?
 It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time to read and reply - it's best to agree in advance when you will send them drafts for feedback.
 
@@ -186,8 +220,26 @@ Figures in the main body of the dissertation are included in the page count, but
 ### Can I use AI/Large Language Models/Translation software?
 Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity) as this has everything you need.  if you're not sure you understand it, talk to your supervisor, and if they can't help, email [Mike and Sarah](/contact).
 
+### Can I use AI to define terms/help me understand topics?
+Yes you can, as long as this is cited within the AI usage appendix. Note that it is probably better to google, or ask your supervisor as AI still hallucinates a lot. You will be questioned about key topics within your viva so you need to know these correctly.
+
+### Can I use AI to help with my structure?
+Yes you can, just remember to cite this as you would normally for all AI usage.
+
+### How do I reference AI tools that I have been given as part of my Study Support Plan?
+Please the name of these into the AI Prompts/Usage Appendix as you would other tools. If you are not sure whether they include AI technology, then you can mention them here regardless.
+
 ### Is there anywhere to get help with writing? I'm worried about it!
 Yes, see the [Writing Your Dissertation page](/writing) for details of Study Support help, including one-to-one writing tutorials.
+
+### How in-depth should I go with the explanation of techniques, theory, methodology, etc.?
+You should ask your supervisor as they will be best placed to answer this for your area, however, a good rule of thumb is to write this aimed at a third year student who has just finished TB1. You should explain concepts enough so that they can remember them clearly and explain new concepts with enough detail that they can keep reading (or break to look up the theory from a textbook).
+
+### What is the contextual backround section of the dissertation?
+This should contain both contextual background, i.e. what are the background technologies, theory, methodology behind the project area, and related work, i.e. what are the relevant papers that have worked in similar areas before? You should write this as if your second supervisor doesn't know ANYTHING about the area, as it is very likely they know a lot less than you.
+
+### How much reasoning/explanation of what I've done should I give in the dissertation?
+You should always give reasons as to why you used a technology/methodology/evaluation scheme/etc., though this can be basic, i.e. I used python with XX packages as they are the industry standard. Ideally, you should have thought about these during the project and the reasoning can be stronger, but sometimes you will have to give the reasons at the end. You don't need to explain every decision if it's not something you're writing about in the dissertation (i.e. something that didn't work).
 
 ## Referencing
 
@@ -197,28 +249,9 @@ It's up to you, as long as you are consistent, but in general CS people recommen
 ### How do I know what I should be referencing?
 There's a page on referencing in general on [the University Library pages]( https://www.bristol.ac.uk/library/subject-support/referencing/) which we recommend bookmarking.
 
-## Research
+### Do I need to reference papers/dissertations for how I structure my dissertation?
+No, there is no need to reference wheregot ideas on how you structure your dissertation.
 
-### How can I find good papers/where can I get help researching my area?
-The [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) can meet with you, help you get started and even find you papers for you.  Use that link to book an appointment.
-
-### How can I tell what is a good research paper?
-It should have been published at a conference or in a journal.  Ask your supervisor which conferences/journals are good, because the quality can change, but generally if you find a paper on [Archiv](https://arxiv.org/) check it has been published.  If it hasn't been published, it hasn't been reviewed, so be careful.  
-
-If you find a paper, look at it on [Google Scholar](https://scholar.google.com/) which will tell you where it's been cited, and what it citess, so you can find more recent or older papers.  
-
-The [Association for Computer Vision Digital Library](https://dl.acm.org/) is a great place to look for papers, especially from conferences.
-
-### How do I read research papers?
-Start with the abstract, as this is a short, concise summary of the paper.  If that's relevant, read the introduction, and then only read the full paper if you think it will be useful.  It's fine to skim through the paper to see if it's useful, rather than read the entire paper. 
-
-Some people put papers through ChatGPT/LLMs to get summaries - but be careful, as the LLMs can hallucinate, and make not pick up the most important information.  If you do this, you MUST include this in the 'AI tools' appendix, mention it in the AI Declaration in the template, and if you use the summary in your dissertation you MUST cite it as coming from an LLM and not your own work.
-
-### Can I get research support in other topics?
-Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) and they can get help from any of the other Subject Librarians in the University.
-
-### Can I get access to a book/journal that the University doesn't already provide?
-Yes, contact the [Computer Science Subject Librarian](https://bristol.libguides.com/computer-science) who can order books and sign up to journals for you, or ask in the Queen's Library.
 
 # Ethics
 
@@ -293,8 +326,31 @@ You can if you want to - there is a separate submission point called Auxiliary M
 
 **There is more information about the marking and assessment processes on the [Assessment Information page](/assessment).**
 
+## Mark Scheme
+
+### Is there a difference in the mark scheme for CS and Maths and CS?
+No, it's the same marking scheme.  For the Maths and CS Short Project, your markers will know it's a 20 credit project and mark it accordingly
+
+## Marking Process
+
+### What happens if my project cannot go public?
+In this case, please talk to us before submission. We will require you to submit the dissertation to us via email (you can upload an empty pdf to the submission point) as otherwise the paper will go into TurnItIn's public repository. We will ensure that only you, the supervision team, and the markers have access to the project and it will be clear that the project will be private.
+
+### How much detail will my markers read the papers I am citing?
+Markers will spot check cited papers to make sure that they exist and are relevant. Otherwise, markers may not read papers if you have summed them up nicely in a way that relates well to your project, they may read only the abstract of a cited paper, glance through it briefly, or read it in detail if it is highly relevant to the project so they can understand what you have done.
+
+## First Marker
+
 ### If I have a supervisor who is not in the School of Computer Science, can they be my first marker?
 No, we require that first markers are those within the School of Computer Science.
+
+### If I have a second supervisor, who will be the first marker?
+Normally, this will be the first supervisor, but it is up to your first and second supervisors to decide who will be the first marker. 
+
+### How much help should my supervisor give me?
+We expect students to take ownership of their project and direct this, and the [mark scheme](assessment#mark-scheme) even has sections discussing this (e.g. 60-69: Some self directed work with significant supervisor input). Supervisor input is when they take an active role throughout the project, asking them for guidance or to help when you are stuck is not significant input and should not be considered stopping you from getting an 80+, you supervisor is a resource for you to use to make your project even better!
+
+## Second Marker
 
 ### Who will be my second marker?
 Your second marker will be someone who knows enough about your subject to mark your project.  We will tell you who your second marker is halfway through TB2, and you will have a chance to talk to them about your project on or around Poster Day.
@@ -302,15 +358,6 @@ Your second marker will be someone who knows enough about your subject to mark y
 ### If I have a second supervisor will they be my second marker?
 No, your second marker will be someone who is external to the project team (you and your supervisor(s)).
 
-### If I have a second supervisor, who will be the first marker?
-Normally, this will be the first supervisor, but it is up to your first and second supervisors to decide who will be the first marker. 
-
-
-### Is there a difference in the mark scheme for CS and Maths and CS?
-No, it's the same marking scheme.  For the Maths and CS Short Project, your markers will know it's a 20 credit project and mark it accordingly
-
-### What happens if my project cannot go public?
-In this case, please talk to us before submission. We will require you to submit the dissertation to us via email (you can upload an empty pdf to the submission point) as otherwise the paper will go into TurnItIn's public repository. We will ensure that only you, the supervision team, and the markers have access to the project and it will be clear that the project will be private.
 
 # Vivas
 
