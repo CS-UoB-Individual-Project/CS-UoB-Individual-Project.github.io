@@ -348,7 +348,7 @@ No, we require that first markers are those within the School of Computer Scienc
 Normally, this will be the first supervisor, but it is up to your first and second supervisors to decide who will be the first marker. 
 
 ### How much help should my supervisor give me?
-We expect students to take ownership of their project and direct this, and the [mark scheme](assessment#mark-scheme) even has sections discussing this (e.g. 60-69: Some self directed work with significant supervisor input). Supervisor input is when they take an active role throughout the project, asking them for guidance or to help when you are stuck is not significant input and should not be considered stopping you from getting an 80+, you supervisor is a resource for you to use to make your project even better!
+We expect students to take ownership of their project and direct this, and the [mark scheme](https://cs-uob-individual-project.github.io/assessment#mark-scheme) even has sections discussing this (e.g. 60-69: Some self directed work with significant supervisor input). Supervisor input is when they take an active role throughout the project, asking them for guidance or to help when you are stuck is not significant input and should not be considered stopping you from getting an 80+, you supervisor is a resource for you to use to make your project even better!
 
 ## Second Marker
 
