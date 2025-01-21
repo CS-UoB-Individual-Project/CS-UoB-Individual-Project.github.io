@@ -54,7 +54,7 @@ The projects unit will run in three phases:
 | **Deadline**                                  	| **Date**   	          | **Time** 	|
 |---------------------------------------------------|-------------------------|-------------|
 | **All students** Supervisor confirmation via [form](https://forms.office.com/e/dMycuMNQiz)	        |  18/10/24	              | 17:00    	|
-| **All students** Ethics quiz completed | 03/02/25 | 13:00 |
+| **All students** [Ethics quiz](https://cs-uob-individual-project.github.io/ethics/#the-ethics-lecture-and-quiz) completed | 03/02/25 | 13:00 |
 | **CS+Maths 4th Year** Presentation 	|  TBC                    |     	    |
 | **CS 4th Year** Innovation Case               	|  13/02/25               | 13:00    	|
 | **All students** Dissertation Deadline            |  28/04/25               | 13:00	    |
