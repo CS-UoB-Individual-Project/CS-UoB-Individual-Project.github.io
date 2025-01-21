@@ -114,7 +114,8 @@ form and participant information sheet in the
 appendix of your dissertation along with the ethics statement.
 
 # The Ethics Lecture and Quiz
-In order to pass the unit, you **must** get 100% on the Ethics Quiz, with a deadline of 2 February 2025.  Before you take the quiz, you should watch the [Ethics lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ESeBRhKTH39OtvH4NtjKbmMBS17ddoIzOH-zRmbTFJ8h_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZcP2LU) which will give you the information you need. 
+
+In order to pass the unit, you **must** get 100% on the Ethics Quiz, with a deadline of **2 February 2025**.  Before you take the quiz, you should watch the [Ethics lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ESeBRhKTH39OtvH4NtjKbmMBS17ddoIzOH-zRmbTFJ8h_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZcP2LU) which will give you the information you need. 
 
 **The Ethics Quiz is on your Unit Blackboard** - go to Assessment, Submission & Feedback and scroll down.  You can take the quiz as many times as you like, and you'll get immediate feedback if you get an answer wrong, so everyone is capable of getting 100%.  If you have any questions, please ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
 
