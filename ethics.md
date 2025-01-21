@@ -103,6 +103,12 @@ Ethics applications are considered on a rolling basis, by the Faculty Ethics Com
 
 If you want help on best practices and any tips on how to apply, talk to your supervisor. You can also contact the Facutly Research Ethics Administrator Marc Moyce: [marc.moyce@bristol.ac.uk](mailto:marc.moyce@bristol.ac.uk).
 
+### Projects covered by other exisiting Ethics applications
+Some projects will be covered by applications your Supervisor has put in or is a part of.  If this is the case, you don't need to make a separate application - just get the Ethics application number for the project and add this statement to the frontmatter Ethics declaration:
+
+“This project is covered by the ethics application [NUMBER] as determined by my supervisor [SUPERVISOR_NAME]”.
+
+
 
 # Performing a User Study
 
