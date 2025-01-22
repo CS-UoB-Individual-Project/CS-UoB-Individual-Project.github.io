@@ -43,9 +43,9 @@ The following are good reasons to think carefully before committing to a project
 
 ## Role of the Supervisor
 
-Your supervisor will support Project and mark it at the end, along with your second marker. They will not do any work for you, or tell you exactly what you should do, but they may have expectations about seeing things like your project plan, dissertation structure, and writing. You should choose your supervisor so that their supervision style matches what you want.
+Your supervisor will support your Project and mark it at the end, along with your second marker. They will not do any work for you, or tell you exactly what you should do, but they may have expectations about seeing things like your project plan, dissertation structure, and writing. You should choose your supervisor so that their supervision style matches what you want.
 
-Supervisors will meet you for either half an hour a week or an hour a fortnight during TB2 term time.  It will be your responsibility to set up and attend the meetings. If you don't attend the meetings, your supervisor may not chase you up. You should take control of what you want to discuss at the meetings, be proactive.  
+Supervisors will meet you for either half an hour a week or an hour a fortnight during TB2 term time.  It will be your responsibility to set up and attend the meetings. If you don't attend the meetings, your supervisor may not chase you up. You should take control of what you want to discuss at the meetings, so be proactive.  
 
 Supervisors will read and give you feedback on 2-3 pages of your draft dissertation, if you arrange this in advance. 
 
