@@ -46,11 +46,11 @@ Please do encourage your students to go to the **TB2 Library Workshop, writing s
 
 You can find which students you are marking, who the other marker is and the status of the marking [on markerbot](https://apps.powerapps.com/play/e/default-b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b/a/66a4c4f1-643c-489f-a238-fa03e87aa84f).  
 
-You and the other marker will **independently mark the project**, using the [marking scheme](/assessment/#mark-scheme).  Please note:  the BSc pass mark is 40; the MEng pass mark is 50.  Please note:  while the marking scheme has 4 columns, these are not equally weighted, as each project will be different. A student does not need to hit every bulletpoint in a grade boundary to achieve that grade - some may be above or below.  
+You and the other marker will **independently mark the project**, using the [marking scheme](/assessment#mark-scheme).  Please note:  the BSc pass mark is 40; the MEng pass mark is 50.  Please note:  while the marking scheme has 4 columns, these are not equally weighted, as each project will be different. A student does not need to hit every bulletpoint in a grade boundary to achieve that grade - some may be above or below.  
 
 Please **spot check the bibliography** to check at least 3 references to make sure they are legitimate. 
 
-Please **structure your feedback** around the 4 headings of the [marking scheme](/assessment/#mark-scheme): 
+Please **structure your feedback** around the 4 headings of the [marking scheme](/assessment#mark-scheme): 
 * Challenge & Contribution
 * Design & Implementation
 * Testing & Evaluation
