@@ -119,6 +119,8 @@ You must include copies of the consent
 form and participant information sheet in the
 appendix of your dissertation along with the ethics statement.
 
+If you are creating an online form to collect user study data, this MUST be using Microsoft Forms. Google forms or similar is not allowed.
+
 # The Ethics Lecture and Quiz
 
 In order to pass the unit, you **must** get 100% on the Ethics Quiz, with a deadline of **2 February 2025**.  Before you take the quiz, you should watch the [Ethics lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ESeBRhKTH39OtvH4NtjKbmMBS17ddoIzOH-zRmbTFJ8h_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZcP2LU) which will give you the information you need. 
