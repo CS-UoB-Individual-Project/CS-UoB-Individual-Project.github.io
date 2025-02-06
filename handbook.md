@@ -85,7 +85,7 @@ When choosing a project, it is best to talk with your (potential) supervisor ove
 **All projects will need an ethics statement** at the beginning of the dissertation, and all projects will fall into one of three categories:
 
 1. Projects that do not require ethical approval because they do not collect or process any relevant data.
-2. Projects that can be reviewed by your supervisor under "Ethics Appliction 0026", because they are judged to be low ethical risk.
+2. Projects that can be reviewed by your supervisor under "Ethics Appliction 6683", because they are judged to be low ethical risk.
 3. Projects that require full ethical review by the Faculty Research Ethics Committee (FREC).
 
 We will provide ethical training with a mandatory test to ensure that you've understood what is permitted under each of the above categories.

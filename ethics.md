@@ -31,7 +31,7 @@ dissertation, and all projects will fall into one of three categories:
 1. Projects that do not require ethical approval because they do not collect or
    process any relevant data.
 2. Projects that can be reviewed by your supervisor under "Ethics Appliction
-   0026" (Blanket Ethics Agreement) because they are judged to be low ethical risk.
+   6683" (Blanket Ethics Agreement) because they are judged to be low ethical risk.
 3. Projects that require full ethical review by the Faculty Research Ethics
    Committee (FREC).
 
@@ -70,7 +70,7 @@ Blanket Ethics covers projects that:
   * uses photographs/recordings of yourself, even if you can be identified.
   * puts participants under NO physical or mental risk of harm.
 
-When writing your dissertation you will need to include the following statement in the front matter: "This project is covered by the blanket ethics application 0026 as determined by my supervisor SUPERVISOR_NAME".
+When writing your dissertation you will need to include the following statement in the front matter: "This project is covered by the blanket ethics application 6683 as determined by my supervisor SUPERVISOR_NAME".
 
 ### Full Ethical Review
 All projects that contain one or more of the following require full ethical review:
@@ -131,7 +131,7 @@ In order to pass the unit, you **must** get 100% on the Ethics Quiz, with a dead
 * [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1) (useful to pass the ethics quiz!).
 
 * [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical approval but are not
-  covered by Ethics Application 0026).  
+  covered by Ethics Application 6683).  
 
 * [Example Participant Information Sheets and Consent Forms](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=xb4Mvm) for any user studies.
   
