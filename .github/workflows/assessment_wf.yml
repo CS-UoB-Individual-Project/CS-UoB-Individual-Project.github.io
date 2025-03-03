@@ -2,9 +2,11 @@ name: Mark Scheme Creation
 
 on:
   push:
-    branches: [ "main" ]
+    paths:
+      - 'assessment.md'
   pull_request:
-    branches: [ "main" ]
+    paths:
+      - 'assessment.md'
 
 jobs:
   build:
@@ -12,14 +14,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: s-weigand/setup-conda@v1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Install pandoc
         run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
       - name: Setup python environment
-        run: conda install -y numpy
+        run: pip install numpy
       - name: clean pdf
         run:
             rm mark_scheme.pdf 
