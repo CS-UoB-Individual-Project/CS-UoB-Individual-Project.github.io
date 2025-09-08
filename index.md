@@ -14,7 +14,7 @@ Table of contents
 {:toc}
 </details>
 
-## Overall Timeline
+## Timeline
 
 The projects unit will run in three phases:
 * **TB1** You will find a supervisor and decide on a project.
