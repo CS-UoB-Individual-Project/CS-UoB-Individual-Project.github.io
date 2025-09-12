@@ -26,24 +26,21 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-| 12/09/24 	|13:00    	| Project Introduction in Returners Talks **M&CS**  | MVB 1.08          	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ESdNPkAZ445PkZmXeeugKCABqmD-w9doW0fmuWz0LIEEYQ?e=7CEjkG)           |
-|  12/09/24 	|14:00    	| Project Introduction in Returners Talks **CS**    | MVB 1.11a 	          | [slides](https://uob-my.sharepoint.com/:p:/g/personal/mw1760_bristol_ac_uk/EfgUfXksEtdBj4eX6P599ZkBqKcSFe4ec_FVatwwndutlQ?e=8eHHCT), [recording](https://uob.sharepoint.com/:v:/t/grp-2024-5IndividualProjects2/ERywgE9S3WtPgtod6JqfwhEB-tiPEmMnSN4mTOBN1-15Ng?e=5hmPaK) (only the second half was recorded, please see the M&CS for the start)           |
-|  23/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a-1-n96swabgvrxm7api)                 | Biomedical Building E29 |  [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/c337275a5eb840a9ad4f8565b085438f1d)           |
-|  23/09/24 	|11:00   	| Projects spreadsheet released       	            |  [Spreadsheet](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ?e=4qhnuf)	                      |                      |
-|  30/09/24	|10:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a2-48mej2p1tb01nlfn)                      | Geography 1.1S PEEL     |        [Recording](https://mediasite.bris.ac.uk/Mediasite/Play/5fc07b6fe3094d25b5563ec7cc1fdfc41d)              |
-| 02/10/24	|14:00   	| Matching Day                                      | Bill Brown Suite 	      |                      |
-| 13/01/25	|13:00     	| TB2 Project Kick-off                              | Queens Building 1.15 	  | [slides](https://uob.sharepoint.com/:p:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/TB2%20kick-off%20slides.pptx?d=weef1339c649445c58db41e98a789f5b2&csf=1&web=1&e=pDUeYS), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/21a1d360f4bf48cdae826a21b034724a1d) |
-| 16/01/25  |13:00   	| Projects Q&A [padlet link](https://uob.padlet.org/michaelwray1/individual-projects-24-25-q-a3-acr8q2hn6kh584ld)                  |  Queens Building 1.15	  | [recording](https://mediasite.bris.ac.uk/Mediasite/Play/c015d9d5f50e43aebc84bc0cef1e143d1d) |
-| 20/01/25  | online  	| Ethics Lecture          	                        | Online Lecture          | [Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ESeBRhKTH39OtvH4NtjKbmMBS17ddoIzOH-zRmbTFJ8h_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZcP2LU) |
-| 20/01/25  |13:00    	| Library Workshop        	                        | Queens Building 1.15    | [slides](https://uob.sharepoint.com/:p:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/COMS-Individual-Projects-library_ws.pptx?d=w820f2a941932403880b0d0eb49078a65&csf=1&web=1&e=FNeM0A), [recording](https://mediasite.bris.ac.uk/Mediasite/Play/9617400ae5e94d51b6e24bdb532a75821d) |
-| 23/01/25	| 13:00    	| Projects Q&A                                      | Queens Building 1.15    |                      |
-| 05/02/25 | 14:00 | Testathon                                        | MVB 2.11   |         | 
-| 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Wills Reception Room    |                      |
-| 04/03/25 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
-| 05/03/25 | 14:00 | Testathon                                         | MVB 2.11     |         | 
-| *	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
-| 28/02/25	| 14:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
-|  *	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
+|  24/09/24 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |     |
+|  01/10/24	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |           |
+|  30/09/24 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
+| TBC	|*   	| Matching Day                                      | * 	      |                      |
+| 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  |  |
+| 22/01/25  |13:00    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
+| 26/01/26  |9:00   	| Projects Q&A                   |  Pugsley Lecture Theatre	  |  |
+| TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
+| TBC | * | Testathon                                        | *   |         | 
+| 02/03/26	| 15:00   	| Project Writing Retreat 	                        | Queens Building 1.07    |                      |
+| 09/03/26 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
+| TBC | * | Testathon                                         | *     |         | 
+| TBC	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
+| 20/04/26	| 15:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
+|  TBC	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
 | 02/04/25	| 14:00   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
 
 

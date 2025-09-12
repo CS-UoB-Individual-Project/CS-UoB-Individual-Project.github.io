@@ -18,7 +18,7 @@ Table of contents
 
 * Shawn (Junxiao) Shen (Unit Director): [junxiao.shen@bristol.ac.uk](mailto:junxiao.shen@bristol.ac.uk)
 * Andrew Calway (Deputy Unit Director): [Andrew.Calway@bristol.ac.uk](mailto:Andrew.Calway@bristol.ac.uk)
-* Sarah Connolly : [sarah.connolly@bristol.ac.uk](mailto:sarah.connolly@bristol.ac.uk)
+* Sarah Connolly (Deputy Unit Director): [sarah.connolly@bristol.ac.uk](mailto:sarah.connolly@bristol.ac.uk)
 * Shawn (Junxiao) Shen (COMSM0052 Innovation Case Lead): [junxiao.shen@bristol.ac.uk](mailto:junxiao.shen@bristol.ac.uk)
 * Dave Jarman (COMSM0052 Innovation Case Deputy): [dave.jarman@bristol.ac.uk](mailto:dave.jarman@bristol.ac.uk)
 * Raphaël Clifford (COMSM0142 Presentation Component Lead): [raphael.clifford@bristol.ac.uk](mailto:raphael.clifford@bristol.ac.uk)
