@@ -41,7 +41,7 @@ The projects unit will run in three phases:
 | TBC	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
 | 20/04/26	| 15:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
 |  TBC	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
-| 02/04/25	| 14:00   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
+| 15/04/25	| 14:30   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 
