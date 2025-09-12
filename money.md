@@ -49,7 +49,7 @@ Arduinos, VR or AR equipment etc), email the [Engineering Technical Services Tec
 If you want to use that you can't borrow as we don't have it in stock, or that
 would be too difficult to return after the end of your project (for example,
 you are building something that needs circuit boards, wires, connections etc
-etc), talk to your supervisor, and when they've agreed you need it, email [Mike
+etc), talk to your supervisor, and when they've agreed you need it, email [Shawn, Andrew
 and Sarah](/contact) with what you need, why you need it, and include a link to
 what you need. 
 
@@ -58,7 +58,7 @@ If you need online services (for example, a Google Development Account, an
 Amazon Web Services cloud account, or a dynamic IP website address), access to
 APIs (for example, OpenAI) we can usually pay for that for you.  We would not
 set up your own Open AI account, but we can add students to one of our teams.
-Talk to your supervisor and then email [Mike and Sarah](/contact) with what you
+Talk to your supervisor and then email [Shawn, Andrew and Sarah](/contact) with what you
 need, why you need it, and include a link to what you need.  
 
 For example, if you want us to buy you a website address, tell us why you can't use a free website address (eg you need a dynamic IP for scam-baiting), and the address you want, with a link/screenshot to show us where we can buy it from, and the price.  

@@ -20,7 +20,7 @@ We hope that you'll enjoy your project, and everything will go smoothly - but if
 
 ## Problems with your supervisor
 
-If you have any problems with your supervisor, contact [Mike and Sarah](/contact).  If you've been trying to contact them, please forward your last email to them - please note that we never expect supervisors to reply to emails/contacts out of working hours, over weekends or during holidays.  
+If you have any problems with your supervisor, contact [Shawn, Andrew and Sarah](/contact).  If you've been trying to contact them, please forward your last email to them - please note that we never expect supervisors to reply to emails/contacts out of working hours, over weekends or during holidays.  
 
 ## If you think you're falling behind
 

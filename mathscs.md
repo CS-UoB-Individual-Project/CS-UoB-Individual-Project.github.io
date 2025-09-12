@@ -49,7 +49,7 @@ Because of the different Maths unit options, some M&CS students will take your
 projects across Teaching Block 4 (across the full year - TB1+TB2=TB4). If you
 want to do this, you will need to:
 
-* [email Mike and Sarah](/contact) so we are aware.
+* [email Shawn, Andrew and Sarah](/contact) so we are aware.
 * Make sure potential supervisors are aware you are talking the project as TB4, so you will need to start your supervision in TB1.
 * Get your project agreed with a supervisor in the first few weeks, so you can start work before Week 6 Reading Week.
 * Make a strong project plan including working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).

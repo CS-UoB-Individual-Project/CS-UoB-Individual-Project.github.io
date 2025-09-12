@@ -72,7 +72,7 @@ weeks, so you can get feedback on your writing from your supervisor.
 You will see some optional sessions in your timetable - Writing Workshops by
 CALD, the Centre for Academic Language & Development, which are workshops
 specifically for Computer Science Projects students, and Writing Retreats,
-sessions where you can come and write in a quiet environment with Mike, Sarah
+sessions where you can come and write in a quiet environment with Shawn, Andrew, Sarah
 and other students, with snacks and support.  
 
 For more support with writing:
