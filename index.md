@@ -50,19 +50,19 @@ The projects unit will run in three phases:
 
 | **Deadline**                                  	| **Date**   	          | **Time** 	|
 |---------------------------------------------------|-------------------------|-------------|
-| **All students** Supervisor confirmation via [form](https://forms.office.com/e/dMycuMNQiz)	        |  18/10/24	              | 17:00    	|
-| **All students** [Ethics quiz](https://cs-uob-individual-project.github.io/ethics/#the-ethics-lecture-and-quiz) completed | 03/02/25 | 13:00 |
-| **CS+Maths 4th Year** Presentation 	            |  27/02/25               |   14:00  |
-| **CS 4th Year** Innovation Case               	|  13/02/25               | 13:00    	|
-| **All students** Dissertation Deadline            |  28/04/25               | 13:00	    |
-| **All students** Viva Dates                       |  13/05/25 & 14/05/25    | **    	    |
+| **All students** Supervisor confirmation 	        |  13/11/24	              | 13:00    	|
+| **All students** Ethics quiz completed | TB2 (TBC) | 13:00 |
+| **CS+Maths 4th Year** Presentation 	            |  Week 17 (TBC)               |   14:00  |
+| **CS 4th Year** Innovation Case               	|  19/02/25               | 13:00    	|
+| **All students** Dissertation Deadline            |  05/05/25               | 13:00	    |
+| **All students** Viva Dates                       |  19/05/25 & 20/05/25    | TBC    	    |
 
 `**` Viva times will be individual per student and confirmed in TB2.
 
 
 ## Viva Dates
 
-Most vivas will be held on the 13th and 14th May 2025 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2025**.
+Most vivas will be held on the 13th and 14th May 2025 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2026**.
 
 Note that vivas are being planned to be **in-person**.
 
