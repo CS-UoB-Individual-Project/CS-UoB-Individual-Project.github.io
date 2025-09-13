@@ -62,7 +62,7 @@ The projects unit will run in three phases:
 
 ## Viva Dates
 
-Most vivas will be held on the 13th and 14th May 2025 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 28th April to 16th May 2026**.
+Most vivas will be held on the 19th and 20th May 2026 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 4th April to 22nd May 2026**.
 
 Note that vivas are being planned to be **in-person**.
 
