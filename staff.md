@@ -38,7 +38,7 @@ If your supervisee would like **extra support with writing and study skills**, w
 
 If **you won't be able to see your supervisee** because you are going to be away or you are sick, please [contact Shawn, Andrew and Sarah](/contact) so they can arrange for cover for you.  
 
-Your students will need you to **sign off their project ethics status**.  There is more information in the [Ethics page](/ethics) but if you have questions about ethics, [contact Oussama Metatla, the School Ethics Lead](mailto:oussama.metatla@bristol.ac.uk).
+Your students will need you to **sign off their project ethics status**.  There is more information in the [Ethics page](/ethics) but if you have questions about ethics, [contact Aisling O'Kane, the School Ethics Lead](mailto:aisling.okane@bristol.ac.uk).
 
 Please do encourage your students to go to the **TB2 Library Workshop, writing support activities and especially Poster Day**.  The dates are on the [unit schedule](index/#schedule-videos-and-materials) and you can find out more information about the events on the [Teaching Block 2 page](/tb_2/#timetabled-events-in-tb2)
 
