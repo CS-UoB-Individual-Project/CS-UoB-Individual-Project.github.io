@@ -56,8 +56,8 @@ your project, because this is the primary information your markers have.
 We strongly recommend you start writing as early as possible. One of your first
 project tasks should be to set up your dissertation template and think about
 how to structure your report. We have examples of previous projects in
-the [Class Materials pages of the Projects
-Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH)
+the [Projects
+Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=HJjmhi))
 which you can use for inspiration (each example starts with the unit code -
 note that COMS30044 is the 20 credit Maths & CS project worht half of the other
 units).
@@ -77,7 +77,7 @@ and other students, with snacks and support.
 
 For more support with writing:
 
-* **[General Purpose Guide to Academic Writing](https://uob.sharepoint.com/:b:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/TipsOnWriting.pdf?csf=1&web=1&e=rr5B30)** by Professor Dave Cliff has some useful useful tips towards how to approach
+* **[General Purpose Guide to Academic Writing](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/TipsOnWriting.pdf?csf=1&web=1&e=4WtONs)** by Professor Dave Cliff has some useful useful tips towards how to approach
 academic-style writing for Computer Scientists.
 * **[Study Skills guides to academic reading, writing, planning your work and more](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills)** - scroll down the page to get the various guides to different topics.  
 * **The [University Study Skills team](https://www.bristol.ac.uk/students/your-studies/study-support/study-skills/)** run bookable workshops and tutorials and dropins where they can give you feedback and advice on your writing at any stages. 
@@ -113,7 +113,7 @@ website](https://www.overleaf.com/learn).
 ## Word Dissertation Template
 
 The word template for the Dissertation can be found
-[here](https://uob.sharepoint.com/:w:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/ThesisTemplate%20-%20Word.docx?d=w332200b510a34a0889161d287e1b917e&csf=1&web=1&e=VgkZIB).
+[here](https://uob.sharepoint.com/:w:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/ThesisTemplate%20-%20Word.docx?d=w7588be54ec12404d98a3186c71ddb167&csf=1&web=1&e=gIWzGD).
 
 # Research Support
 
