@@ -23,7 +23,7 @@ Table of contents
 
 # Project choice
 ### When do I have to have decided a supervisor by?
-You must have agreed with your supervisor that they will supervise your project and completed the [projects specification form](https://forms.office.com/e/dMycuMNQiz) by the end of Week 5 - **17:30, Friday 18th October**.  There is more information about the process on the [Finding a Project page](/tb1).
+You must have agreed with your supervisor that they will supervise your project and completed the [projects specification form](https://forms.office.com/e/dMycuMNQiz) by the end of Week 8.  There is more information about the process on the [Finding a Project page](/tb1).
 
 ### Which type of project will give me higher marks?
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
@@ -44,10 +44,10 @@ Talk to your personal tutor in the first instance - or if they can't help you, r
 We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
 
 ### When should final project titles be decided (or roughly decided) by?
-You will need to submit a rough project title to the [projects specification form](https://forms.office.com/e/dMycuMNQiz) by the end of Week 5 - **17:30, Friday 18th October**.  However, your project title can change right up to hand-in date, so you don't need to worry too much about it. 
+You will need to submit a rough project title to the form we'll send you, by the end of Week 8.  However, your project title can change right up to hand-in date, so you don't need to worry too much about it. 
 
 ### Why do I have to pick my project now when it doesn't start until TB2? I want to wait to pick a project until I've had more experience of the units
-Students will have exams in Weeks 6, 7 and 8, and the Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're revising and taking assessments.  While some students may only have exams in 1 week of 6-8, there will be unit exams in each of those three weeks. 
+Students will have Coursework in Weeks 9-11, and we don't want you to have to think about the projects at the same time as you're taking assessments.  
 
 ###   For any general project, is the grade (the amount of marks expected if implemented fully) set in stone, or will it be more flexible across TB2 as you research and discover more pitfalls/ ideas you can add to the project? 
 Generally it depends on how far you go - all projects would be able to get a very high first or a fail, depending on how well you write it up. It doesn't matter how much work you've done, if you don't write it up well, you will fail. The thing you get marked on is the writing.  
@@ -161,7 +161,7 @@ This is very hard - instead, if you need something, contact [Shawn, Andrew and S
 Email [Shawn, Andrew and Sarah](/contact) and do not spend any more money on it!
 
 ### How do I apply to use Blue Crystal?
-See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Crystal section. 
+See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Crystal section - the short answer is email [Shawn, Andrew and Sarah](/contact) 
 
 # TB1
 ### Is it up to us to download and prepare any code frameworks required for our dissertation before TB2, or will our supervisors provide additional help in some way?
@@ -275,7 +275,7 @@ On its own, failure to get ethical approval will _not_ be grounds for an extensi
 ### What is the expected workload for the Innovation Case?  
 It's roughly 10% of your time in TB2.  It's an extra piece of work about how you can communicate your project ideas in a different concept - for example writing a business case to turn it into a start up; write a PhD proposal; how it could be taken on in an exisitng business; how it could be incorporated in education and more. 
 
-The deadline is in Week 5, and there will be workshops and sessions on it, and you will write a short piece of writing.  You'll be given examples of previous good work. 
+The deadline is in Week 17, and there will be workshops and sessions on it, and you will write a short piece of writing.  You'll be given examples of previous good work. 
 
 ### Are some project proposals on the spreadsheet more suited to building a successful innovation case than others? If so, is there a way to tell?
 No, the Innovation Case is run so that any project can be written about.  They are all perfectly fine - and your Innovation Case can be about anything about how to communicate their ideas to a wider audience.
@@ -293,10 +293,10 @@ This is a chance to meet your Second Marker for the first time, talk to them abo
 No, but we strongly encourage it! Students always say they get good feedback from it that helps them improve their dissertation.
 
 ### Do you have examples of what posters are?
-Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there is a folder of posters in the [Class Materials pages of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH). 
+Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there is a folder of posters in the [Projects Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkBw)). 
 
 ### I've never made a poster before - how do I start?
-Come to the Poster Workshop, and you can start with the templates in the [Class Materials pages of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH).  
+Come to the Poster Workshop, and you can start with the templates in the [Projects Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkBw)).  
 
 ### Do I have to pay to come to Poster Day?
 No, we will print your poster for you.  
@@ -311,10 +311,10 @@ Optional sessions to do some writing in a quiet space with other people around y
 
 # Submitting your work
 ### When is the deadline for submitting my dissertation?
-It's the first Monday after the Easter break:  **13:00, Monday 28th April 2025**.  If you want a reminder of all the dates, they are on the [Welcome page]{/index} of this website. 
+It's the first Tuesday of the exam period:  **13:00, MTuesday 5th May 2026**.  If you want a reminder of all the dates, they are on the [Welcome page]{/index} of this website. 
 
 ### Where do I submit my dissertation?
-In the Blackboard for your unit, under Assessment, Submission and Feedback - scroll down to the submission points, which will be added in the last half of TB2.
+In the Blackboard for your unit, under Assessment - scroll down to the submission points, which will be added in the last half of TB2.
 
 ### What should I name the file?
 It's helpful to call your PDF [your name]_[dissertation title] but there is no standard naming convention.
@@ -377,7 +377,7 @@ You don't have to, but we recommend you bring some slides so that you can rememb
 Unfortunately not. University regulations require that everyone on the unit must undergo the viva to complete the unit. If you have a study support plan and/or uncomfortable/nervous about undertaking the viva, *get in contact with us!* We can structure the viva in different ways to accommodate everyone.
 
 ### When will the vivas happen?  
-Most vivas will take place on 13th and 14th April 2025 in the exam period, although some will be on different dates, so you MUST be in Bristol for the whole of the exam period (28th April to 16th May 2024 inclusive).
+Most vivas will take place on 19th and 20th May 2026 in the exam period, although some will be on different dates, so you MUST be in Bristol for the whole of the exam period (4-22nd May 2026 inclusive).
 
 ### How should I prepare for the viva?
 See the viva section on the [Assessment Information page](/assessment).
