@@ -18,13 +18,11 @@ Table of contents
 
 ## Finding a Project
 
-We will release a **spreadsheet** containing a list of supervisors with projects that they are interested in supervising. **This is a non-exhaustive list**, but a starting point to generate ideas.  If you're interested in any of the projects, email the supervisors to set up a meeting to see if you want to work together.  
+We will release a **spreadsheet** containing a list of supervisors with projects that they are interested in supervising. **This is a non-exhaustive list**, but a starting point to generate ideas.  If you're interested in any of the projects, email the supervisors to set up a meeting to see if you want to work together.   
 
-[The spreadsheet for 2024-5 project ideas is here](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/ESYKQgOA6MdCsfNr39lHq3EBKwArGEpOKmuXcMnjjfT3sQ?e=4qhnuf).  
+**Once you have agreed a project with a supervisor**, you will need to complete a form we'll send you, before the end of Week 8.
 
-**Once you have agreed a project with a supervisor**, please [complete this form](https://forms.office.com/e/dMycuMNQiz), before 17:00, Friday 18 October 2024.
-
-We will hold a **project matching session** in Week 3, where you can talk and discuss potential projects with your supervisor, but you can start talking to supervisors from the start of TB1.
+We will hold a **project matching session** in Week 7, where you can talk and discuss potential projects with your supervisor, but you can start talking to supervisors from the start of TB1.
 
 
 It is a good idea to think about the area and potential supervisors beforehand:
@@ -60,4 +58,4 @@ If you still need help after talking to your tutor, [contact Shawn, Andrew and S
 
 ## Confirming a Project
 
-You need to confirm your project by  **the end of Friday Week 5 (18th October)**. This will involve agreeing a project name with a supervisor and submitting this in a form. The title and even the overall project can change before the start of TB2, but you will not be able to change your supervisor unless there is a serious issue - if that happens, please [contact Shawn, Andrew and Sarah](/contact).
+You need to confirm your project by  **the end of Friday Week 8**. This will involve agreeing a project name with a supervisor and submitting this in a form. The title and even the overall project can change before the start of TB2, but you will not be able to change your supervisor unless there is a serious issue - if that happens, please [contact Shawn, Andrew and Sarah](/contact).
