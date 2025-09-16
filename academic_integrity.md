@@ -20,7 +20,7 @@ We expect all final year students to be familiar with and correctly follow the u
 
 **Please read the [University pages on Academic Integrity](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/)**, including the 3 linked pages on [plagiarism](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/plagiarism/), [collusion](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/collusion/) and [contract cheating, including 'AI' tools](https://www.bristol.ac.uk/students/support/academic-advice/academic-integrity/contract-cheating/).
 
-You are expected to complete online academic integrity training - find this on the [Academic Integrity: School of Computer Science 2023](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8261184_1&course_id=_258488_1) site on Blackboard.
+You are expected to complete online academic integrity training - this should be linked from your Student Handbook on Blackboard.find this on the [Academic Integrity: School of Computer Science 2023](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8261184_1&course_id=_258488_1) site on Blackboard.
 
 **Plagiarism is an offence** and can lead to a punishment even if you were unfamiliar with the rules or made an honest mistake.
 
@@ -71,7 +71,7 @@ You wouldn't be marked down for using AI tools - but **you would be marked down*
 Using, for example, ChatGPT to write your Contextual Background because it's faster and it is likely to be grammatically correct would not be a good reason - but using an AI tool to help bug-catch, as part of a suite of other bug-catching methods, or to speed up development so you can do more interesting experiments, which you explain in the AI declaration and appendix, would. 
 
 ## What counts as an AI tool?
-Anything that uses Large Language Models (LLMs for example ChatGPT, Claude, CoPilot, DeepL etc) or Generative AI (for example to create pictures, eg Midjourney, Dall-E etc). Given how fast the sector is moving, there are bound to be new examples appearing all year, so if you're uncertain if something counts, please [ask](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
+Anything that uses Large Language Models (LLMs for example ChatGPT, Claude, CoPilot, DeepL etc) or Generative AI (for example to create pictures, eg Midjourney, Dall-E etc). Given how fast the sector is moving, there are bound to be new examples appearing all year, so if you're uncertain if something counts, please [ask](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
 
 
 ## If you're using AI tools, you need to understand the risks: 
@@ -98,5 +98,6 @@ Remember, one of the assessment criteria in the [mark scheme](https://cs-uob-ind
 ## Want to know more about the University's AI use policies?
 
 If you're interested in the University policies on 'AI' tools and the reasoning behind them, including some of the risks, read the [Study Skills Resource](https://www.ole.bris.ac.uk/bbcswebdav/pid-8037204-dt-content-rid-46594374_2/courses/Study_Skills/using-ai-at-university/index.html). 
+
 
 
