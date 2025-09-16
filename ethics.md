@@ -114,7 +114,7 @@ Some projects will be covered by applications your Supervisor has put in or is a
 
 **DO NOT** start a User Study without talking to your supervisor about it!
 
-If you are performing a user study, then you must make sure your participants are given and information sheet about the project and sign a consent form.  You can find templates of these in the [Class materials section of the Projects Team](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=W4l4ly).  
+If you are performing a user study, then you must make sure your participants are given and information sheet about the project and sign a consent form.  You can find templates of these in the [Projects Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=W4l4ly](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=HlerDe)).  
 You must include copies of the consent
 form and participant information sheet in the
 appendix of your dissertation along with the ethics statement.
@@ -123,9 +123,9 @@ If you are creating an online form to collect user study data, this MUST be usin
 
 # The Ethics Lecture and Quiz
 
-In order to pass the unit, you **must** get 100% on the Ethics Quiz, with a deadline of **2 February 2025**.  Before you take the quiz, you should watch the [Ethics lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ESeBRhKTH39OtvH4NtjKbmMBS17ddoIzOH-zRmbTFJ8h_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZcP2LU) which will give you the information you need. 
+In order to pass the unit, you **must** get 100% on the Ethics Quiz, in TB2.  Before you take the quiz, you should watch the [Ethics lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/ESeBRhKTH39OtvH4NtjKbmMBS17ddoIzOH-zRmbTFJ8h_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZcP2LU) which will give you the information you need. 
 
-**The Ethics Quiz is on your Unit Blackboard** - go to Assessment, Submission & Feedback and scroll down.  You can take the quiz as many times as you like, and you'll get immediate feedback if you get an answer wrong, so everyone is capable of getting 100%.  If you have any questions, please ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
+**The Ethics Quiz will be on your Unit Blackboard** - go to Assessment, Submission & Feedback and scroll down.  You can take the quiz as many times as you like, and you'll get immediate feedback if you get an answer wrong, so everyone is capable of getting 100%.  If you have any questions, please ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
 
 
 # Ethics Links
@@ -135,6 +135,6 @@ In order to pass the unit, you **must** get 100% on the Ethics Quiz, with a dead
 * [Formal ethics applications](https://orems.bristol.ac.uk/ActivityForm/Index) (for projects which need ethical approval but are not
   covered by Ethics Application 6683).  
 
-* [Example Participant Information Sheets and Consent Forms](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=xb4Mvm) for any user studies.
+* [Example Participant Information Sheets and Consent Forms](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) for any user studies.
   
 
