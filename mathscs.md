@@ -30,8 +30,7 @@ uncertainty.
 
 Apart from that, everything is the same - it's the same marking scheme, and you
 can choose from the same projects list - you'll just be completing less work.
-There are examples of 20 credit projects in the [Class Materials
-folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU)
+There are examples of 20 credit projects in the [unit Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=m8aRBm))
 in 3 folders divided by grades the students achieved - *look for the ones with
 names starting with COMS30044*. You can also look at the 40 credit projects to
 get inspiration, but bear in mind you are not expected to do this much work!
@@ -40,7 +39,7 @@ get inspiration, but bear in mind you are not expected to do this much work!
 
 Because the number of students who take this unit is small, there are not many
 examples of these projects in the [Class Materials
-folders](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU).
+folders](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=m8aRBm).
 However, the COMSM0052 projects are the Computer Science MEng students, and are
 equivalent amounts of work.  
 
@@ -81,7 +80,7 @@ feedback time on how to improve as a presenter.
 
 ## Presentation
 
-You will present on the 27th February to a small marking panel with the marking
+You will present in Week 17 to a small marking panel with the marking
 panel asking a few questions after your talk concludes. The mark scheme will be
 shown beforehand in the workshops in TB2.
 
