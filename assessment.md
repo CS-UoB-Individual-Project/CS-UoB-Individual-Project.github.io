@@ -17,7 +17,7 @@ Table of contents
 
 # Assessment Information
 
-The **project deadline is 28th April 2025**. Submission consists of your dissertation (compulsory) and any auxiliary material (e.g. code), and the submission is digital only.
+The **project deadline is 4th May 2026**. Submission consists of your dissertation (compulsory) and any auxiliary material (e.g. code), and the submission is digital only.
 
 **Only the dissertation and viva are marked**, so you may have completed an amazing project, but with a poor dissertation you can still fail the project - so make sure you start writing early, get feedback from your supervisor and leave enough time to focus on writing up the evaluation and conclusion.
 
@@ -38,7 +38,7 @@ In the (very) rare case that both markers cannot agree on a final mark, a third 
 
 The second marker will hold your viva which for all purposes is an oral exam.
 Vivas are **in-person** and **attendance is mandatory** - you will fail the unit if you are not present.
-Most vivas will be on 13th and 14th May 2025, but due to staff availability, some may be on different dates, so **you must be in Bristol for the full exam period (28th April to 16th May 2025).**
+Most vivas will be on 20th and 21st May 2026, but due to staff availability, some may be on different dates, so **you must be in Bristol for the full exam period (4th-22nd May 2026).**
 
 The viva has several purposes:
 * To showcase parts of the project which cannot (easily) be incoporated into the dissertation.
