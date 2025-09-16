@@ -67,19 +67,8 @@ Please note: We will monitor your useage, so if you look like you will be spendi
 
 
 ## Access Blue Crystal
-If you need to use the High Performance Computer, when submittng jobs for Blue Crystal, ACRC requires you to use a project code. Please use the Final Year Projects project code: COMS031144, not any other codes you may have been given for previous units.
+If you need to use the High Performance Computer,  email [Shawn, Andrew and Sarah](/contact).
 
-You can get access to Blue Crystal 4 by following the instructions below:
-
-1. Click on: [https://www.acrc.bris.ac.uk/login-area/apply.cgi](https://www.acrc.bris.ac.uk/login-area/apply.cgi)
-2. Enter your personal details
-3. Choose: "Join an existing project"
-4. Enter project code: COMS034664
-5. Keep Preferred log-in shell as bash
-6. In the comments box please enter the following:
-_"I am on the Computer Science Individual Project Unit, unit director Michael Wray, and will need access to BC4 for my final year project"_
-
-You will then be able to access Blue Crystal via SSH, see [their docs](https://www.acrc.bris.ac.uk/protected/hpc-docs/connecting/index.html) for more information.
 
 
 
