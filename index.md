@@ -83,10 +83,10 @@ You should bear in mind the following three principles whilst completing your pr
 ## Teams Channel
 
 You can find a link to the teams channel for the unit
-[here](https://teams.microsoft.com/l/team/19%3AK4nrxTho97cquGAF1BIZz-Pu7AlE5hVMQwuvDkr4A_g1%40thread.tacv2/conversations?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  
+[here]([https://teams.microsoft.com/l/team/19%3AK4nrxTho97cquGAF1BIZz-Pu7AlE5hVMQwuvDkr4A_g1%40thread.tacv2/conversations?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b](https://teams.microsoft.com/l/channel/19%3AJVSr6iujdlGiNDh13XWFaHvzyk4zzx81_0Wf2rkcQtA1%40thread.tacv2/General?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)).  
 
-* The [General channel](https://teams.microsoft.com/l/channel/19%3AK4nrxTho97cquGAF1BIZz-Pu7AlE5hVMQwuvDkr4A_g1%40thread.tacv2/General?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) will have announcements and communications about the unit
-* The [Project Q and A Channel](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) is where you can ask questions
-* The [Class Materials](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=94JZ4d) section of the General Channel has poster templates and examples of projects from 2023-4.
+* The [General channel](https://teams.microsoft.com/l/channel/19%3AJVSr6iujdlGiNDh13XWFaHvzyk4zzx81_0Wf2rkcQtA1%40thread.tacv2/General?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) will have announcements and communications about the unit
+* The [Project Q and A Channel](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) is where you can ask questions
+* The [Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=nCq6b6) section of the General Channel has poster templates and examples of projects and posters from previous years.
 
 If you don't have access, [contact Shawn, Andrew and Sarah](/contact).
