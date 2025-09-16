@@ -65,7 +65,7 @@ These are optional sessions in Weeks 19 and 22 we put on because we find them us
 Bring your laptop, headphones, water bottle and a plan for what you'd like to get done. 
 
 
-### Project Poster Day - 2nd April 2025
+### Project Poster Day - 15 April 2026
 This is a chance to meet your Second Marker for the first time, talk to them about your project and ask them what they expect to see in a project like yours. It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
 
 Poster Day is optional, but we **strongly recommend you attend**, as it's a chance to integrate outside feedback into your project to show off the incredible work that you have been doing.
