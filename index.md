@@ -26,12 +26,12 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-|  24/09/24 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |     |
-|  01/10/24	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |           |
-|  30/09/24 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
+|  24/09/25 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |     |
+|  01/10/25	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |           |
+|  30/09/25 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
 | TBC	|*   	| Matching Day                                      | * 	      |                      |
 | 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  |  |
-| 22/01/25  |13:00    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
+| 22/01/26  |13:00    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
 | 26/01/26  |9:00   	| Projects Q&A                   |  Pugsley Lecture Theatre	  |  |
 | TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
 | TBC | * | Testathon                                        | *   |         | 
@@ -41,7 +41,7 @@ The projects unit will run in three phases:
 | TBC	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
 | 20/04/26	| 15:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
 |  TBC	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
-| 15/04/25	| 14:30   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
+| 15/04/26	| 14:30   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 
