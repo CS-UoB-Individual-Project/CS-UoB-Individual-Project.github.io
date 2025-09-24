@@ -81,11 +81,13 @@ For easier reading, a pdf version of the mark scheme is auto-generated and can b
 
 # Example Projects
 
-We have selected a variety of student projects from last year covering a wide range of topics and have grouped them based on their mark. Make sure that you look at projects relevant to your unit code (COMSM0142 should look at COMSM0052 as well, as the unit has only run for 1 year).
+We have selected a variety of student projects from last year covering a wide range of topics and have grouped them based on their mark. Make sure that you look at projects relevant to your unit code (COMSM0142 should look at COMSM0052 as well, as the unit has only run for 2 years).
 
-* High 2.i (65-68) [example projects](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20projects%20-%202.1%20-%2065-69?csf=1&web=1&e=0M683W)
-* First class (70-77) [example projects](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20projects%20-%201st%20-%2070-77?csf=1&web=1&e=KfRAb8)
-* Very High First (80+) [example projects](https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Class%20Materials/Example%20projects%20-%201st%20-%2080+?csf=1&web=1&e=OL9sZJ)
+The projects(https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=fHI92l)[on the Team) are divided into 3 categories:
+
+* High 2.i (65-68) 
+* First class (70-77) 
+* Very High First (80+) 
 
 Note that these have been anonymised and some pages with identifying information has been removed.  Please bear in mind that there is no correlaion between the subjects and the grades, as you are just seeing a selection.
 
