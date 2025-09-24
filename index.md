@@ -26,7 +26,7 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-|  24/09/25 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |     |
+|  24/09/25 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |  [slides](https://github.com/CS-UoB-Individual-Project/CS-UoB-Individual-Project.github.io/blob/main/intro_25-26.pdf)   |
 |  01/10/25	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |           |
 |  30/09/25 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
 | TBC	|*   	| Matching Day                                      | * 	      |                      |
