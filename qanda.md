@@ -23,7 +23,7 @@ Table of contents
 
 # Project choice
 ### When do I have to have decided a supervisor by?
-You must have agreed with your supervisor that they will supervise your project and completed the [projects specification form](https://forms.office.com/e/dMycuMNQiz) by the end of Week 8.  There is more information about the process on the [Finding a Project page](/tb1).
+You must have agreed with your supervisor that they will supervise your project and completed the projects form by the end of Week 8.  There is more information about the process on the [Finding a Project page](/tb1).
 
 ### Which type of project will give me higher marks?
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
@@ -293,10 +293,10 @@ This is a chance to meet your Second Marker for the first time, talk to them abo
 No, but we strongly encourage it! Students always say they get good feedback from it that helps them improve their dissertation.
 
 ### Do you have examples of what posters are?
-Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there is a folder of posters in the [Projects Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkBw)). 
+Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there is a folder of posters in the [Projects Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkB)). 
 
 ### I've never made a poster before - how do I start?
-Come to the Poster Workshop, and you can start with the templates in the [Projects Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkBw)).  
+Come to the Poster Workshop, and you can start with the templates in the [Projects Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkBw).  
 
 ### Do I have to pay to come to Poster Day?
 No, we will print your poster for you.  
