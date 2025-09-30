@@ -66,6 +66,10 @@ Most vivas will be held on the 19th and 20th May 2026 in Bristol. Treat these da
 
 Note that vivas are being planned to be **in-person**.
 
+## Projects list
+The list of Projects is [here](https://uob.sharepoint.com/:x:/t/grp-2025-6IndividualProjects_ojufi7-StaffRoom/ETFY0C4wYLlFoH8kwhoooFUBCahjihovB4RZ3E2KHyexVg?e=Awdq2a)
+
+Once you have agreed a project with your supervisor, you must complete [this form](https://forms.office.com/e/dMycuMNQiz) by **13 NOVEMBER 2025, 13:00**.
 
 ## Principles and Independent Learning Objectives (ILOs)
 
