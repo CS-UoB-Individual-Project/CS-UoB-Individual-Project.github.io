@@ -18,9 +18,12 @@ Table of contents
 
 ## Finding a Project
 
-We will release a **spreadsheet** containing a list of supervisors with projects that they are interested in supervising. **This is a non-exhaustive list**, but a starting point to generate ideas.  If you're interested in any of the projects, email the supervisors to set up a meeting to see if you want to work together.   
+## Projects list
+The list of Projects is [here](https://uob.sharepoint.com/:x:/t/grp-2025-6IndividualProjects_ojufi7-StaffRoom/ETFY0C4wYLlFoH8kwhoooFUBCahjihovB4RZ3E2KHyexVg?e=Awdq2a)
 
-**Once you have agreed a project with a supervisor**, you will need to complete a form we'll send you, before the end of Week 8.
+ **This is a non-exhaustive list**, but a starting point to generate ideas.  If you're interested in any of the projects, email the supervisors to set up a meeting to see if you want to work together.   
+
+**Once you have agreed a project with a supervisor**, you will need to complete [this form](https://forms.office.com/e/dMycuMNQiz) by **13 NOVEMBER 2025, 13:00**.
 
 We will hold a **project matching session** in Week 7, where you can talk and discuss potential projects with your supervisor, but you can start talking to supervisors from the start of TB1.
 
