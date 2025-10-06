@@ -26,8 +26,8 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-|  24/09/25 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |  [slides](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/intro_25-26.pdf?csf=1&web=1&e=zDqd3A)   |
-|  01/10/25	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |           |
+|  24/09/25 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |  [slides](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/intro_25-26.pdf?csf=1&web=1&e=zDqd3A), [recording](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/3a33d2f762254d73af87a72b911bb06f1d)   |
+|  01/10/25	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |     [recording](https://bristoluniversity.mediasite.com/Mediasite/Login/saml?ReturnUrl=%2fMediasite%2fMyMediasite%2fpresentations%2fe768f4c077824aa382d53b58b73358af1d)      |
 |  30/09/25 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
 | TBC	|*   	| Matching Day                                      | * 	      |                      |
 | 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  |  |
