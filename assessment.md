@@ -17,7 +17,7 @@ Table of contents
 
 # Assessment Information
 
-The **project deadline is 4th May 2026**. Submission consists of your dissertation (compulsory), code that you wrote (compulsory) and any other auxiliary material, and the submission is digital only.
+The **project deadline is 5th May 2026**. Submission consists of your dissertation (compulsory), code that you wrote (compulsory) and any other auxiliary material, and the submission is digital only.
 
 **Only the dissertation and viva are marked**, so you may have completed an amazing project, but with a poor dissertation you can still fail the project - so make sure you start writing early, get feedback from your supervisor and leave enough time to focus on writing up the evaluation and conclusion.
 
