@@ -24,9 +24,9 @@ in Year 4.
 
 Importantly, you should plan for at least 1 week of *disruptions* which could be illnesses, job interviews, computer issues, etc.
 
-# Minimum Viable Product
+# Minimum Viable Project
 
-When planning your project you should define a minimum viable product (MVP).
+When planning your project you should define a minimum viable project (MVP).
 This should be enough to pass the unit that you will be able to **complete
 after around half of your alotted time** and should be discussed with your
 supervisor when confirming your project.
