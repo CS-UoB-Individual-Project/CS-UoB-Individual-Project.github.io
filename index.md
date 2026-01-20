@@ -30,7 +30,7 @@ The projects unit will run in three phases:
 |  01/10/25	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |     [recording](https://bristoluniversity.mediasite.com/Mediasite/Login/saml?ReturnUrl=%2fMediasite%2fMyMediasite%2fpresentations%2fe768f4c077824aa382d53b58b73358af1d)      |
 |  30/09/25 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
 | TBC	|*   	| Matching Day                                      | * 	      |                      |
-| 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  | [recording](https://mediasite.bris.ac.uk/Mediasite/Play/88e6a745237245b48e778655fda7d8a01d) |
+| 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  | [slides](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/kick-off_25-26_slides.pdf?csf=1&web=1&e=zDqd3A),[slides 6up](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/kick-off_25-26_slides_6up.pdf?csf=1&web=1&e=zDqd3A),[recording](https://mediasite.bris.ac.uk/Mediasite/Play/88e6a745237245b48e778655fda7d8a01d) |
 | 22/01/26  |13:00    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
 | 26/01/26  |9:00   	| Projects Q&A                   |  Pugsley Lecture Theatre	  |  |
 | TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
