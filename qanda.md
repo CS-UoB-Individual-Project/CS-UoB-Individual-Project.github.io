@@ -160,8 +160,8 @@ This is very hard - instead, if you need something, contact [Shawn, Andrew and S
 ### It's too late, I already spent money on my project - what do I do?
 Email [Shawn, Andrew and Sarah](/contact) and do not spend any more money on it!
 
-### How do I apply to use Blue Crystal?
-See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Crystal section - the short answer is email [Shawn, Andrew and Sarah](/contact) 
+### How do I apply to use Blue Pebble?
+See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Pebble section - the short answer is email [Shawn, Andrew and Sarah](/contact) 
 
 # TB1
 ### Is it up to us to download and prepare any code frameworks required for our dissertation before TB2, or will our supervisors provide additional help in some way?

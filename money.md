@@ -66,7 +66,7 @@ For example, if you want us to buy you a website address, tell us why you can't 
 Please note: We will monitor your useage, so if you look like you will be spending more than we can afford, we will warn you, and you might have the service capped or stopped if you are spending too much.  
 
 
-## Access Blue Crystal
+## Access Blue Pebble
 If you need to use the High Performance Computer,  email [Shawn, Andrew and Sarah](/contact).
 
 
