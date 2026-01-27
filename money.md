@@ -30,6 +30,7 @@ this allows you to ask for support and/or how to purchase/borrow
 equipment/services that you might need.
 
 ## Use tools and equipment, including 3D printing and laser cutting
+
 The Hackspace and the General Engineering Lab in the Queen's Building have
 3D printers, laser cutters and other equipment you can use free of charge.  You
 can find all the details, including the online inductions you need to take
@@ -42,33 +43,49 @@ There can be queues for the 3D printers as they get very busy, especially around
 If your supervisor is an HCI academic, you might also be able to use equipment in the BIG Lab - talk to them about what is possible. 
 
 ## Borrow equipment
+
 If you want to borrow equipment for your project (including mobile phones,
-Arduinos, VR or AR equipment etc), email the [Engineering Technical Services Tech Hub](mailto:engf-tech-hub@bristol.ac.uk) or drop into the Teach Hub (as you walk into MVB from the main entrance, turn left immediately after you go through the main door). In your email, make sure you include which unit you're on, and the sorts of things you need.
+Arduinos, VR or AR equipment etc), email the **Faculty of Engineering Tech Hub**
+at [FSE-tech-hub@bristol.ac.uk](mailto:FSE-tech-hub@bristol.ac.uk) or drop into the
+Tech Hub (as you walk into MVB from the main entrance, turn left immediately after
+you go through the main door).
+
+In your email, make sure you include which unit you're on, and the sorts of things
+you need.
 
 ## Buy equipment you can't borrow
-If you want to use that you can't borrow as we don't have it in stock, or that
-would be too difficult to return after the end of your project (for example,
-you are building something that needs circuit boards, wires, connections etc
-etc), talk to your supervisor, and when they've agreed you need it, email [Shawn, Andrew
-and Sarah](/contact) with what you need, why you need it, and include a link to
-what you need. 
+
+If you want to use equipment that you can't borrow because it is not held in
+stock, or that would be too difficult to return after the end of your project
+(for example, you are building something that needs circuit boards, wires,
+connections etc), there is a dedicated procurement process you must follow.
+
+You can find full details, including a downloadable form and an automated
+approval process, on the Engineering Technical Services Blackboard page under
+**“Requesting Items for your Project (Procurement)”**, or via the direct link:
+
+https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8244339_1&course_id=_238502_1&courseTocLabel=Engineering%20Student%20Project%20Procurement
+
+You should discuss your requirements with your supervisor before submitting a
+request.
 
 ## Access online services/APIs
-If you need online services (for example, a Google Development Account, an
-Amazon Web Services cloud account, or a dynamic IP website address), access to
-APIs (for example, OpenAI) we can usually pay for that for you.  We would not
-set up your own Open AI account, but we can add students to one of our teams.
-Talk to your supervisor and then email [Shawn, Andrew and Sarah](/contact) with what you
-need, why you need it, and include a link to what you need.  
 
-For example, if you want us to buy you a website address, tell us why you can't use a free website address (eg you need a dynamic IP for scam-baiting), and the address you want, with a link/screenshot to show us where we can buy it from, and the price.  
+If you need access to online services (for example, cloud computing platforms,
+development accounts, APIs such as OpenAI, or other digital resources), there is
+a dedicated automated process for requesting these.
 
-Please note: We will monitor your useage, so if you look like you will be spending more than we can afford, we will warn you, and you might have the service capped or stopped if you are spending too much.  
+Details can be found on the **“Cloud Services & Digital Resources”** Blackboard
+page, accessible from the main Engineering Technical Services Blackboard page or
+directly via:
 
+https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_9948566_1&course_id=_238502_1&mode=reset
+
+Please note: We will monitor usage. If your usage appears likely to exceed what
+we can afford, we will contact you in advance and may need to cap or stop the
+service.
 
 ## Access Blue Pebble
-If you need to use the High Performance Computer,  email [Shawn, Andrew and Sarah](/contact).
 
-
-
-
+If you need to use the High Performance Computer, email
+[Shawn, Andrew and Sarah](/contact).
