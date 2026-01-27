@@ -32,7 +32,7 @@ The projects unit will run in three phases:
 | TBC	|*   	| Matching Day                                      | * 	      |                      |
 | 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  | [slides](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/kick-off_25-26_slides.pdf?csf=1&web=1&e=zDqd3A),[slides 6up](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/kick-off_25-26_slides_6up.pdf?csf=1&web=1&e=zDqd3A),[recording](https://mediasite.bris.ac.uk/Mediasite/Play/88e6a745237245b48e778655fda7d8a01d) |
 | 22/01/26  |13:00    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
-| 26/01/26  |9:00   	| Projects Q&A                   |  Pugsley Lecture Theatre	  |  |
+| 26/01/26  |9:00   	| Projects Q&A                   |  Pugsley Lecture Theatre	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/qi24721_bristol_ac_uk/IQB0qgrjyJYQRLAdhK52V6EhAfjyukxU7Xf345F9VuP-A5I?e=19BFXd),[recording](https://mediasite.bris.ac.uk/Mediasite/Play/d107da865bee406b9502d40c7ae2854e1d) |
 | TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
 | TBC | * | Testathon                                        | *   |         | 
 | 02/03/26	| 15:00   	| Project Writing Retreat 	                        | Queens Building 1.07    |                      |
