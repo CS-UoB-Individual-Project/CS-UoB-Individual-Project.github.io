@@ -61,10 +61,10 @@ stock, or that would be too difficult to return after the end of your project
 connections etc), there is a dedicated procurement process you must follow.
 
 You can find full details, including a downloadable form and an automated
-approval process, on the Engineering Technical Services Blackboard page under
-**“Requesting Items for your Project (Procurement)”**, or via the direct link:
+approval process, on the Engineering Technical Services [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8244339_1&course_id=_238502_1&courseTocLabel=Engineering%20Student%20Project%20Procurement
+) under
+**“Requesting Items for your Project (Procurement)”**.
 
-https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_8244339_1&course_id=_238502_1&courseTocLabel=Engineering%20Student%20Project%20Procurement
 
 You should discuss your requirements with your supervisor before submitting a
 request.
@@ -76,10 +76,8 @@ development accounts, APIs such as OpenAI, or other digital resources), there is
 a dedicated automated process for requesting these.
 
 Details can be found on the **“Cloud Services & Digital Resources”** Blackboard
-page, accessible from the main Engineering Technical Services Blackboard page or
-directly via:
-
-https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_9948566_1&course_id=_238502_1&mode=reset
+page, accessible from the main Engineering Technical Services [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_9948566_1&course_id=_238502_1&mode=reset
+).
 
 Please note: We will monitor usage. If your usage appears likely to exceed what
 we can afford, we will contact you in advance and may need to cap or stop the
