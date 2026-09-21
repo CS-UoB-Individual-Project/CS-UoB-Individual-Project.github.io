@@ -26,22 +26,16 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-|  24/09/25 |10:00    	| Project Introduction    | Pugsley Lecture Theatre	          |  [slides](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/intro_25-26.pdf?csf=1&web=1&e=zDqd3A), [recording](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/3a33d2f762254d73af87a72b911bb06f1d)   |
-|  01/10/25	|10:00   	  | Projects Q&A                  | Pugsley Lecture Theatre |     [recording](https://bristoluniversity.mediasite.com/Mediasite/Login/saml?ReturnUrl=%2fMediasite%2fMyMediasite%2fpresentations%2fe768f4c077824aa382d53b58b73358af1d)      |
-|  30/09/25 |11:00   	  | Projects spreadsheet released       	            |                        |                      |
-| TBC	|*   	| Matching Day                                      | * 	      |                      |
-| 19/01/26	|9:00     	| TB2 Project Kick-off                              | Pugsley Lecture Theatre	  | [slides](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/kick-off_25-26_slides.pdf?csf=1&web=1&e=zDqd3A),[slides 6up](https://uob.sharepoint.com/:b:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/kick-off_25-26_slides_6up.pdf?csf=1&web=1&e=zDqd3A),[recording](https://mediasite.bris.ac.uk/Mediasite/Play/88e6a745237245b48e778655fda7d8a01d) |
-| 22/01/26  |13:00    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
-| 26/01/26  |9:00   	| Projects Q&A                   |  Pugsley Lecture Theatre	  | [slides](https://uob-my.sharepoint.com/:p:/g/personal/qi24721_bristol_ac_uk/IQB0qgrjyJYQRLAdhK52V6EhAfjyukxU7Xf345F9VuP-A5I?e=19BFXd),[recording](https://mediasite.bris.ac.uk/Mediasite/Play/d107da865bee406b9502d40c7ae2854e1d) |
+|  21/09/26 |16:00    	| Project Introduction    | Chemistry LT2	          |  [slides to appear], [recording to appear]   |
+|  TBC	|TBC   	  | Projects Q&A                  | TBC |          |
+|  TBC | TBC   	  | Projects spreadsheet released       	            |                        |                      |
+| TBC	|TBC   	| Matching Day                                      |  	      |                      |
+| 18/01/26	|14:00     	| TB2 Project Kick-off                              | St Michaels Hill 31-37 A1.4	  | [slides],[recording] |
+| TBC  |TBC    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
+| TBC  |TBC   	| Projects Q&A                   |  TBC	  | [slides] |
 | TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
-| TBC | * | Testathon                                        | *   |         | 
-| 02/03/26	| 15:00   	| Project Writing Retreat 	                        | Queens Building 1.07    |                      |
-| 09/03/26 	| 15:00 	| Project Poster Workshop 	                        | Queens Building 1.07    |                      |
-| TBC | * | Testathon                                         | *     |         | 
-| TBC	        | *         | CALD Writing Workshops  	                        | *              	      |                      |
-| 20/04/26	| 15:00   	| Project Writing Retreat 	                        | Queen's Building 1.07  |                      |
-|  TBC	   	| *         | CALD Writing Workshops  	                        |  *            	      |                      |
-| 15/04/26	| 14:30   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
+| TBC	        | TBC         | CALD Writing Workshops  	                        |               	      |  |
+| TBC	| TBC   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 
@@ -50,26 +44,33 @@ The projects unit will run in three phases:
 
 | **Deadline**                                  	| **Date**   	          | **Time** 	|
 |---------------------------------------------------|-------------------------|-------------|
-| **All students** Supervisor confirmation 	        |  13/11/25	              | 13:00    	|
+| **All students** Supervisor confirmation 	        |  12/11/26	              | 13:00    	|
 | **All students** Ethics quiz completed | TB2 (TBC) | 13:00 |
 | **CS+Maths 4th Year** Presentation 	            |  Week 17 (TBC)               |     |
-| **CS 4th Year** Innovation Case               	|  19/02/26               | 13:00    	|
-| **All students** Dissertation Deadline            |  05/05/26               | 13:00	    |
-| **All students** Viva Dates                       |  19/05/25 & 20/05/25    | TBC    	    |
+| **CS 4th Year** Innovation Case               	|  TBC               | TBC    	|
+| **All students** Dissertation Deadline            |  TBC               | 13:00	    |
+| **All students** Viva Dates                       |  TBC    | TBC    	    |
 
 `**` Viva times will be individual per student and confirmed in TB2.
 
 
 ## Viva Dates
 
+To appear
+<!--
 Most vivas will be held on the 19th and 20th May 2026 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 4th April to 22nd May 2026**.
 
 Note that vivas are being planned to be **in-person**.
+-->
 
 ## Projects list
+
+To appear
+<!--
 The list of Projects is [here](https://uob.sharepoint.com/:x:/t/grp-2025-6IndividualProjects_ojufi7-StaffRoom/ETFY0C4wYLlFoH8kwhoooFUBCahjihovB4RZ3E2KHyexVg?e=Awdq2a)
 
 Once you have agreed a project with your supervisor, you must complete [this form](https://forms.office.com/e/dMycuMNQiz) by **13 NOVEMBER 2025, 13:00**.
+-->
 
 ## Principles and Independent Learning Objectives (ILOs)
 
@@ -86,11 +87,15 @@ You should bear in mind the following three principles whilst completing your pr
 
 ## Teams Channel
 
+To appear
+<!--
 You can find a link to the teams channel for the unit
-[here](https://teams.microsoft.com/l/channel/19%3AJVSr6iujdlGiNDh13XWFaHvzyk4zzx81_0Wf2rkcQtA1%40thread.tacv2/General?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  
-
+[here].  
+-->
+<!--
 * The [General channel](https://teams.microsoft.com/l/channel/19%3AJVSr6iujdlGiNDh13XWFaHvzyk4zzx81_0Wf2rkcQtA1%40thread.tacv2/General?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) will have announcements and communications about the unit
 * The [Project Q and A Channel](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) is where you can ask questions
 * The [Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=nCq6b6) section of the General Channel has poster templates and examples of projects and posters from previous years.
 
 If you don't have access, [contact Shawn, Andrew and Sarah](/contact).
+-->
