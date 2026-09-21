@@ -32,7 +32,6 @@ The projects unit will run in three phases:
 | TBC	|TBC   	| Matching Day                                      |  	      |                      |
 | 18/01/26	|14:00     	| TB2 Project Kick-off                              | St Michaels Hill 31-37 A1.4	  | [slides],[recording] |
 | TBC  |TBC    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
-| TBC  |TBC   	| Projects Q&A                   |  TBC	  | [slides] |
 | TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
 | TBC	        | TBC         | CALD Writing Workshops  	                        |               	      |  |
 | TBC	| TBC   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
