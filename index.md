@@ -57,20 +57,11 @@ The projects unit will run in three phases:
 ## Viva Dates
 
 To appear
-<!--
-Most vivas will be held on the 19th and 20th May 2026 in Bristol. Treat these dates as an exam, i.e. you should be free for these dates.  Because of staff availability, a small number of vivas will be held outside these dates, so **you MUST be in Bristol for the full summer assessment period, 4th April to 22nd May 2026**.
-
-Note that vivas are being planned to be **in-person**.
--->
 
 ## Projects list
 
 To appear
-<!--
-The list of Projects is [here](https://uob.sharepoint.com/:x:/t/grp-2025-6IndividualProjects_ojufi7-StaffRoom/ETFY0C4wYLlFoH8kwhoooFUBCahjihovB4RZ3E2KHyexVg?e=Awdq2a)
 
-Once you have agreed a project with your supervisor, you must complete [this form](https://forms.office.com/e/dMycuMNQiz) by **13 NOVEMBER 2025, 13:00**.
--->
 
 ## Principles and Independent Learning Objectives (ILOs)
 
@@ -88,14 +79,4 @@ You should bear in mind the following three principles whilst completing your pr
 ## Teams Channel
 
 To appear
-<!--
-You can find a link to the teams channel for the unit
-[here].  
--->
-<!--
-* The [General channel](https://teams.microsoft.com/l/channel/19%3AJVSr6iujdlGiNDh13XWFaHvzyk4zzx81_0Wf2rkcQtA1%40thread.tacv2/General?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) will have announcements and communications about the unit
-* The [Project Q and A Channel](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) is where you can ask questions
-* The [Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=nCq6b6) section of the General Channel has poster templates and examples of projects and posters from previous years.
 
-If you don't have access, [contact Shawn, Andrew and Sarah](/contact).
--->
