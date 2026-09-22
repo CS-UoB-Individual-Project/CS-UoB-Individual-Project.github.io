@@ -26,7 +26,7 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-|  21/09/26 |16:00    	| Project Introduction    | Chemistry LT2	          |  [slides](https://uob.sharepoint.com/:b:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/CS_Ind_Project_Intro_26-27.pdf?d=wff3ce5538f4e4a8bbeb5fe67f4553a72&csf=1&web=1&e=lM9Nls), [recording to appear]   |
+|  21/09/26 |16:00    	| Project Introduction    | Chemistry LT2	          |  <a href="https://uob.sharepoint.com/:b:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/CS_Ind_Project_Intro_26-27.pdf?d=wff3ce5538f4e4a8bbeb5fe67f4553a72&csf=1&web=1&e=lM9Nls)" target="_blank">Slides</a>,  [recording to appear]   |
 |  TBC	|TBC   	  | Projects Q&A                  | TBC |          |
 |  TBC | TBC   	  | Projects spreadsheet released       	            |                        |                      |
 | TBC	|TBC   	| Matching Day                                      |  	      |                      |
