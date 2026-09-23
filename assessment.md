@@ -17,7 +17,7 @@ Table of contents
 
 # Assessment Information
 
-The **deadline for the submission of your project will be in May 2027 - the date and time will be sent to you in good time and it will appear here**. Submission consists of your dissertation (compulsory), code that you wrote (compulsory) and any other auxiliary material, and the submission is digital only.
+The **deadline for the submission of your project will be in May 2027. The date and time will be sent to you in good time and it will appear here**. Submission consists of your dissertation (compulsory), code that you wrote (compulsory) and any other auxiliary material, and the submission is digital only.
 
 **Only the dissertation and viva are marked**, so you may have completed an amazing project, but with a poor dissertation you can still fail the project - so make sure you start writing early, get feedback from your supervisor and leave enough time to focus on writing up the evaluation and conclusion.
 
