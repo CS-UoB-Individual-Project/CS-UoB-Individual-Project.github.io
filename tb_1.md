@@ -53,7 +53,7 @@ Some of the supervisors on the list will have already taught you, but most of th
 
 If you're not sure what kind of Project to choose, reach out to your personal tutor as soon as possible.  
 
-If you still need help after talking to your tutor, [contact Shawn, Andrew and Sarah](/contact).
+If you still need help after talking to your tutor, [contact the project Unit Director](/contact).
 
 
 ## Confirming a Project
