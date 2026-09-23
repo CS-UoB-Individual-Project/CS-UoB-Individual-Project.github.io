@@ -30,25 +30,12 @@ uncertainty.
 
 Apart from that, everything is the same - it's the same marking scheme, and you
 can choose from the same projects list - you'll just be completing less work.
-There are examples of 20 credit projects in the [unit Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=s4hyuU](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=m8aRBm))
-in 3 folders divided by grades the students achieved - *look for the ones with
-names starting with COMS30044*. You can also look at the 40 credit projects to
-get inspiration, but bear in mind you are not expected to do this much work!
-
-# COMSM0142: Individual Project with Presentation
-
-Because the number of students who take this unit is small, there are not many
-examples of these projects in the [Class Materials
-folders](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General/Participant%20information%20and%20permission%20templates?csf=1&web=1&e=m8aRBm).
-However, the COMSM0052 projects are the Computer Science MEng students, and are
-equivalent amounts of work.  
 
 ## Taking your project across TB4
 Because of the different Maths unit options, some M&CS students will take your
 projects across Teaching Block 4 (across the full year - TB1+TB2=TB4). If you
 want to do this, you will need to:
 
-* [email Shawn, Andrew and Sarah](/contact) so we are aware.
 * Make sure potential supervisors are aware you are talking the project as TB4, so you will need to start your supervision in TB1.
 * Get your project agreed with a supervisor in the first few weeks, so you can start work before Week 6 Reading Week.
 * Make a strong project plan including working in TB1 (for example, if you are not taking any TB1 CS coursework units, you should plan to do significant work on your project in Weeks 9-11).
