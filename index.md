@@ -26,15 +26,14 @@ The projects unit will run in three phases:
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
-|  21/09/26 |16:00    	| Project Introduction    | Chemistry LT2	          |  <a href="https://uob.sharepoint.com/:b:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/CS_Ind_Project_Intro_26-27.pdf?d=wff3ce5538f4e4a8bbeb5fe67f4553a72&csf=1&web=1&e=lM9Nls)" target="_blank">Slides</a>,  [recording to appear]   |
+|  21/09/26 |16:00    	| Project Introduction    | Chemistry LT2	          |  <a href="https://uob.sharepoint.com/:b:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/CS_Ind_Project_Intro_26-27.pdf?d=wff3ce5538f4e4a8bbeb5fe67f4553a72&csf=1&web=1&e=lM9Nls)" target="_blank">Slides</a>,  <a href="https://mediasite.bris.ac.uk/Mediasite/Play/57f16348f7cb4b16bf575656e9ed304d1d" target="_blank">Recording</a>    |
 |  TBC	|TBC   	  | Projects Q&A                  | TBC |          |
-|  TBC | TBC   	  | Projects spreadsheet released       	            |                        |                      |
-| TBC	|TBC   	| Matching Day                                      |  	      |                      |
-| 18/01/26	|14:00     	| TB2 Project Kick-off                              | St Michaels Hill 31-37 A1.4	  | [slides],[recording] |
+|  Week 3 |    	  | List of supervisors and projects released       	            |                        |                      |
+| 18/01/26	|14:00     	| TB2 Project Kick-off                              | St Michaels Hill 31-37 A1.4	  | |
 | TBC  |TBC    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
 | TBC  | online  	| Ethics Lecture          	                        | Online Lecture          |  |
 | TBC	        | TBC         | CALD Writing Workshops  	                        |               	      |  |
-| TBC	| TBC   	| Poster Day 	                                    | Bill Brown Suite     	  |                      |
+| TBC	| TBC   	| Poster Day 	                                    | TBC     	  |                      |
 
 
 `*` CALD Writing Workshops will be added to your timetable. 
@@ -47,7 +46,7 @@ The projects unit will run in three phases:
 | **All students** Ethics quiz completed | TB2 (TBC) | 13:00 |
 | **CS+Maths 4th Year** Presentation 	            |  Week 17 (TBC)               |     |
 | **CS 4th Year** Innovation Case               	|  TBC               | TBC    	|
-| **All students** Dissertation Deadline            |  TBC               | 13:00	    |
+| **All students** Dissertation Deadline            |  TBC               | 	    |
 | **All students** Viva Dates                       |  TBC    | TBC    	    |
 
 `**` Viva times will be individual per student and confirmed in TB2.
