@@ -22,7 +22,7 @@ The projects unit will run in three phases:
 * **Summer Assessment Period** We will assess your project by reading the dissertation and holding an oral exam (viva).
 
 
-## Schedule, Videos and Materials
+## Schedule and Materials
 
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
