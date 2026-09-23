@@ -55,12 +55,7 @@ your project, because this is the primary information your markers have.
 
 We strongly recommend you start writing as early as possible. One of your first
 project tasks should be to set up your dissertation template and think about
-how to structure your report. We have examples of previous projects in
-the [Projects
-Team filestore]([https://uob.sharepoint.com/:f:/r/teams/grp-2024-5IndividualProjects2/Shared%20Documents/General?csf=1&web=1&e=iPuTMH](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=HJjmhi))
-which you can use for inspiration (each example starts with the unit code -
-note that COMS30044 is the 20 credit Maths & CS project worht half of the other
-units).
+how to structure your report. Examples of previous projects will appear here soon.
 
 We recommend you show your initial structure to your supervisor they can give
 you tips on what they would expect. Make the template a living document,
