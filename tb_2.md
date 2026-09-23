@@ -59,11 +59,11 @@ You have been randomly allocated to sessions in Weeks 21 and 23 and we recommend
 
 We will send you more information nearer the time. 
 
-### Project Poster Day - date TBC
+### Project Poster Day
 This is a chance to meet your Second Marker for the first time, talk to them about your project, typically using a short slide show or physical poster, and ask them what they expect to see in a project like yours. It's also a chance to talk to other academics, students and guests about your project, and get valuable feedback you can use to make your dissertation even better, as well as see what other students have been working on.
 
 Poster Day is optional, but we **strongly recommend you attend**, as it's a chance to integrate outside feedback into your project to show off the incredible work that you have been doing. 
 
 We will send you details of who your second marker is a few weeks before so you can arrange a time to meet them.  Please note: if you do not attend Poster Day, your second marker is not obliged to meet you at another time; if they will be away from work that day, they will arrange a different time to meet you. 
 
-Further details will be sent out in TB2.
+Further details including the date will be sent out in TB2.
