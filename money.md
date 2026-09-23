@@ -83,7 +83,6 @@ Please note: We will monitor usage. If your usage appears likely to exceed what
 we can afford, we will contact you in advance and may need to cap or stop the
 service.
 
-## Access Blue Pebble
+## High Performance Computing
 
-If you need to use the High Performance Computer, email
-[Shawn, Andrew and Sarah](/contact).
+If you need to use the University High Performance Computer, talk to your supervisor.
