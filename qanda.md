@@ -15,12 +15,6 @@ Table of contents
 </details>
 
 
-# Individual Project Questions & Answers
-
-# Where to ask questions
-
-**The first and fastest place to ask questions and to see if your question has already been answered is the [Q and A channel in the Projects Team](https://teams.microsoft.com/l/channel/19%3A6dad55759f244b258c80536771ee9401%40thread.tacv2/Project%20Q%20and%20A?groupId=2afc7cab-8743-48ed-aaaa-b0d542d2bb68&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b), where Shawn, Andrew and Sarah will be replying as quickly as we can.  We will periodically add answers here throughout the year.**
-
 # Project choice
 ### When do I have to have decided a supervisor by?
 You must have agreed with your supervisor that they will supervise your project and completed the projects form by the end of Week 8.  There is more information about the process on the [Finding a Project page](/tb1).
@@ -29,7 +23,7 @@ You must have agreed with your supervisor that they will supervise your project 
 Any of them! The most important thing in picking projects is you pick a topic you enjoy, because it will be a lot easier to do 15 weeks of intensive work and stay focused on a subject you're interested in. There are sometimes rumours that particular topics are easier or harder to get good marks in, but this is not the case - every year the highest marked projects are in different subjects.  Of course it's better to pick a subject you are doing well in and understand, but choose something you genuinely want to research.
 
 ### Can I make my own project topic?
-Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [Shawn, Andrew and Sarah](/contact) who will help you identify possible supervisors.
+Yes, you can approach supervisors with a concrete proposal or with the beginnings of an idea that they can help make into a proposal.  You can either approach staff you already know, find staff from the spreadsheet, or contact [the Unit Director](/contact) who will help you identify possible supervisors.
 
 ### I want to do a project that crosses disciplines - is this possible?
 Yes, you can have two Supervisors in different disciplines, as long as one is in Computer Science, and they both agree.
@@ -38,7 +32,7 @@ Yes, you can have two Supervisors in different disciplines, as long as one is in
 Yes, as long as you make it very clear in the dissertation what work was done before the project started, because you won't get marked on previously completed work, just the work that you did during TB2.
 
 ### I'm struggling to choose a project, what do I do?
-Talk to your personal tutor in the first instance - or if they can't help you, reach out to [Shawn, Andrew and Sarah](/contact).
+Talk to your personal tutor in the first instance - or if they can't help you, reach out to [the Unit Director](/contact).
 
 ### I'm really excited about my project - can I start work on it now?
 We don't recommend it, as you'll have a lot of work on your TB1 units.  You can take notes and read around it (taking notes as you go) but don't plan on starting proper work on it until the beginning of TB2.
@@ -86,12 +80,12 @@ All of them, if you like!  There's no limit!
 Yes:  N/A means the supervisor is volunteering to supervise, so may say no - ask them anyway because they may take you on.
 
 ### Can I have a supervisor from outside Computer Science?
-Yes, they can be your Second Supervisor, but you will need a Supervisor from within CS as well.  If you're not sure who to approach, come and talk to [Shawn, Andrew and Sarah](/contact).
+Yes, they can be your Second Supervisor, but you will need a Supervisor from within CS as well.  If you're not sure who to approach, come and talk to [the Unit Director](/contact).
 
 ### How should I approach a supervisor?
 Email them with a brief introduction of why you're interested in working with them/on their project and about you - what you're interested in, and if you've taken classes with them.  Ask if they can meet you, and give them some ideas of days and times you're free.
 
-Try to sound interested in their work.  If they don't respond in a few working days, send a reminder - and if they don't reply to the reminder in 3 working days, [contact Shawn, Andrew and Sarah](/contact).
+Try to sound interested in their work.  If they don't respond in a few working days, send a reminder - and if they don't reply to the reminder in 3 working days, [contact the Unit Director](/contact).
 
 ### How do I tell a supervisor I approached that I want to work with someone else?
 Just send them an email along the lines of "Thanks for your time and the discussion we had, but I've chosen to work on a different project?".  Supervisors won't mind at all about this - we're used to it, and what we really want is for students to find the project that suits them most.  
@@ -100,15 +94,15 @@ Just send them an email along the lines of "Thanks for your time and the discuss
 Each year supervisors are allotted a certain number of projects that thy have to supervise. Most supervisors will refuse to take on any more students if they have already filled up their allotment - which they are perfectly allowed to do.
 
 ### The supervisor I want to work with has no more slots left - what should I do?
-On the projects spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [Shawn, Andrew and Sarah](/contact).
+On the projects spreadsheet there is a tab with staff's supervision interests - look to see who else works in the areas you're interested in, and ask them.  If you want advice on who else you can approach, ask your personal tutor and if they can't help, ask [the Unit Director](/contact).
 
 ### There are no supervisors interested in working in the area I'm interested in
-The list of areas is not exhaustive, and we can usually help you find supervisors for most interests.  Talk to your personal tutor or [Shawn, Andrew and Sarah](/contact).
+The list of areas is not exhaustive, and we can usually help you find supervisors for most interests.  Talk to your personal tutor or [the Unit Director](/contact).
 
 ## Contacting your supervisor
 
 ### I can't contact or meet my supervisor
-Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, email [Shawn, Andrew and Sarah](/contact).
+Please wait 3 working days after sending an email to your supervisor before sending another email. If after another 3 working days you have had no reply, email [the Unit Director](/contact).
 
 # Project Execution
 
@@ -155,13 +149,13 @@ We've got examples of the 20c projects in the unit Team - go to the top of the g
 **See [the Accessing Equipment/Software page](/money) for more information.** 
 
 ### If I buy something I need for my project, can I get reimbursed?
-This is very hard - instead, if you need something, contact [Shawn, Andrew and Sarah](/contact) with what you need and why you need it, and ideally links to what you need, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
+This is very hard - instead, if you need something, contact [the Unit Director](/contact) with what you need and why you need it, and ideally links to what you need, as we have a budget we can use to buy equipment and software for you.  You should not have to spend your own money on the project.
 
 ### It's too late, I already spent money on my project - what do I do?
-Email [Shawn, Andrew and Sarah](/contact) and do not spend any more money on it!
+Email [the Unit Director](/contact) and do not spend any more money on it!
 
 ### How do I apply to use Blue Pebble?
-See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Pebble section - the short answer is email [Shawn, Andrew and Sarah](/contact) 
+See [the Accessing Equipment/Software page](/money) and scroll down to the Blue Pebble section - the short answer is email [the Unit Director](/contact) 
 
 # TB1
 ### Is it up to us to download and prepare any code frameworks required for our dissertation before TB2, or will our supervisors provide additional help in some way?
@@ -183,10 +177,10 @@ For these projects, nothing! They're different words to describe the same thing.
 Dissertation lengths can vary depending on topic and project type. There are no hard minimum or maximum lengths for the dissertation, but we would be surprised if a dissertation is less than 25 pages or longer than 50 pages - this does not include front matter and back matter (i.e. table of contents, bibliography, appendices, etc.). Note that this is different for 3rd year Maths and CS students doing the 20CP unit COMS30044.
 
 ### How should I structure my dissertation?
-There's a dissertation template in the [Dissertation Templates Section](/writing/#dissertation-templates) which lays out the standard format, with details of what to put in each section.  Start here, and ask your supervisor what they would expect to see in a dissertation in your area.
+There's a dissertation template in the [Writing Your Dissertation page](/writing) which lays out the standard format, with details of what to put in each section.  Start here, and ask your supervisor what they would expect to see in a dissertation in your area.
 
 ### Is there a specific template I should use?
-Yes, use the templates provided (LaTeX and word) in the [Dissertation Templates Section](/writing/#dissertation-templates).
+Yes, use the templates provided (LaTeX and word) in the [Writing Your Dissertation page](/writing).
 
 ### Do I have to use LaTeX to write my dissertataion?
 No, but talk to your supervisor about this as there may be field-specific norms you should use.
@@ -218,7 +212,7 @@ It's usually 2-3 pages, but talk to your supervisor.  Remember to give them time
 Figures in the main body of the dissertation are included in the page count, but you can also include more in the Appendices, which are not included in the page count.  Talk to your supervisor about what's best for your project.
 
 ### Can I use AI/Large Language Models/Translation software?
-Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity) as this has everything you need.  if you're not sure you understand it, talk to your supervisor, and if they can't help, email [Shawn, Andrew and Sarah](/contact).
+Please make sure you read and understand all the linked information on the [Academic Integrity and Plagiarism page](/academic_integrity) as this has everything you need.  if you're not sure you understand it, talk to your supervisor, and if they can't help, email [the Unit Director](/contact).
 
 ### Can I use AI to define terms/help me understand topics?
 Yes you can, as long as this is cited within the AI usage appendix. Note that it is probably better to google, or ask your supervisor as AI still hallucinates a lot. You will be questioned about key topics within your viva so you need to know these correctly.
@@ -292,23 +286,6 @@ This is a chance to meet your Second Marker for the first time, talk to them abo
 ### Is Poster Day mandatory?
 No, but we strongly encourage it! Students always say they get good feedback from it that helps them improve their dissertation.
 
-### Do you have examples of what posters are?
-Yes - some of the posters that won prizes last year are on the wall outside MVB 1.11/a, and there is a folder of posters in the [Projects Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkB)). 
-
-### I've never made a poster before - how do I start?
-Come to the Poster Workshop, and you can start with the templates in the [Projects Team filestore](https://uob.sharepoint.com/:f:/r/teams/grp-2025-6IndividualProjects_ojufi7/Shared%20Documents/General?csf=1&web=1&e=egNkBw).  
-
-### Do I have to pay to come to Poster Day?
-No, we will print your poster for you.  
-
-### Can I keep my poster?
-Yes, but if you leave Poster Day early, leave your poster up and you can collect it afterwards from the School Office.
-
-## Writing Retreats
-
-### What are the Writing Retreats?
-Optional sessions to do some writing in a quiet space with other people around you. Shawn, Andrew and Sarah will be there, writing our own work, with snacks for you, so you can ask us questions if you need to. 
-
 # Submitting your work
 ### When is the deadline for submitting my dissertation?
 It's the first Tuesday of the exam period:  **13:00, MTuesday 5th May 2026**.  If you want a reminder of all the dates, they are on the [Welcome page]{/index} of this website. 
@@ -348,7 +325,7 @@ No, we require that first markers are those within the School of Computer Scienc
 Normally, this will be the first supervisor, but it is up to your first and second supervisors to decide who will be the first marker. 
 
 ### How much help should my supervisor give me?
-We expect students to take ownership of their project and direct this, and the [mark scheme](https://cs-uob-individual-project.github.io/assessment#mark-scheme) even has sections discussing this (e.g. 60-69: Some self directed work with significant supervisor input). Supervisor input is when they take an active role throughout the project, asking them for guidance or to help when you are stuck is not significant input and should not be considered stopping you from getting an 80+, you supervisor is a resource for you to use to make your project even better!
+We expect students to take ownership of their project and direct this, and the [mark scheme](https://cs-uob-individual-project.github.io/assessment) even has sections discussing this (e.g. 60-69: Some self directed work with significant supervisor input). Supervisor input is when they take an active role throughout the project, asking them for guidance or to help when you are stuck is not significant input and should not be considered stopping you from getting an 80+, you supervisor is a resource for you to use to make your project even better!
 
 ## Second Marker
 
