@@ -17,7 +17,7 @@ Table of contents
 
 # Assessment Information
 
-The **project deadline is 5th May 2026**. Submission consists of your dissertation (compulsory), code that you wrote (compulsory) and any other auxiliary material, and the submission is digital only.
+The **deadline for the submission of your project will be in May 2027 - the date and time will be appear here**. Submission consists of your dissertation (compulsory), code that you wrote (compulsory) and any other auxiliary material, and the submission is digital only.
 
 **Only the dissertation and viva are marked**, so you may have completed an amazing project, but with a poor dissertation you can still fail the project - so make sure you start writing early, get feedback from your supervisor and leave enough time to focus on writing up the evaluation and conclusion.
 
@@ -40,7 +40,7 @@ In the (very) rare case that both markers cannot agree on a final mark, a third 
 
 The second marker will hold your viva which for all purposes is an oral exam.
 Vivas are **in-person** and **attendance is mandatory** - you will fail the unit if you are not present.
-Most vivas will be on 20th and 21st May 2026, but due to staff availability, some may be on different dates, so **you must be in Bristol for the full exam period (4th-22nd May 2026).**
+Vivas will take place in May 2027 and we will inform you of dates and times in good time during TB2. **Note that you must attend the viva in person**.
 
 The viva has several purposes:
 * To showcase parts of the project which cannot (easily) be incoporated into the dissertation.
