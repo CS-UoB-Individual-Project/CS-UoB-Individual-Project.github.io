@@ -71,8 +71,7 @@ You wouldn't be marked down for using AI tools - but **you would be marked down*
 Using, for example, ChatGPT to write your Contextual Background because it's faster and it is likely to be grammatically correct would not be a good reason - but using an AI tool to help bug-catch, as part of a suite of other bug-catching methods, or to speed up development so you can do more interesting experiments, which you explain in the AI declaration and appendix, would. 
 
 ## What counts as an AI tool?
-Anything that uses Large Language Models (LLMs for example ChatGPT, Claude, CoPilot, DeepL etc) or Generative AI (for example to create pictures, eg Midjourney, Dall-E etc). Given how fast the sector is moving, there are bound to be new examples appearing all year, so if you're uncertain if something counts, please [ask](https://teams.microsoft.com/l/channel/19%3A6b235ebe808045f48a94bc6ec96af495%40thread.tacv2/Project%20Q%20and%20A?groupId=a245af21-271c-4864-9c8c-2b642ac2bd05&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).
-
+Anything that uses Large Language Models (LLMs for example ChatGPT, Claude, CoPilot, DeepL etc) or Generative AI (for example to create pictures, eg Midjourney, Dall-E etc). Given how fast the sector is moving, there are bound to be new examples appearing all year, so if you're uncertain if something counts, please talk to your supervisor. 
 
 ## If you're using AI tools, you need to understand the risks: 
 
