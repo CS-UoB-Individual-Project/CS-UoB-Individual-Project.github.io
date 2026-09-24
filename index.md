@@ -14,6 +14,10 @@ Table of contents
 {:toc}
 </details>
 
+## Introduction
+
+These are the web pages for all CS individual project units: COMS30044, COMS30045, COMS30092, COMSM0052, COMSM0142 and COMSM0168.
+
 ## Timeline
 
 The projects unit will run in three phases:
