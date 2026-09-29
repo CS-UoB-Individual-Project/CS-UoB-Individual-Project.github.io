@@ -38,6 +38,9 @@ The following are good reasons to think carefully before committing to a project
 * The project is not within the supervisor's area of expertise so they won't be able to provide the best support.
 * The supervisor believes the project you want to work on is not feasible/has too much scope to fit within an individual project.
 
+## Example projects
+
+Examples of previous projects can be found <a href="https://uob.sharepoint.com/:f:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/past%20projects?d=w9d04e6b89faf41bd83bb9e14844d5754&csf=1&web=1&e=wAOoHo" target="_blank">here</a>. These are examples of projects that obtained good 2.1 class marks and above. They will give you some idea of the types of topics that can make good projects.
 
 ## Role of the Supervisor
 
