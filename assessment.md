@@ -51,7 +51,7 @@ The viva has several purposes:
 
 The viva will start with you giving a 5-10 minute overview of the project. Slides aren't necessary but can be helpful to remind you of what to say.
 
-# Mark Scheme
+## Mark Scheme
 
 The pass mark is 40 for BSc projects and 50 for MEng. 
 
@@ -66,13 +66,11 @@ These pillars don't represent individual marks that get aggregated, but are guid
 
 A pdf version of the mark scheme can be found at [this link](mark_scheme.pdf).
 
+## Example projects
 
-# Example Projects
+Examples of previous projects can be found <a href="https://uob.sharepoint.com/:f:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/past%20projects?d=w9d04e6b89faf41bd83bb9e14844d5754&csf=1&web=1&e=wAOoHo" target="_blank">here</a>. These are examples of projects that obtained good 2.1 class marks and above. They will give you some idea of the types of topics that can make good projects.
 
-A selection of projects from previous years covering a wide range of topics will appear here soon.
-
-
-# Assessment Support and Guidance
+## Assessment Support and Guidance
 
 * [Request a Coursework Extension](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/request-a-coursework-extension/)
 * [Exceptional Circumstances Guidance](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/exceptional-circumstances/)
