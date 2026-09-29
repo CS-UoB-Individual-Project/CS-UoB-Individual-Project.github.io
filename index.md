@@ -31,7 +31,7 @@ The projects unit will run in three phases:
 | **Date** 	| **Time** 	| **Title**                                 	    | **Location**   	      | **Slides/Recording** |
 |-----------|-----------|---------------------------------------------------|-------------------------|----------------------|
 |  21/09/26 |16:00    	| Project Introduction    | Chemistry LT2	          |  <a href="https://uob.sharepoint.com/:b:/r/teams/IndividualProjectTeachingUn_cac3415d-68d6-11f1-b738-9fdc1cebeef6/Class%20Materials/CS_Ind_Project_Intro_26-27.pdf?d=wff3ce5538f4e4a8bbeb5fe67f4553a72&csf=1&web=1&e=lM9Nls)" target="_blank">Slides</a>,  <a href="https://mediasite.bris.ac.uk/Mediasite/Play/57f16348f7cb4b16bf575656e9ed304d1d" target="_blank">Recording</a>    |
-|  TBC	|TBC   	  | Projects Q&A                  | TBC |          |
+|  28/09/26	|16:00   	  | Projects Q&A                  | Chemistry LT2 |          |
 |  Week 3 |    	  | List of supervisors and projects released       	            |                        |                      |
 | 18/01/26	|14:00     	| TB2 Project Kick-off                              | St Michaels Hill 31-37 A1.4	  | |
 | TBC  |TBC    	| Library Workshop        	                        | Pugsley Lecture Theatre    | |
@@ -80,5 +80,5 @@ You should bear in mind the following three principles whilst completing your pr
 
 ## Teams Channel
 
-To appear
+The Teams Channel for all individual projects can be found <a href="https://teams.microsoft.com/l/team/19%3AKwndV5knJ-tX6m4rjRUMciR0hzUMg4CyXWX0x_5fPHY1%40thread.tacv2/conversations?groupId=47a8224d-bef1-4a8c-8661-64236567c55a&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b" target="_blank">here</a>.
 
